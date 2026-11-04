@@ -1,0 +1,54 @@
+C:\Users\kaart\OneDrive\Desktop\College\Semester 4\IBS 2\Research Paper Work\run_gcatcmda_replica.py:94: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:837.)
+  a, p = ev(sp, S); res[key] = dict(auc=a, aupr=p, final_loss=float(loss), sec=time.perf_counter() - t0, edges_sim=[int(ed.shape[1]), int(em.shape[1])])
+perfold 42|0 AUC=0.5548 AUPR=0.6712 loss=2.004 sim_edges(d,m)=268,13718
+perfold 42|1 AUC=0.8403 AUPR=0.8077 loss=2.213 sim_edges(d,m)=138,14794
+perfold 42|2 AUC=0.5088 AUPR=0.6255 loss=2.034 sim_edges(d,m)=346,13942
+perfold 42|3 AUC=0.5670 AUPR=0.6660 loss=2.087 sim_edges(d,m)=286,14754
+perfold 42|4 AUC=0.4877 AUPR=0.6225 loss=2.035 sim_edges(d,m)=120,14152
+perfold 123|0 AUC=0.5643 AUPR=0.6049 loss=1.917 sim_edges(d,m)=262,14188
+perfold 123|1 AUC=0.4988 AUPR=0.6038 loss=1.947 sim_edges(d,m)=292,14754
+perfold 123|2 AUC=0.5141 AUPR=0.5492 loss=1.942 sim_edges(d,m)=262,15228
+perfold 123|3 AUC=0.6181 AUPR=0.6236 loss=2.037 sim_edges(d,m)=104,13836
+perfold 123|4 AUC=0.8162 AUPR=0.7847 loss=2.022 sim_edges(d,m)=178,14176
+perfold 456|0 AUC=0.6783 AUPR=0.6491 loss=2.014 sim_edges(d,m)=258,14502
+perfold 456|1 AUC=0.5475 AUPR=0.5799 loss=2.028 sim_edges(d,m)=148,13746
+perfold 456|2 AUC=0.6646 AUPR=0.6742 loss=2.015 sim_edges(d,m)=230,14562
+perfold 456|3 AUC=0.4622 AUPR=0.5648 loss=1.956 sim_edges(d,m)=110,14190
+perfold 456|4 AUC=0.5736 AUPR=0.6385 loss=1.965 sim_edges(d,m)=130,14516
+perfold 789|0 AUC=0.5756 AUPR=0.6068 loss=2.109 sim_edges(d,m)=250,14884
+perfold 789|1 AUC=0.7194 AUPR=0.7185 loss=2.063 sim_edges(d,m)=168,16298
+perfold 789|2 AUC=0.5067 AUPR=0.6062 loss=2.062 sim_edges(d,m)=284,14496
+perfold 789|3 AUC=0.5291 AUPR=0.6043 loss=2.038 sim_edges(d,m)=258,12888
+perfold 789|4 AUC=0.7172 AUPR=0.7168 loss=2.079 sim_edges(d,m)=120,13406
+perfold 2024|0 AUC=0.7299 AUPR=0.7249 loss=2.020 sim_edges(d,m)=124,15394
+perfold 2024|1 AUC=0.4417 AUPR=0.5446 loss=1.973 sim_edges(d,m)=276,13402
+perfold 2024|2 AUC=0.3978 AUPR=0.5491 loss=2.015 sim_edges(d,m)=196,14030
+perfold 2024|3 AUC=0.6814 AUPR=0.6560 loss=2.229 sim_edges(d,m)=248,14324
+perfold 2024|4 AUC=0.5730 AUPR=0.6747 loss=2.029 sim_edges(d,m)=282,14700
+perfold 11|0 AUC=0.4879 AUPR=0.5734 loss=1.935 sim_edges(d,m)=228,13864
+perfold 11|1 AUC=0.7172 AUPR=0.6346 loss=2.463 sim_edges(d,m)=82,15352
+perfold 11|2 AUC=0.6694 AUPR=0.6802 loss=1.962 sim_edges(d,m)=142,14734
+perfold 11|3 AUC=0.6123 AUPR=0.6600 loss=2.006 sim_edges(d,m)=252,12666
+perfold 11|4 AUC=0.5562 AUPR=0.6002 loss=1.957 sim_edges(d,m)=136,14828
+perfold 22|0 AUC=0.6280 AUPR=0.6495 loss=2.003 sim_edges(d,m)=330,14312
+perfold 22|1 AUC=0.5097 AUPR=0.6218 loss=1.946 sim_edges(d,m)=318,15030
+perfold 22|2 AUC=0.6969 AUPR=0.7351 loss=1.987 sim_edges(d,m)=124,13990
+perfold 22|3 AUC=0.6554 AUPR=0.6289 loss=1.944 sim_edges(d,m)=234,13708
+perfold 22|4 AUC=0.6256 AUPR=0.6509 loss=2.050 sim_edges(d,m)=120,14466
+perfold 33|0 AUC=0.5332 AUPR=0.6150 loss=2.187 sim_edges(d,m)=306,13368
+perfold 33|1 AUC=0.5059 AUPR=0.5750 loss=1.975 sim_edges(d,m)=164,13698
+perfold 33|2 AUC=0.6754 AUPR=0.6827 loss=2.052 sim_edges(d,m)=218,14222
+perfold 33|3 AUC=0.8244 AUPR=0.8044 loss=2.179 sim_edges(d,m)=154,14164
+perfold 33|4 AUC=0.5438 AUPR=0.6016 loss=1.951 sim_edges(d,m)=254,15888
+perfold 44|0 AUC=0.4166 AUPR=0.5483 loss=1.950 sim_edges(d,m)=254,13762
+perfold 44|1 AUC=0.7303 AUPR=0.6677 loss=2.017 sim_edges(d,m)=258,14086
+perfold 44|2 AUC=0.6357 AUPR=0.6785 loss=1.969 sim_edges(d,m)=172,15478
+perfold 44|3 AUC=0.6151 AUPR=0.6617 loss=1.967 sim_edges(d,m)=276,14318
+perfold 44|4 AUC=0.7669 AUPR=0.7237 loss=1.992 sim_edges(d,m)=142,14294
+perfold 55|0 AUC=0.5120 AUPR=0.6241 loss=1.997 sim_edges(d,m)=294,14130
+perfold 55|1 AUC=0.4264 AUPR=0.5534 loss=3.208 sim_edges(d,m)=230,13888
+perfold 55|2 AUC=0.7406 AUPR=0.7266 loss=2.192 sim_edges(d,m)=200,14276
+perfold 55|3 AUC=0.5750 AUPR=0.5721 loss=2.089 sim_edges(d,m)=138,14828
+perfold 55|4 AUC=0.4730 AUPR=0.5721 loss=9.572 sim_edges(d,m)=232,14456
+perfold lr=0.001: AUC 0.5980 ± 0.1091  AUPR 0.6422 ± 0.0648  (n=50)

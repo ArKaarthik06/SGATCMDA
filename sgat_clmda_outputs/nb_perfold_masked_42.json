@@ -1,0 +1,42 @@
+[
+ {
+  "mode": "perfold_masked",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.815679012345679,
+  "aupr": 0.7663054029610602,
+  "epochs": 400
+ },
+ {
+  "mode": "perfold_masked",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8655555555555556,
+  "aupr": 0.8516636722724512,
+  "epochs": 258
+ },
+ {
+  "mode": "perfold_masked",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8595679012345679,
+  "aupr": 0.8066139504016343,
+  "epochs": 400
+ },
+ {
+  "mode": "perfold_masked",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8564197530864198,
+  "aupr": 0.8448419347349796,
+  "epochs": 400
+ },
+ {
+  "mode": "perfold_masked",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8700617283950618,
+  "aupr": 0.8629019090103673,
+  "epochs": 400
+ }
+]

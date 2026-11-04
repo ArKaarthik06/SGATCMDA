@@ -1,0 +1,8 @@
+C:\Users\kaart\OneDrive\Desktop\College\Semester 4\IBS 2\Research Paper Work\run_rkgatmda_ours.py:114: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:837.)
+  res[key] = dict(auc=float(roc_auc_score(y, s)), aupr=float(average_precision_score(y, s)), global_rank_auc=g_auc, sec=time.time() - t0, final_loss=float(loss))
+released 123|0 {'auc': 0.9089, 'aupr': 0.9177, 'global_rank_auc': 0.9025, 'sec': 535.5031, 'final_loss': 0.4933}
+released 123|1 {'auc': 0.9163, 'aupr': 0.9334, 'global_rank_auc': 0.9076, 'sec': 424.2633, 'final_loss': 0.4247}
+released 123|2 {'auc': 0.886, 'aupr': 0.8921, 'global_rank_auc': 0.8912, 'sec': 535.5558, 'final_loss': 0.4105}
+released 123|3 {'auc': 0.8672, 'aupr': 0.897, 'global_rank_auc': 0.8678, 'sec': 573.7088, 'final_loss': 0.4572}
+released 123|4 {'auc': 0.8979, 'aupr': 0.9048, 'global_rank_auc': 0.8791, 'sec': 508.4237, 'final_loss': 0.4814}

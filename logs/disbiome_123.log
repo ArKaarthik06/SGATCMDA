@@ -1,0 +1,5 @@
+123|0 {'leaky': 0.821, 'honest': 0.817, 'masked': 0.814, 'cf': 0.742, 'final': 0.82}
+123|1 {'leaky': 0.843, 'honest': 0.82, 'masked': 0.817, 'cf': 0.73, 'final': 0.815}
+123|2 {'leaky': 0.815, 'honest': 0.806, 'masked': 0.811, 'cf': 0.729, 'final': 0.816}
+123|3 {'leaky': 0.825, 'honest': 0.821, 'masked': 0.833, 'cf': 0.728, 'final': 0.817}
+123|4 {'leaky': 0.82, 'honest': 0.811, 'masked': 0.833, 'cf': 0.741, 'final': 0.831}

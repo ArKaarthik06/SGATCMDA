@@ -1,0 +1,52 @@
+{
+ "Asthma": {
+  "disbiome_genera": 109,
+  "top10_validated": 3,
+  "popularity_top10_validated": 7,
+  "random10_validated": 0,
+  "pool_base_rate": 0.33568904593639576,
+  "top10_seed_stability_jaccard_mean": 0.6599999999999999,
+  "top10_mean_microbe_degree": 4.300000190734863,
+  "pool_mean_microbe_degree": 1.4240282773971558
+ },
+ "COPD": {
+  "disbiome_genera": 79,
+  "top10_validated": 6,
+  "popularity_top10_validated": 6,
+  "random10_validated": 1,
+  "pool_base_rate": 0.24210526315789474,
+  "top10_seed_stability_jaccard_mean": 0.62,
+  "top10_mean_microbe_degree": 4.300000190734863,
+  "pool_mean_microbe_degree": 1.4210525751113892
+ },
+ "Type 2 diabetes": {
+  "disbiome_genera": 121,
+  "top10_validated": 8,
+  "popularity_top10_validated": 7,
+  "random10_validated": 4,
+  "pool_base_rate": 0.42907801418439717,
+  "top10_seed_stability_jaccard_mean": 0.52,
+  "top10_mean_microbe_degree": 4.199999809265137,
+  "pool_mean_microbe_degree": 1.4007092714309692
+ },
+ "Obesity": {
+  "disbiome_genera": 118,
+  "top10_validated": 8,
+  "popularity_top10_validated": 9,
+  "random10_validated": 5,
+  "pool_base_rate": 0.39436619718309857,
+  "top10_seed_stability_jaccard_mean": 0.6599999999999999,
+  "top10_mean_microbe_degree": 5.699999809265137,
+  "pool_mean_microbe_degree": 1.4823943376541138
+ },
+ "Inflammatory bowel disease(IBD)": {
+  "disbiome_genera": 214,
+  "top10_validated": 8,
+  "popularity_top10_validated": 10,
+  "random10_validated": 8,
+  "pool_base_rate": 0.5017301038062284,
+  "top10_seed_stability_jaccard_mean": 0.6399999999999999,
+  "top10_mean_microbe_degree": 5.400000095367432,
+  "pool_mean_microbe_degree": 1.4775086641311646
+ }
+}

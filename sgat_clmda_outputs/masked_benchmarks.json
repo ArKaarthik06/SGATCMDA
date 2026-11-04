@@ -1,0 +1,902 @@
+{
+ "SGAT-CLMDA parallel|mask0.5|42|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8528395061728395,
+  "aupr": 0.8077119310123654,
+  "epochs": 120,
+  "ms_per_epoch": 135.41689999999943
+ },
+ "Serial GCN->GAT|mask0.5|42|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.837037037037037,
+  "aupr": 0.80616592835404,
+  "epochs": 120,
+  "ms_per_epoch": 126.81220249999872
+ },
+ "SGAT-CLMDA parallel|mask0.5|42|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.7837037037037037,
+  "aupr": 0.7227387076803057,
+  "epochs": 120,
+  "ms_per_epoch": 135.74265916666567
+ },
+ "Serial GCN->GAT|mask0.5|42|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.779320987654321,
+  "aupr": 0.7355148670340712,
+  "epochs": 65,
+  "ms_per_epoch": 123.86149692308139
+ },
+ "SGAT-CLMDA parallel|mask0.5|42|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8877777777777779,
+  "aupr": 0.852427523724573,
+  "epochs": 120,
+  "ms_per_epoch": 143.1650174999997
+ },
+ "Serial GCN->GAT|mask0.5|42|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8146913580246914,
+  "aupr": 0.8192730232001637,
+  "epochs": 57,
+  "ms_per_epoch": 122.13751578946629
+ },
+ "SGAT-CLMDA parallel|mask0.5|42|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8580246913580247,
+  "aupr": 0.8501115893206623,
+  "epochs": 120,
+  "ms_per_epoch": 141.35521083333438
+ },
+ "Serial GCN->GAT|mask0.5|42|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8607407407407408,
+  "aupr": 0.866518019352162,
+  "epochs": 120,
+  "ms_per_epoch": 122.76305666666758
+ },
+ "SGAT-CLMDA parallel|mask0.5|42|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8540123456790123,
+  "aupr": 0.8386894845175715,
+  "epochs": 120,
+  "ms_per_epoch": 134.6847566666611
+ },
+ "Serial GCN->GAT|mask0.5|42|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8625925925925926,
+  "aupr": 0.8702811686051247,
+  "epochs": 120,
+  "ms_per_epoch": 126.99807583333039
+ },
+ "SGAT-CLMDA parallel|mask0.5|123|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8298765432098766,
+  "aupr": 0.8064429704104569,
+  "epochs": 120,
+  "ms_per_epoch": 135.43904416666615
+ },
+ "Serial GCN->GAT|mask0.5|123|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8285185185185184,
+  "aupr": 0.8112398709626588,
+  "epochs": 85,
+  "ms_per_epoch": 120.84590117646097
+ },
+ "SGAT-CLMDA parallel|mask0.5|123|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.876604938271605,
+  "aupr": 0.8698630147229794,
+  "epochs": 120,
+  "ms_per_epoch": 135.7925641666649
+ },
+ "Serial GCN->GAT|mask0.5|123|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8798765432098765,
+  "aupr": 0.8750897022565048,
+  "epochs": 120,
+  "ms_per_epoch": 124.16035583333571
+ },
+ "SGAT-CLMDA parallel|mask0.5|123|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.8070987654320987,
+  "aupr": 0.7826791906236238,
+  "epochs": 120,
+  "ms_per_epoch": 135.31390249999427
+ },
+ "Serial GCN->GAT|mask0.5|123|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.802283950617284,
+  "aupr": 0.8161333585255651,
+  "epochs": 67,
+  "ms_per_epoch": 127.02338059701634
+ },
+ "SGAT-CLMDA parallel|mask0.5|123|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8417901234567902,
+  "aupr": 0.8364716991202116,
+  "epochs": 120,
+  "ms_per_epoch": 136.5663799999993
+ },
+ "Serial GCN->GAT|mask0.5|123|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.7616666666666667,
+  "aupr": 0.7851145009194247,
+  "epochs": 78,
+  "ms_per_epoch": 123.95530256409796
+ },
+ "SGAT-CLMDA parallel|mask0.5|123|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8690123456790123,
+  "aupr": 0.8355132872970062,
+  "epochs": 120,
+  "ms_per_epoch": 140.41254000000362
+ },
+ "Serial GCN->GAT|mask0.5|123|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.7903703703703704,
+  "aupr": 0.7627195659822138,
+  "epochs": 80,
+  "ms_per_epoch": 121.0115524999992
+ },
+ "SGAT-CLMDA parallel|mask0.5|456|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8672222222222221,
+  "aupr": 0.8503182640767802,
+  "epochs": 120,
+  "ms_per_epoch": 136.93795749999632
+ },
+ "Serial GCN->GAT|mask0.5|456|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8178395061728395,
+  "aupr": 0.8239457377487768,
+  "epochs": 85,
+  "ms_per_epoch": 122.79290705882886
+ },
+ "SGAT-CLMDA parallel|mask0.5|456|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8278395061728394,
+  "aupr": 0.8002652895781093,
+  "epochs": 120,
+  "ms_per_epoch": 139.58736416666397
+ },
+ "Serial GCN->GAT|mask0.5|456|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8425925925925926,
+  "aupr": 0.8429837684677206,
+  "epochs": 120,
+  "ms_per_epoch": 122.59241333333648
+ },
+ "SGAT-CLMDA parallel|mask0.5|456|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8925925925925926,
+  "aupr": 0.8758318908388354,
+  "epochs": 86,
+  "ms_per_epoch": 138.53802906976134
+ },
+ "Serial GCN->GAT|mask0.5|456|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8680864197530864,
+  "aupr": 0.8498841000934401,
+  "epochs": 66,
+  "ms_per_epoch": 125.42276666666416
+ },
+ "SGAT-CLMDA parallel|mask0.5|456|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8480246913580246,
+  "aupr": 0.8236666021840808,
+  "epochs": 120,
+  "ms_per_epoch": 135.55467083333497
+ },
+ "Serial GCN->GAT|mask0.5|456|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8049382716049382,
+  "aupr": 0.8124345213038002,
+  "epochs": 60,
+  "ms_per_epoch": 120.97525499999999
+ },
+ "SGAT-CLMDA parallel|mask0.5|456|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8265432098765432,
+  "aupr": 0.8142447688472216,
+  "epochs": 120,
+  "ms_per_epoch": 137.34012999999928
+ },
+ "Serial GCN->GAT|mask0.5|456|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.7880246913580247,
+  "aupr": 0.7780973050426178,
+  "epochs": 71,
+  "ms_per_epoch": 122.61398732394989
+ },
+ "SGAT-CLMDA parallel|mask0.5|789|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8806790123456791,
+  "aupr": 0.8861965680964399,
+  "epochs": 120,
+  "ms_per_epoch": 137.24864750000353
+ },
+ "Serial GCN->GAT|mask0.5|789|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8358024691358025,
+  "aupr": 0.8165723101634658,
+  "epochs": 80,
+  "ms_per_epoch": 120.86045999999442
+ },
+ "SGAT-CLMDA parallel|mask0.5|789|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.781111111111111,
+  "aupr": 0.7579425674040345,
+  "epochs": 120,
+  "ms_per_epoch": 137.17004583333318
+ },
+ "Serial GCN->GAT|mask0.5|789|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.7574691358024691,
+  "aupr": 0.7431209551803531,
+  "epochs": 62,
+  "ms_per_epoch": 120.66735322580443
+ },
+ "SGAT-CLMDA parallel|mask0.5|789|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.829320987654321,
+  "aupr": 0.8100153853556727,
+  "epochs": 120,
+  "ms_per_epoch": 134.23391666666853
+ },
+ "Serial GCN->GAT|mask0.5|789|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8485185185185184,
+  "aupr": 0.8277049533169416,
+  "epochs": 120,
+  "ms_per_epoch": 120.46705833333058
+ },
+ "SGAT-CLMDA parallel|mask0.5|789|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.8869753086419754,
+  "aupr": 0.8488155012763816,
+  "epochs": 120,
+  "ms_per_epoch": 139.8136975000019
+ },
+ "Serial GCN->GAT|mask0.5|789|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.8262345679012344,
+  "aupr": 0.8315090807008467,
+  "epochs": 80,
+  "ms_per_epoch": 135.35854875000268
+ },
+ "SGAT-CLMDA parallel|mask0.5|789|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.8917283950617285,
+  "aupr": 0.9037014870737767,
+  "epochs": 120,
+  "ms_per_epoch": 149.8597641666644
+ },
+ "Serial GCN->GAT|mask0.5|789|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.837283950617284,
+  "aupr": 0.8462274053822261,
+  "epochs": 70,
+  "ms_per_epoch": 147.1720842857134
+ },
+ "SGAT-CLMDA parallel|mask0.5|2024|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8496913580246914,
+  "aupr": 0.8075390922885065,
+  "epochs": 120,
+  "ms_per_epoch": 162.71774083333338
+ },
+ "Serial GCN->GAT|mask0.5|2024|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8114197530864198,
+  "aupr": 0.7782740762104335,
+  "epochs": 120,
+  "ms_per_epoch": 148.97086166666514
+ },
+ "SGAT-CLMDA parallel|mask0.5|2024|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8479629629629629,
+  "aupr": 0.7809415782772838,
+  "epochs": 120,
+  "ms_per_epoch": 137.61211333333753
+ },
+ "Serial GCN->GAT|mask0.5|2024|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8395679012345678,
+  "aupr": 0.8168737767793803,
+  "epochs": 79,
+  "ms_per_epoch": 123.8622797468394
+ },
+ "SGAT-CLMDA parallel|mask0.5|2024|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8471604938271604,
+  "aupr": 0.842370356042555,
+  "epochs": 120,
+  "ms_per_epoch": 134.6149533333346
+ },
+ "Serial GCN->GAT|mask0.5|2024|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8264197530864198,
+  "aupr": 0.8301900186740715,
+  "epochs": 47,
+  "ms_per_epoch": 123.62799148936477
+ },
+ "SGAT-CLMDA parallel|mask0.5|2024|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8361728395061728,
+  "aupr": 0.8065005605166223,
+  "epochs": 120,
+  "ms_per_epoch": 134.7891699999991
+ },
+ "Serial GCN->GAT|mask0.5|2024|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.7848148148148147,
+  "aupr": 0.7814420260699639,
+  "epochs": 60,
+  "ms_per_epoch": 126.76211999999698
+ },
+ "SGAT-CLMDA parallel|mask0.5|2024|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8352469135802468,
+  "aupr": 0.8012941582769795,
+  "epochs": 120,
+  "ms_per_epoch": 138.2551691666625
+ },
+ "Serial GCN->GAT|mask0.5|2024|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.5)",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8031481481481482,
+  "aupr": 0.777715281391952,
+  "epochs": 72,
+  "ms_per_epoch": 126.32495138888721
+ },
+ "SGAT-CLMDA parallel|mask0.25|42|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8014814814814815,
+  "aupr": 0.7636273936045344,
+  "epochs": 120,
+  "ms_per_epoch": 140.387303333326
+ },
+ "Serial GCN->GAT|mask0.25|42|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.7745061728395063,
+  "aupr": 0.751246329745789,
+  "epochs": 89,
+  "ms_per_epoch": 126.59624831460891
+ },
+ "SGAT-CLMDA parallel|mask0.25|42|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8053086419753086,
+  "aupr": 0.7657260302993402,
+  "epochs": 120,
+  "ms_per_epoch": 139.90799416666658
+ },
+ "Serial GCN->GAT|mask0.25|42|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8419753086419752,
+  "aupr": 0.7775606091004158,
+  "epochs": 120,
+  "ms_per_epoch": 127.36114916666186
+ },
+ "SGAT-CLMDA parallel|mask0.25|42|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8425925925925927,
+  "aupr": 0.8261956834391997,
+  "epochs": 120,
+  "ms_per_epoch": 140.60270749999592
+ },
+ "Serial GCN->GAT|mask0.25|42|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.7755555555555554,
+  "aupr": 0.7676859545211057,
+  "epochs": 120,
+  "ms_per_epoch": 130.80125666666999
+ },
+ "SGAT-CLMDA parallel|mask0.25|42|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.7961728395061729,
+  "aupr": 0.7808182907696234,
+  "epochs": 120,
+  "ms_per_epoch": 140.20607250000313
+ },
+ "Serial GCN->GAT|mask0.25|42|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.7045679012345678,
+  "aupr": 0.7156825891456076,
+  "epochs": 120,
+  "ms_per_epoch": 128.12432000000626
+ },
+ "SGAT-CLMDA parallel|mask0.25|42|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8293827160493827,
+  "aupr": 0.8121044796601459,
+  "epochs": 120,
+  "ms_per_epoch": 140.90872333332908
+ },
+ "Serial GCN->GAT|mask0.25|42|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8593827160493828,
+  "aupr": 0.8678517470115429,
+  "epochs": 120,
+  "ms_per_epoch": 133.54572416666693
+ },
+ "SGAT-CLMDA parallel|mask0.25|123|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.7903703703703704,
+  "aupr": 0.7600701907601417,
+  "epochs": 120,
+  "ms_per_epoch": 140.0390374999991
+ },
+ "Serial GCN->GAT|mask0.25|123|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.7609876543209876,
+  "aupr": 0.7336017616394046,
+  "epochs": 120,
+  "ms_per_epoch": 128.1275800000003
+ },
+ "SGAT-CLMDA parallel|mask0.25|123|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8604320987654321,
+  "aupr": 0.8445247921276875,
+  "epochs": 120,
+  "ms_per_epoch": 140.54309583333028
+ },
+ "Serial GCN->GAT|mask0.25|123|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8559876543209877,
+  "aupr": 0.8452033298395848,
+  "epochs": 91,
+  "ms_per_epoch": 134.60213846153968
+ },
+ "SGAT-CLMDA parallel|mask0.25|123|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.7656172839506172,
+  "aupr": 0.7492142422398247,
+  "epochs": 120,
+  "ms_per_epoch": 133.34239999999983
+ },
+ "Serial GCN->GAT|mask0.25|123|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.8025308641975308,
+  "aupr": 0.8109166609472113,
+  "epochs": 68,
+  "ms_per_epoch": 133.29624558824597
+ },
+ "SGAT-CLMDA parallel|mask0.25|123|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.7923456790123456,
+  "aupr": 0.7977074148976814,
+  "epochs": 120,
+  "ms_per_epoch": 138.2363891666652
+ },
+ "Serial GCN->GAT|mask0.25|123|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.7501234567901235,
+  "aupr": 0.7433296249155898,
+  "epochs": 120,
+  "ms_per_epoch": 124.93896583333328
+ },
+ "SGAT-CLMDA parallel|mask0.25|123|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.7771604938271605,
+  "aupr": 0.7667016131264373,
+  "epochs": 120,
+  "ms_per_epoch": 135.0254116666671
+ },
+ "Serial GCN->GAT|mask0.25|123|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8598148148148148,
+  "aupr": 0.820663598422197,
+  "epochs": 120,
+  "ms_per_epoch": 126.1996591666654
+ },
+ "SGAT-CLMDA parallel|mask0.25|456|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8496913580246914,
+  "aupr": 0.8647091754478223,
+  "epochs": 120,
+  "ms_per_epoch": 135.7685100000026
+ },
+ "Serial GCN->GAT|mask0.25|456|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8284567901234567,
+  "aupr": 0.8394572636573474,
+  "epochs": 120,
+  "ms_per_epoch": 126.02035499999906
+ },
+ "SGAT-CLMDA parallel|mask0.25|456|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8501234567901236,
+  "aupr": 0.8204068221466365,
+  "epochs": 120,
+  "ms_per_epoch": 147.64323666666618
+ },
+ "Serial GCN->GAT|mask0.25|456|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8427777777777778,
+  "aupr": 0.8357582243517716,
+  "epochs": 120,
+  "ms_per_epoch": 129.77469583333158
+ },
+ "SGAT-CLMDA parallel|mask0.25|456|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8146296296296297,
+  "aupr": 0.801293831224648,
+  "epochs": 120,
+  "ms_per_epoch": 141.31289833333844
+ },
+ "Serial GCN->GAT|mask0.25|456|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8106172839506173,
+  "aupr": 0.8100372737216437,
+  "epochs": 39,
+  "ms_per_epoch": 128.82692307693316
+ },
+ "SGAT-CLMDA parallel|mask0.25|456|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8473456790123457,
+  "aupr": 0.8354196242267549,
+  "epochs": 120,
+  "ms_per_epoch": 142.68136333333433
+ },
+ "Serial GCN->GAT|mask0.25|456|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.7927160493827161,
+  "aupr": 0.7952738538429396,
+  "epochs": 92,
+  "ms_per_epoch": 140.34040326086856
+ },
+ "SGAT-CLMDA parallel|mask0.25|456|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.7967901234567902,
+  "aupr": 0.7967190437864955,
+  "epochs": 71,
+  "ms_per_epoch": 133.68262112676413
+ },
+ "Serial GCN->GAT|mask0.25|456|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.7887037037037037,
+  "aupr": 0.7681589671227451,
+  "epochs": 120,
+  "ms_per_epoch": 130.10156083333487
+ },
+ "SGAT-CLMDA parallel|mask0.25|789|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.7222222222222223,
+  "aupr": 0.733723384173347,
+  "epochs": 120,
+  "ms_per_epoch": 136.1034199999949
+ },
+ "Serial GCN->GAT|mask0.25|789|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.7290123456790123,
+  "aupr": 0.7639914077541372,
+  "epochs": 120,
+  "ms_per_epoch": 129.1736558333317
+ },
+ "SGAT-CLMDA parallel|mask0.25|789|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.777037037037037,
+  "aupr": 0.7602631483028257,
+  "epochs": 120,
+  "ms_per_epoch": 137.77569250000093
+ },
+ "Serial GCN->GAT|mask0.25|789|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.7606172839506171,
+  "aupr": 0.7460478821144807,
+  "epochs": 120,
+  "ms_per_epoch": 131.48407000000287
+ },
+ "SGAT-CLMDA parallel|mask0.25|789|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.826358024691358,
+  "aupr": 0.8030164425522598,
+  "epochs": 120,
+  "ms_per_epoch": 134.44588750000244
+ },
+ "Serial GCN->GAT|mask0.25|789|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.857037037037037,
+  "aupr": 0.8108026566860138,
+  "epochs": 120,
+  "ms_per_epoch": 123.79334000000503
+ },
+ "SGAT-CLMDA parallel|mask0.25|789|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.7932098765432098,
+  "aupr": 0.7977997589601058,
+  "epochs": 120,
+  "ms_per_epoch": 137.03691416666666
+ },
+ "Serial GCN->GAT|mask0.25|789|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.7831481481481481,
+  "aupr": 0.8078979607393968,
+  "epochs": 120,
+  "ms_per_epoch": 127.8769925000006
+ },
+ "SGAT-CLMDA parallel|mask0.25|789|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.8842592592592593,
+  "aupr": 0.8776932632133885,
+  "epochs": 120,
+  "ms_per_epoch": 143.31097166666495
+ },
+ "Serial GCN->GAT|mask0.25|789|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.8596296296296297,
+  "aupr": 0.8629937686443181,
+  "epochs": 120,
+  "ms_per_epoch": 125.77302166666868
+ },
+ "SGAT-CLMDA parallel|mask0.25|2024|0": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8321604938271605,
+  "aupr": 0.7939369127810623,
+  "epochs": 120,
+  "ms_per_epoch": 145.86850583333825
+ },
+ "Serial GCN->GAT|mask0.25|2024|0": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.7466049382716049,
+  "aupr": 0.7390611888865634,
+  "epochs": 63,
+  "ms_per_epoch": 128.8784190476127
+ },
+ "SGAT-CLMDA parallel|mask0.25|2024|1": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8041975308641975,
+  "aupr": 0.7229541654831564,
+  "epochs": 120,
+  "ms_per_epoch": 139.97907499999656
+ },
+ "Serial GCN->GAT|mask0.25|2024|1": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.7890123456790124,
+  "aupr": 0.773167573734374,
+  "epochs": 120,
+  "ms_per_epoch": 127.21353583333439
+ },
+ "SGAT-CLMDA parallel|mask0.25|2024|2": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8426543209876544,
+  "aupr": 0.8207898714606269,
+  "epochs": 120,
+  "ms_per_epoch": 136.64124000000206
+ },
+ "Serial GCN->GAT|mask0.25|2024|2": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8780246913580247,
+  "aupr": 0.8910977219193232,
+  "epochs": 120,
+  "ms_per_epoch": 124.69090249999984
+ },
+ "SGAT-CLMDA parallel|mask0.25|2024|3": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.7867283950617284,
+  "aupr": 0.7375687162885971,
+  "epochs": 120,
+  "ms_per_epoch": 146.91893166667188
+ },
+ "Serial GCN->GAT|mask0.25|2024|3": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8342592592592593,
+  "aupr": 0.807970161678823,
+  "epochs": 120,
+  "ms_per_epoch": 129.50329249999868
+ },
+ "SGAT-CLMDA parallel|mask0.25|2024|4": {
+  "config": "SGAT-CLMDA parallel + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8074691358024692,
+  "aupr": 0.7731677252382946,
+  "epochs": 120,
+  "ms_per_epoch": 145.15270749999823
+ },
+ "Serial GCN->GAT|mask0.25|2024|4": {
+  "config": "Serial GCN->GAT + masked-edge training (r=0.25)",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.750925925925926,
+  "aupr": 0.7582461874285086,
+  "epochs": 120,
+  "ms_per_epoch": 141.8430916666618
+ }
+}

@@ -1,0 +1,5 @@
+789|0 {'model (masked 0.5)': 0.84, 'item-CF': 0.895, 'KATZ-style': 0.884, 'cf+katz': 0.892, 'model+katz': 0.9, 'model+cf+katz': 0.912, 'model+cf (fixed 0.5/0.5)': 0.908, 'model+cf (inner-validated)': 0.9} chosen 0.5 0.75
+789|1 {'model (masked 0.5)': 0.835, 'item-CF': 0.818, 'KATZ-style': 0.83, 'cf+katz': 0.83, 'model+katz': 0.866, 'model+cf+katz': 0.853, 'model+cf (fixed 0.5/0.5)': 0.857, 'model+cf (inner-validated)': 0.84} chosen 0.25 0.75
+789|2 {'model (masked 0.5)': 0.851, 'item-CF': 0.877, 'KATZ-style': 0.869, 'cf+katz': 0.873, 'model+katz': 0.893, 'model+cf+katz': 0.896, 'model+cf (fixed 0.5/0.5)': 0.9, 'model+cf (inner-validated)': 0.891} chosen 0.5 0.75
+789|3 {'model (masked 0.5)': 0.882, 'item-CF': 0.889, 'KATZ-style': 0.899, 'cf+katz': 0.894, 'model+katz': 0.917, 'model+cf+katz': 0.914, 'model+cf (fixed 0.5/0.5)': 0.912, 'model+cf (inner-validated)': 0.919} chosen 0.25 0.75
+789|4 {'model (masked 0.5)': 0.935, 'item-CF': 0.844, 'KATZ-style': 0.865, 'cf+katz': 0.858, 'model+katz': 0.946, 'model+cf+katz': 0.922, 'model+cf (fixed 0.5/0.5)': 0.928, 'model+cf (inner-validated)': 0.895} chosen 0.5 0.25

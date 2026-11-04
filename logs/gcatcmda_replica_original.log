@@ -1,0 +1,54 @@
+C:\Users\kaart\OneDrive\Desktop\College\Semester 4\IBS 2\Research Paper Work\run_gcatcmda_replica.py:94: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:837.)
+  a, p = ev(sp, S); res[key] = dict(auc=a, aupr=p, final_loss=float(loss), sec=time.perf_counter() - t0, edges_sim=[int(ed.shape[1]), int(em.shape[1])])
+original 42|0 AUC=0.8135 AUPR=0.8175 loss=2.661 sim_edges(d,m)=218,23128
+original 42|1 AUC=0.7952 AUPR=0.7497 loss=2.665 sim_edges(d,m)=218,23128
+original 42|2 AUC=0.8012 AUPR=0.7632 loss=2.677 sim_edges(d,m)=218,23128
+original 42|3 AUC=0.6083 AUPR=0.6161 loss=2.608 sim_edges(d,m)=218,23128
+original 42|4 AUC=0.7864 AUPR=0.7427 loss=2.656 sim_edges(d,m)=218,23128
+original 123|0 AUC=0.8038 AUPR=0.8076 loss=2.573 sim_edges(d,m)=218,23128
+original 123|1 AUC=0.5070 AUPR=0.5691 loss=2.676 sim_edges(d,m)=218,23128
+original 123|2 AUC=0.7041 AUPR=0.6830 loss=2.668 sim_edges(d,m)=218,23128
+original 123|3 AUC=0.6568 AUPR=0.6007 loss=2.686 sim_edges(d,m)=218,23128
+original 123|4 AUC=0.8274 AUPR=0.8340 loss=2.573 sim_edges(d,m)=218,23128
+original 456|0 AUC=0.7458 AUPR=0.7244 loss=2.672 sim_edges(d,m)=218,23128
+original 456|1 AUC=0.7585 AUPR=0.7594 loss=2.681 sim_edges(d,m)=218,23128
+original 456|2 AUC=0.8104 AUPR=0.7489 loss=2.661 sim_edges(d,m)=218,23128
+original 456|3 AUC=0.7304 AUPR=0.7028 loss=2.649 sim_edges(d,m)=218,23128
+original 456|4 AUC=0.7990 AUPR=0.8167 loss=2.685 sim_edges(d,m)=218,23128
+original 789|0 AUC=0.7515 AUPR=0.7369 loss=2.653 sim_edges(d,m)=218,23128
+original 789|1 AUC=0.7090 AUPR=0.7482 loss=2.658 sim_edges(d,m)=218,23128
+original 789|2 AUC=0.8174 AUPR=0.7735 loss=2.642 sim_edges(d,m)=218,23128
+original 789|3 AUC=0.8344 AUPR=0.8177 loss=2.679 sim_edges(d,m)=218,23128
+original 789|4 AUC=0.7304 AUPR=0.6684 loss=2.677 sim_edges(d,m)=218,23128
+original 2024|0 AUC=0.6898 AUPR=0.6000 loss=2.678 sim_edges(d,m)=218,23128
+original 2024|1 AUC=0.5402 AUPR=0.5858 loss=2.658 sim_edges(d,m)=218,23128
+original 2024|2 AUC=0.7898 AUPR=0.7327 loss=2.666 sim_edges(d,m)=218,23128
+original 2024|3 AUC=0.6656 AUPR=0.6209 loss=2.684 sim_edges(d,m)=218,23128
+original 2024|4 AUC=0.5611 AUPR=0.6158 loss=2.656 sim_edges(d,m)=218,23128
+original 11|0 AUC=0.8279 AUPR=0.8170 loss=2.689 sim_edges(d,m)=218,23128
+original 11|1 AUC=0.8258 AUPR=0.8235 loss=2.595 sim_edges(d,m)=218,23128
+original 11|2 AUC=0.7463 AUPR=0.7474 loss=2.694 sim_edges(d,m)=218,23128
+original 11|3 AUC=0.4775 AUPR=0.5315 loss=2.668 sim_edges(d,m)=218,23128
+original 11|4 AUC=0.6823 AUPR=0.6006 loss=2.637 sim_edges(d,m)=218,23128
+original 22|0 AUC=0.5105 AUPR=0.5584 loss=2.699 sim_edges(d,m)=218,23128
+original 22|1 AUC=0.7195 AUPR=0.7438 loss=2.657 sim_edges(d,m)=218,23128
+original 22|2 AUC=0.8316 AUPR=0.8200 loss=2.658 sim_edges(d,m)=218,23128
+original 22|3 AUC=0.8157 AUPR=0.8118 loss=2.644 sim_edges(d,m)=218,23128
+original 22|4 AUC=0.5225 AUPR=0.5728 loss=2.675 sim_edges(d,m)=218,23128
+original 33|0 AUC=0.7616 AUPR=0.7760 loss=2.651 sim_edges(d,m)=218,23128
+original 33|1 AUC=0.4417 AUPR=0.5651 loss=2.667 sim_edges(d,m)=218,23128
+original 33|2 AUC=0.8246 AUPR=0.8442 loss=2.597 sim_edges(d,m)=218,23128
+original 33|3 AUC=0.6728 AUPR=0.6728 loss=2.539 sim_edges(d,m)=218,23128
+original 33|4 AUC=0.4525 AUPR=0.5035 loss=2.662 sim_edges(d,m)=218,23128
+original 44|0 AUC=0.7391 AUPR=0.6978 loss=2.671 sim_edges(d,m)=218,23128
+original 44|1 AUC=0.5410 AUPR=0.5952 loss=2.657 sim_edges(d,m)=218,23128
+original 44|2 AUC=0.7353 AUPR=0.7065 loss=2.652 sim_edges(d,m)=218,23128
+original 44|3 AUC=0.7693 AUPR=0.7136 loss=2.655 sim_edges(d,m)=218,23128
+original 44|4 AUC=0.8223 AUPR=0.8074 loss=2.629 sim_edges(d,m)=218,23128
+original 55|0 AUC=0.7093 AUPR=0.6408 loss=2.663 sim_edges(d,m)=218,23128
+original 55|1 AUC=0.7696 AUPR=0.7520 loss=2.670 sim_edges(d,m)=218,23128
+original 55|2 AUC=0.5185 AUPR=0.5728 loss=2.651 sim_edges(d,m)=218,23128
+original 55|3 AUC=0.5425 AUPR=0.5965 loss=2.633 sim_edges(d,m)=218,23128
+original 55|4 AUC=0.5567 AUPR=0.6060 loss=2.649 sim_edges(d,m)=218,23128
+original lr=1e-05: AUC 0.7011 ± 0.1178  AUPR 0.6983 ± 0.0949  (n=50)

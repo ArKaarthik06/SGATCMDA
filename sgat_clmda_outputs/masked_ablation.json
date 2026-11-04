@@ -1,0 +1,1352 @@
+{
+ "CL none|mask0.5|42|0": {
+  "config": "CL none",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8553086419753086,
+  "aupr": 0.812454703358653,
+  "epochs": 120,
+  "ms_per_epoch": 149.91173833333656
+ },
+ "CL disease only|mask0.5|42|0": {
+  "config": "CL disease only",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8650617283950617,
+  "aupr": 0.8107847717378148,
+  "epochs": 120,
+  "ms_per_epoch": 136.15535416666566
+ },
+ "CL microbe only|mask0.5|42|0": {
+  "config": "CL microbe only",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8556790123456791,
+  "aupr": 0.8199832160355699,
+  "epochs": 120,
+  "ms_per_epoch": 134.41353499999877
+ },
+ "CL both, tau_cl=0.1|mask0.5|42|0": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8533333333333334,
+  "aupr": 0.8122527263266979,
+  "epochs": 120,
+  "ms_per_epoch": 138.87967999999847
+ },
+ "CL both, tau_cl=0.2|mask0.5|42|0": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8433333333333334,
+  "aupr": 0.804195082267586,
+  "epochs": 120,
+  "ms_per_epoch": 136.76375583333237
+ },
+ "CL both, tau_cl=1.0|mask0.5|42|0": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 42,
+  "fold": 0,
+  "auc": 0.8483333333333334,
+  "aupr": 0.7976202882878439,
+  "epochs": 120,
+  "ms_per_epoch": 138.10939916666786
+ },
+ "CL none|mask0.5|42|1": {
+  "config": "CL none",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8188271604938273,
+  "aupr": 0.7622718218760945,
+  "epochs": 120,
+  "ms_per_epoch": 133.0296191666624
+ },
+ "CL disease only|mask0.5|42|1": {
+  "config": "CL disease only",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.7964197530864198,
+  "aupr": 0.7387999581955148,
+  "epochs": 120,
+  "ms_per_epoch": 134.38530333332892
+ },
+ "CL microbe only|mask0.5|42|1": {
+  "config": "CL microbe only",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8296913580246913,
+  "aupr": 0.7642899845412702,
+  "epochs": 120,
+  "ms_per_epoch": 137.4062558333359
+ },
+ "CL both, tau_cl=0.1|mask0.5|42|1": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.804753086419753,
+  "aupr": 0.7530458055504475,
+  "epochs": 120,
+  "ms_per_epoch": 136.95855249999718
+ },
+ "CL both, tau_cl=0.2|mask0.5|42|1": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8167283950617285,
+  "aupr": 0.7608891825284396,
+  "epochs": 120,
+  "ms_per_epoch": 139.21036916666858
+ },
+ "CL both, tau_cl=1.0|mask0.5|42|1": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 42,
+  "fold": 1,
+  "auc": 0.8105555555555555,
+  "aupr": 0.7367291121124556,
+  "epochs": 120,
+  "ms_per_epoch": 143.50100499999976
+ },
+ "CL none|mask0.5|42|2": {
+  "config": "CL none",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8654320987654321,
+  "aupr": 0.8297408953731382,
+  "epochs": 120,
+  "ms_per_epoch": 135.18101333333257
+ },
+ "CL disease only|mask0.5|42|2": {
+  "config": "CL disease only",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8796296296296297,
+  "aupr": 0.8598296348950312,
+  "epochs": 120,
+  "ms_per_epoch": 134.8089666666662
+ },
+ "CL microbe only|mask0.5|42|2": {
+  "config": "CL microbe only",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.871604938271605,
+  "aupr": 0.8677778135257546,
+  "epochs": 72,
+  "ms_per_epoch": 142.12844861111128
+ },
+ "CL both, tau_cl=0.1|mask0.5|42|2": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8674074074074074,
+  "aupr": 0.8429943767694326,
+  "epochs": 120,
+  "ms_per_epoch": 137.57673583333298
+ },
+ "CL both, tau_cl=0.2|mask0.5|42|2": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8522222222222222,
+  "aupr": 0.8393278669294305,
+  "epochs": 120,
+  "ms_per_epoch": 138.08449999999843
+ },
+ "CL both, tau_cl=1.0|mask0.5|42|2": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 42,
+  "fold": 2,
+  "auc": 0.8385185185185184,
+  "aupr": 0.82240697522068,
+  "epochs": 120,
+  "ms_per_epoch": 137.35913500000456
+ },
+ "CL none|mask0.5|42|3": {
+  "config": "CL none",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8779012345679013,
+  "aupr": 0.8742018487626195,
+  "epochs": 120,
+  "ms_per_epoch": 135.38630083333678
+ },
+ "CL disease only|mask0.5|42|3": {
+  "config": "CL disease only",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8814814814814815,
+  "aupr": 0.8664586553886201,
+  "epochs": 120,
+  "ms_per_epoch": 134.29140249999517
+ },
+ "CL microbe only|mask0.5|42|3": {
+  "config": "CL microbe only",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.864320987654321,
+  "aupr": 0.8561751715116254,
+  "epochs": 120,
+  "ms_per_epoch": 138.49640500000078
+ },
+ "CL both, tau_cl=0.1|mask0.5|42|3": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8582716049382716,
+  "aupr": 0.8410744276924143,
+  "epochs": 120,
+  "ms_per_epoch": 139.64440916666564
+ },
+ "CL both, tau_cl=0.2|mask0.5|42|3": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8835185185185186,
+  "aupr": 0.8623864183931845,
+  "epochs": 120,
+  "ms_per_epoch": 135.69564749999853
+ },
+ "CL both, tau_cl=1.0|mask0.5|42|3": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 42,
+  "fold": 3,
+  "auc": 0.8855555555555555,
+  "aupr": 0.8814271127171995,
+  "epochs": 120,
+  "ms_per_epoch": 134.3257291666608
+ },
+ "CL none|mask0.5|42|4": {
+  "config": "CL none",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8504938271604939,
+  "aupr": 0.8396366035127254,
+  "epochs": 120,
+  "ms_per_epoch": 131.8456683333352
+ },
+ "CL disease only|mask0.5|42|4": {
+  "config": "CL disease only",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8697530864197531,
+  "aupr": 0.8782941013236613,
+  "epochs": 120,
+  "ms_per_epoch": 131.96371250000234
+ },
+ "CL microbe only|mask0.5|42|4": {
+  "config": "CL microbe only",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8344444444444444,
+  "aupr": 0.8311308701853393,
+  "epochs": 120,
+  "ms_per_epoch": 138.84585333333538
+ },
+ "CL both, tau_cl=0.1|mask0.5|42|4": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8474074074074074,
+  "aupr": 0.8542363944515291,
+  "epochs": 120,
+  "ms_per_epoch": 141.13538666667105
+ },
+ "CL both, tau_cl=0.2|mask0.5|42|4": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.8496296296296296,
+  "aupr": 0.8603478330389813,
+  "epochs": 120,
+  "ms_per_epoch": 142.01325333333443
+ },
+ "CL both, tau_cl=1.0|mask0.5|42|4": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 42,
+  "fold": 4,
+  "auc": 0.861358024691358,
+  "aupr": 0.8446118554334092,
+  "epochs": 120,
+  "ms_per_epoch": 144.23079999999874
+ },
+ "CL none|mask0.5|123|0": {
+  "config": "CL none",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8177777777777778,
+  "aupr": 0.7711618230295602,
+  "epochs": 120,
+  "ms_per_epoch": 138.2679675000039
+ },
+ "CL disease only|mask0.5|123|0": {
+  "config": "CL disease only",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8299382716049383,
+  "aupr": 0.7826863551574572,
+  "epochs": 120,
+  "ms_per_epoch": 141.8050616666657
+ },
+ "CL microbe only|mask0.5|123|0": {
+  "config": "CL microbe only",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8371604938271604,
+  "aupr": 0.8209329876827681,
+  "epochs": 120,
+  "ms_per_epoch": 143.8480199999958
+ },
+ "CL both, tau_cl=0.1|mask0.5|123|0": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8286419753086419,
+  "aupr": 0.8035375306287014,
+  "epochs": 120,
+  "ms_per_epoch": 136.32612750000135
+ },
+ "CL both, tau_cl=0.2|mask0.5|123|0": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8220987654320987,
+  "aupr": 0.7859353302406442,
+  "epochs": 120,
+  "ms_per_epoch": 138.81421000000196
+ },
+ "CL both, tau_cl=1.0|mask0.5|123|0": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 123,
+  "fold": 0,
+  "auc": 0.8333333333333333,
+  "aupr": 0.8352654886207738,
+  "epochs": 120,
+  "ms_per_epoch": 140.37201833333106
+ },
+ "CL none|mask0.5|123|1": {
+  "config": "CL none",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8577160493827161,
+  "aupr": 0.8516824905590791,
+  "epochs": 120,
+  "ms_per_epoch": 135.66805999999661
+ },
+ "CL disease only|mask0.5|123|1": {
+  "config": "CL disease only",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8617901234567902,
+  "aupr": 0.8623611616252398,
+  "epochs": 120,
+  "ms_per_epoch": 139.49341000000004
+ },
+ "CL microbe only|mask0.5|123|1": {
+  "config": "CL microbe only",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.836851851851852,
+  "aupr": 0.8193154897967858,
+  "epochs": 120,
+  "ms_per_epoch": 135.48817000000025
+ },
+ "CL both, tau_cl=0.1|mask0.5|123|1": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8526543209876544,
+  "aupr": 0.8415836178069562,
+  "epochs": 120,
+  "ms_per_epoch": 147.71151333333515
+ },
+ "CL both, tau_cl=0.2|mask0.5|123|1": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8728395061728396,
+  "aupr": 0.865459407661229,
+  "epochs": 120,
+  "ms_per_epoch": 146.63428833333302
+ },
+ "CL both, tau_cl=1.0|mask0.5|123|1": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 123,
+  "fold": 1,
+  "auc": 0.8533950617283952,
+  "aupr": 0.8498572709901321,
+  "epochs": 120,
+  "ms_per_epoch": 149.08179250000256
+ },
+ "CL none|mask0.5|123|2": {
+  "config": "CL none",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.8045679012345679,
+  "aupr": 0.7651821221903525,
+  "epochs": 120,
+  "ms_per_epoch": 136.1782091666631
+ },
+ "CL disease only|mask0.5|123|2": {
+  "config": "CL disease only",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.8105555555555556,
+  "aupr": 0.7835515433771719,
+  "epochs": 120,
+  "ms_per_epoch": 146.1294749999979
+ },
+ "CL microbe only|mask0.5|123|2": {
+  "config": "CL microbe only",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.7810493827160494,
+  "aupr": 0.7624164897334146,
+  "epochs": 120,
+  "ms_per_epoch": 141.4498283333311
+ },
+ "CL both, tau_cl=0.1|mask0.5|123|2": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.7905555555555556,
+  "aupr": 0.7623545476210601,
+  "epochs": 120,
+  "ms_per_epoch": 140.64617750000252
+ },
+ "CL both, tau_cl=0.2|mask0.5|123|2": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.8028395061728395,
+  "aupr": 0.7887043794609906,
+  "epochs": 120,
+  "ms_per_epoch": 140.47614916667044
+ },
+ "CL both, tau_cl=1.0|mask0.5|123|2": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 123,
+  "fold": 2,
+  "auc": 0.7924074074074074,
+  "aupr": 0.7524883206149806,
+  "epochs": 120,
+  "ms_per_epoch": 141.09276583333212
+ },
+ "CL none|mask0.5|123|3": {
+  "config": "CL none",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8245679012345679,
+  "aupr": 0.8122466269139453,
+  "epochs": 90,
+  "ms_per_epoch": 135.2563711111038
+ },
+ "CL disease only|mask0.5|123|3": {
+  "config": "CL disease only",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8514814814814815,
+  "aupr": 0.8345496154973553,
+  "epochs": 120,
+  "ms_per_epoch": 134.47671833333362
+ },
+ "CL microbe only|mask0.5|123|3": {
+  "config": "CL microbe only",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.852716049382716,
+  "aupr": 0.8281138985883293,
+  "epochs": 120,
+  "ms_per_epoch": 136.79006749999493
+ },
+ "CL both, tau_cl=0.1|mask0.5|123|3": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8469135802469135,
+  "aupr": 0.8233272752804502,
+  "epochs": 120,
+  "ms_per_epoch": 140.95830416666408
+ },
+ "CL both, tau_cl=0.2|mask0.5|123|3": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8359876543209875,
+  "aupr": 0.8364267061944323,
+  "epochs": 120,
+  "ms_per_epoch": 137.95957833333432
+ },
+ "CL both, tau_cl=1.0|mask0.5|123|3": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 123,
+  "fold": 3,
+  "auc": 0.8506172839506173,
+  "aupr": 0.8401456435469065,
+  "epochs": 120,
+  "ms_per_epoch": 140.0993924999966
+ },
+ "CL none|mask0.5|123|4": {
+  "config": "CL none",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8506172839506172,
+  "aupr": 0.8190517559390168,
+  "epochs": 120,
+  "ms_per_epoch": 143.30331166666684
+ },
+ "CL disease only|mask0.5|123|4": {
+  "config": "CL disease only",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8507407407407408,
+  "aupr": 0.8061530547138136,
+  "epochs": 120,
+  "ms_per_epoch": 138.05204333333072
+ },
+ "CL microbe only|mask0.5|123|4": {
+  "config": "CL microbe only",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8350000000000001,
+  "aupr": 0.8059637608861132,
+  "epochs": 120,
+  "ms_per_epoch": 134.78012833333347
+ },
+ "CL both, tau_cl=0.1|mask0.5|123|4": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8462962962962964,
+  "aupr": 0.801380426938454,
+  "epochs": 120,
+  "ms_per_epoch": 137.8751599999987
+ },
+ "CL both, tau_cl=0.2|mask0.5|123|4": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8814814814814815,
+  "aupr": 0.830777936285043,
+  "epochs": 120,
+  "ms_per_epoch": 132.59875333333184
+ },
+ "CL both, tau_cl=1.0|mask0.5|123|4": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 123,
+  "fold": 4,
+  "auc": 0.8618518518518519,
+  "aupr": 0.813985953631411,
+  "epochs": 120,
+  "ms_per_epoch": 130.56856666666286
+ },
+ "CL none|mask0.5|456|0": {
+  "config": "CL none",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8643827160493827,
+  "aupr": 0.87054592352758,
+  "epochs": 120,
+  "ms_per_epoch": 128.288294999993
+ },
+ "CL disease only|mask0.5|456|0": {
+  "config": "CL disease only",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8837654320987655,
+  "aupr": 0.8869147831550018,
+  "epochs": 120,
+  "ms_per_epoch": 129.29699916666473
+ },
+ "CL microbe only|mask0.5|456|0": {
+  "config": "CL microbe only",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.875679012345679,
+  "aupr": 0.8925976053058422,
+  "epochs": 120,
+  "ms_per_epoch": 132.54157666666893
+ },
+ "CL both, tau_cl=0.1|mask0.5|456|0": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8655555555555555,
+  "aupr": 0.8731882221331686,
+  "epochs": 120,
+  "ms_per_epoch": 133.61793166666303
+ },
+ "CL both, tau_cl=0.2|mask0.5|456|0": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8651851851851853,
+  "aupr": 0.8533231414213946,
+  "epochs": 120,
+  "ms_per_epoch": 133.77296333333106
+ },
+ "CL both, tau_cl=1.0|mask0.5|456|0": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 456,
+  "fold": 0,
+  "auc": 0.8651851851851851,
+  "aupr": 0.873593360831883,
+  "epochs": 120,
+  "ms_per_epoch": 133.83535250000023
+ },
+ "CL none|mask0.5|456|1": {
+  "config": "CL none",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8234567901234568,
+  "aupr": 0.774309896713241,
+  "epochs": 120,
+  "ms_per_epoch": 130.23148666666202
+ },
+ "CL disease only|mask0.5|456|1": {
+  "config": "CL disease only",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8203703703703704,
+  "aupr": 0.7811979336690806,
+  "epochs": 120,
+  "ms_per_epoch": 131.78592250000446
+ },
+ "CL microbe only|mask0.5|456|1": {
+  "config": "CL microbe only",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8435802469135804,
+  "aupr": 0.7988979817398998,
+  "epochs": 120,
+  "ms_per_epoch": 138.17230499999673
+ },
+ "CL both, tau_cl=0.1|mask0.5|456|1": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8314197530864198,
+  "aupr": 0.797720100163621,
+  "epochs": 120,
+  "ms_per_epoch": 144.0684041666676
+ },
+ "CL both, tau_cl=0.2|mask0.5|456|1": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8295679012345679,
+  "aupr": 0.7789379812690651,
+  "epochs": 120,
+  "ms_per_epoch": 140.81063999999515
+ },
+ "CL both, tau_cl=1.0|mask0.5|456|1": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 456,
+  "fold": 1,
+  "auc": 0.8314814814814815,
+  "aupr": 0.8020672294228621,
+  "epochs": 120,
+  "ms_per_epoch": 142.72077083333744
+ },
+ "CL none|mask0.5|456|2": {
+  "config": "CL none",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.9015432098765431,
+  "aupr": 0.8864424523751673,
+  "epochs": 86,
+  "ms_per_epoch": 136.51160581395195
+ },
+ "CL disease only|mask0.5|456|2": {
+  "config": "CL disease only",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8866049382716048,
+  "aupr": 0.8744846006988696,
+  "epochs": 86,
+  "ms_per_epoch": 136.3508534883654
+ },
+ "CL microbe only|mask0.5|456|2": {
+  "config": "CL microbe only",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.855246913580247,
+  "aupr": 0.8453945659709998,
+  "epochs": 120,
+  "ms_per_epoch": 140.96207333333646
+ },
+ "CL both, tau_cl=0.1|mask0.5|456|2": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8345679012345679,
+  "aupr": 0.8054417577905282,
+  "epochs": 120,
+  "ms_per_epoch": 140.25506000000405
+ },
+ "CL both, tau_cl=0.2|mask0.5|456|2": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.8691975308641975,
+  "aupr": 0.8555967197671835,
+  "epochs": 120,
+  "ms_per_epoch": 135.06280416666715
+ },
+ "CL both, tau_cl=1.0|mask0.5|456|2": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 456,
+  "fold": 2,
+  "auc": 0.862037037037037,
+  "aupr": 0.839565508797111,
+  "epochs": 120,
+  "ms_per_epoch": 142.05359249999674
+ },
+ "CL none|mask0.5|456|3": {
+  "config": "CL none",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8525925925925927,
+  "aupr": 0.79662057553799,
+  "epochs": 120,
+  "ms_per_epoch": 134.99874083333907
+ },
+ "CL disease only|mask0.5|456|3": {
+  "config": "CL disease only",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8555555555555556,
+  "aupr": 0.8183878615655014,
+  "epochs": 120,
+  "ms_per_epoch": 136.68257666666554
+ },
+ "CL microbe only|mask0.5|456|3": {
+  "config": "CL microbe only",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.7646913580246913,
+  "aupr": 0.7471382443182619,
+  "epochs": 120,
+  "ms_per_epoch": 140.25295750000168
+ },
+ "CL both, tau_cl=0.1|mask0.5|456|3": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8664814814814814,
+  "aupr": 0.8687051746822645,
+  "epochs": 120,
+  "ms_per_epoch": 141.12003000000186
+ },
+ "CL both, tau_cl=0.2|mask0.5|456|3": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8554320987654321,
+  "aupr": 0.840921200428406,
+  "epochs": 120,
+  "ms_per_epoch": 135.22607166667058
+ },
+ "CL both, tau_cl=1.0|mask0.5|456|3": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 456,
+  "fold": 3,
+  "auc": 0.8333333333333334,
+  "aupr": 0.7730098992305952,
+  "epochs": 120,
+  "ms_per_epoch": 144.14170000000013
+ },
+ "CL none|mask0.5|456|4": {
+  "config": "CL none",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8269135802469136,
+  "aupr": 0.8189237331961151,
+  "epochs": 120,
+  "ms_per_epoch": 135.6126549999999
+ },
+ "CL disease only|mask0.5|456|4": {
+  "config": "CL disease only",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8225925925925925,
+  "aupr": 0.8209270176919932,
+  "epochs": 120,
+  "ms_per_epoch": 139.4489783333256
+ },
+ "CL microbe only|mask0.5|456|4": {
+  "config": "CL microbe only",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8371604938271605,
+  "aupr": 0.8250683459982661,
+  "epochs": 120,
+  "ms_per_epoch": 144.2898624999998
+ },
+ "CL both, tau_cl=0.1|mask0.5|456|4": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8322222222222222,
+  "aupr": 0.8219659338255363,
+  "epochs": 120,
+  "ms_per_epoch": 140.8954441666689
+ },
+ "CL both, tau_cl=0.2|mask0.5|456|4": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8372222222222223,
+  "aupr": 0.8126502095092718,
+  "epochs": 120,
+  "ms_per_epoch": 144.02646333334513
+ },
+ "CL both, tau_cl=1.0|mask0.5|456|4": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 456,
+  "fold": 4,
+  "auc": 0.8238271604938271,
+  "aupr": 0.8211862537080208,
+  "epochs": 120,
+  "ms_per_epoch": 140.8771308333447
+ },
+ "CL none|mask0.5|789|0": {
+  "config": "CL none",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8619135802469136,
+  "aupr": 0.8594419338988764,
+  "epochs": 120,
+  "ms_per_epoch": 135.7639033333271
+ },
+ "CL disease only|mask0.5|789|0": {
+  "config": "CL disease only",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8497530864197531,
+  "aupr": 0.8451473253372863,
+  "epochs": 79,
+  "ms_per_epoch": 136.67265569621364
+ },
+ "CL microbe only|mask0.5|789|0": {
+  "config": "CL microbe only",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8616666666666666,
+  "aupr": 0.8734402773040383,
+  "epochs": 120,
+  "ms_per_epoch": 142.83520833334177
+ },
+ "CL both, tau_cl=0.1|mask0.5|789|0": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8804320987654322,
+  "aupr": 0.894133553953381,
+  "epochs": 120,
+  "ms_per_epoch": 142.39456083332698
+ },
+ "CL both, tau_cl=0.2|mask0.5|789|0": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8588888888888889,
+  "aupr": 0.8678787648242006,
+  "epochs": 120,
+  "ms_per_epoch": 135.6904416666718
+ },
+ "CL both, tau_cl=1.0|mask0.5|789|0": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 789,
+  "fold": 0,
+  "auc": 0.8280246913580247,
+  "aupr": 0.8195655519005336,
+  "epochs": 79,
+  "ms_per_epoch": 136.22958227847738
+ },
+ "CL none|mask0.5|789|1": {
+  "config": "CL none",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.7924691358024691,
+  "aupr": 0.7819072414726085,
+  "epochs": 120,
+  "ms_per_epoch": 136.6545916666534
+ },
+ "CL disease only|mask0.5|789|1": {
+  "config": "CL disease only",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.8134567901234567,
+  "aupr": 0.7959729340776729,
+  "epochs": 120,
+  "ms_per_epoch": 141.5020650000012
+ },
+ "CL microbe only|mask0.5|789|1": {
+  "config": "CL microbe only",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.801604938271605,
+  "aupr": 0.7834632771545594,
+  "epochs": 120,
+  "ms_per_epoch": 148.90523249999507
+ },
+ "CL both, tau_cl=0.1|mask0.5|789|1": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.8114814814814816,
+  "aupr": 0.789010659618823,
+  "epochs": 120,
+  "ms_per_epoch": 144.22240833334095
+ },
+ "CL both, tau_cl=0.2|mask0.5|789|1": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.8147530864197531,
+  "aupr": 0.7898829901710774,
+  "epochs": 120,
+  "ms_per_epoch": 146.84687666667742
+ },
+ "CL both, tau_cl=1.0|mask0.5|789|1": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 789,
+  "fold": 1,
+  "auc": 0.8076543209876544,
+  "aupr": 0.7984583810917593,
+  "epochs": 120,
+  "ms_per_epoch": 139.78752583334426
+ },
+ "CL none|mask0.5|789|2": {
+  "config": "CL none",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8555555555555556,
+  "aupr": 0.8301973580909984,
+  "epochs": 120,
+  "ms_per_epoch": 145.1988341666644
+ },
+ "CL disease only|mask0.5|789|2": {
+  "config": "CL disease only",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8412345679012345,
+  "aupr": 0.8193940893047259,
+  "epochs": 120,
+  "ms_per_epoch": 138.5768124999989
+ },
+ "CL microbe only|mask0.5|789|2": {
+  "config": "CL microbe only",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8341358024691359,
+  "aupr": 0.8179742583703383,
+  "epochs": 120,
+  "ms_per_epoch": 141.6949958333286
+ },
+ "CL both, tau_cl=0.1|mask0.5|789|2": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8549382716049382,
+  "aupr": 0.8393382324980695,
+  "epochs": 120,
+  "ms_per_epoch": 152.46349666666296
+ },
+ "CL both, tau_cl=0.2|mask0.5|789|2": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8398148148148149,
+  "aupr": 0.8192727912662857,
+  "epochs": 120,
+  "ms_per_epoch": 155.63319916667146
+ },
+ "CL both, tau_cl=1.0|mask0.5|789|2": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 789,
+  "fold": 2,
+  "auc": 0.8475925925925926,
+  "aupr": 0.8358028904007898,
+  "epochs": 120,
+  "ms_per_epoch": 150.22894083332784
+ },
+ "CL none|mask0.5|789|3": {
+  "config": "CL none",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.884320987654321,
+  "aupr": 0.8762975682610644,
+  "epochs": 120,
+  "ms_per_epoch": 153.02385666665637
+ },
+ "CL disease only|mask0.5|789|3": {
+  "config": "CL disease only",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.8578395061728395,
+  "aupr": 0.8072894975458536,
+  "epochs": 120,
+  "ms_per_epoch": 153.89733916666347
+ },
+ "CL microbe only|mask0.5|789|3": {
+  "config": "CL microbe only",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.864074074074074,
+  "aupr": 0.8759647195226931,
+  "epochs": 120,
+  "ms_per_epoch": 150.81581666666654
+ },
+ "CL both, tau_cl=0.1|mask0.5|789|3": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.883888888888889,
+  "aupr": 0.8907315864945566,
+  "epochs": 120,
+  "ms_per_epoch": 150.94077833333967
+ },
+ "CL both, tau_cl=0.2|mask0.5|789|3": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.8601851851851852,
+  "aupr": 0.8742074197383263,
+  "epochs": 120,
+  "ms_per_epoch": 160.56729166666628
+ },
+ "CL both, tau_cl=1.0|mask0.5|789|3": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 789,
+  "fold": 3,
+  "auc": 0.8808024691358024,
+  "aupr": 0.8396273138923329,
+  "epochs": 120,
+  "ms_per_epoch": 175.8871474999978
+ },
+ "CL none|mask0.5|789|4": {
+  "config": "CL none",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.9024074074074073,
+  "aupr": 0.9063325309543108,
+  "epochs": 120,
+  "ms_per_epoch": 171.67999083333902
+ },
+ "CL disease only|mask0.5|789|4": {
+  "config": "CL disease only",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.9059876543209877,
+  "aupr": 0.9082198935675516,
+  "epochs": 120,
+  "ms_per_epoch": 159.10479666666407
+ },
+ "CL microbe only|mask0.5|789|4": {
+  "config": "CL microbe only",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.8930246913580248,
+  "aupr": 0.8919003127868863,
+  "epochs": 120,
+  "ms_per_epoch": 181.1849433333312
+ },
+ "CL both, tau_cl=0.1|mask0.5|789|4": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.9059259259259259,
+  "aupr": 0.9022665032004153,
+  "epochs": 120,
+  "ms_per_epoch": 182.89952833332185
+ },
+ "CL both, tau_cl=0.2|mask0.5|789|4": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.9078395061728395,
+  "aupr": 0.9087190019008649,
+  "epochs": 120,
+  "ms_per_epoch": 179.75119833333034
+ },
+ "CL both, tau_cl=1.0|mask0.5|789|4": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 789,
+  "fold": 4,
+  "auc": 0.8983950617283951,
+  "aupr": 0.9094591018116509,
+  "epochs": 120,
+  "ms_per_epoch": 185.69034583333632
+ },
+ "CL none|mask0.5|2024|0": {
+  "config": "CL none",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8489506172839507,
+  "aupr": 0.8082798082639591,
+  "epochs": 120,
+  "ms_per_epoch": 180.5723275000067
+ },
+ "CL disease only|mask0.5|2024|0": {
+  "config": "CL disease only",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8519753086419753,
+  "aupr": 0.8002477273880465,
+  "epochs": 120,
+  "ms_per_epoch": 158.8312274999983
+ },
+ "CL microbe only|mask0.5|2024|0": {
+  "config": "CL microbe only",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8493827160493828,
+  "aupr": 0.8194584345687418,
+  "epochs": 120,
+  "ms_per_epoch": 178.1204333333335
+ },
+ "CL both, tau_cl=0.1|mask0.5|2024|0": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8237037037037037,
+  "aupr": 0.7830348069213582,
+  "epochs": 120,
+  "ms_per_epoch": 174.57744333334327
+ },
+ "CL both, tau_cl=0.2|mask0.5|2024|0": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8511728395061728,
+  "aupr": 0.8068485270050287,
+  "epochs": 120,
+  "ms_per_epoch": 203.46571749999686
+ },
+ "CL both, tau_cl=1.0|mask0.5|2024|0": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 2024,
+  "fold": 0,
+  "auc": 0.8472222222222222,
+  "aupr": 0.8034608641122688,
+  "epochs": 120,
+  "ms_per_epoch": 159.47640666666604
+ },
+ "CL none|mask0.5|2024|1": {
+  "config": "CL none",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8314197530864198,
+  "aupr": 0.7908127116017607,
+  "epochs": 120,
+  "ms_per_epoch": 189.73927583333534
+ },
+ "CL disease only|mask0.5|2024|1": {
+  "config": "CL disease only",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.846604938271605,
+  "aupr": 0.7692719429086448,
+  "epochs": 120,
+  "ms_per_epoch": 175.18667416666176
+ },
+ "CL microbe only|mask0.5|2024|1": {
+  "config": "CL microbe only",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8819753086419754,
+  "aupr": 0.8674509433031306,
+  "epochs": 76,
+  "ms_per_epoch": 180.6196394736856
+ },
+ "CL both, tau_cl=0.1|mask0.5|2024|1": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8474074074074074,
+  "aupr": 0.7804632369663244,
+  "epochs": 120,
+  "ms_per_epoch": 190.67823499999577
+ },
+ "CL both, tau_cl=0.2|mask0.5|2024|1": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8462962962962963,
+  "aupr": 0.7674933986674923,
+  "epochs": 120,
+  "ms_per_epoch": 167.50590250000337
+ },
+ "CL both, tau_cl=1.0|mask0.5|2024|1": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 2024,
+  "fold": 1,
+  "auc": 0.8477777777777779,
+  "aupr": 0.7968547006233122,
+  "epochs": 120,
+  "ms_per_epoch": 202.57202583332705
+ },
+ "CL none|mask0.5|2024|2": {
+  "config": "CL none",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8360493827160493,
+  "aupr": 0.8586163757066241,
+  "epochs": 87,
+  "ms_per_epoch": 159.75969425286667
+ },
+ "CL disease only|mask0.5|2024|2": {
+  "config": "CL disease only",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8524691358024691,
+  "aupr": 0.8441766663005943,
+  "epochs": 120,
+  "ms_per_epoch": 174.63160166666967
+ },
+ "CL microbe only|mask0.5|2024|2": {
+  "config": "CL microbe only",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8660493827160494,
+  "aupr": 0.8602370879401207,
+  "epochs": 120,
+  "ms_per_epoch": 152.281459166655
+ },
+ "CL both, tau_cl=0.1|mask0.5|2024|2": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8576543209876544,
+  "aupr": 0.8499754811308975,
+  "epochs": 120,
+  "ms_per_epoch": 147.21394666667038
+ },
+ "CL both, tau_cl=0.2|mask0.5|2024|2": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8579012345679012,
+  "aupr": 0.8400252539120531,
+  "epochs": 120,
+  "ms_per_epoch": 152.0864141666607
+ },
+ "CL both, tau_cl=1.0|mask0.5|2024|2": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 2024,
+  "fold": 2,
+  "auc": 0.8318518518518518,
+  "aupr": 0.855521764066419,
+  "epochs": 87,
+  "ms_per_epoch": 140.98438505747274
+ },
+ "CL none|mask0.5|2024|3": {
+  "config": "CL none",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8296913580246914,
+  "aupr": 0.7986093192115198,
+  "epochs": 120,
+  "ms_per_epoch": 140.37326583332592
+ },
+ "CL disease only|mask0.5|2024|3": {
+  "config": "CL disease only",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8302469135802468,
+  "aupr": 0.8112765918135718,
+  "epochs": 120,
+  "ms_per_epoch": 141.62949166666294
+ },
+ "CL microbe only|mask0.5|2024|3": {
+  "config": "CL microbe only",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8380864197530865,
+  "aupr": 0.8105435649939743,
+  "epochs": 120,
+  "ms_per_epoch": 145.02950833333065
+ },
+ "CL both, tau_cl=0.1|mask0.5|2024|3": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8282716049382717,
+  "aupr": 0.80917757235693,
+  "epochs": 120,
+  "ms_per_epoch": 141.92487666665934
+ },
+ "CL both, tau_cl=0.2|mask0.5|2024|3": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8189506172839507,
+  "aupr": 0.7951738383307798,
+  "epochs": 120,
+  "ms_per_epoch": 139.733240000002
+ },
+ "CL both, tau_cl=1.0|mask0.5|2024|3": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 2024,
+  "fold": 3,
+  "auc": 0.8396296296296296,
+  "aupr": 0.8036398774382881,
+  "epochs": 120,
+  "ms_per_epoch": 136.9901108333276
+ },
+ "CL none|mask0.5|2024|4": {
+  "config": "CL none",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8706790123456791,
+  "aupr": 0.8456681340259244,
+  "epochs": 89,
+  "ms_per_epoch": 140.29705730335786
+ },
+ "CL disease only|mask0.5|2024|4": {
+  "config": "CL disease only",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8272222222222222,
+  "aupr": 0.7996933670245933,
+  "epochs": 120,
+  "ms_per_epoch": 133.21189083333894
+ },
+ "CL microbe only|mask0.5|2024|4": {
+  "config": "CL microbe only",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8470987654320988,
+  "aupr": 0.8291665234368257,
+  "epochs": 120,
+  "ms_per_epoch": 142.16816333334162
+ },
+ "CL both, tau_cl=0.1|mask0.5|2024|4": {
+  "config": "CL both, tau_cl=0.1",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8418518518518519,
+  "aupr": 0.8076572890787184,
+  "epochs": 120,
+  "ms_per_epoch": 138.5519824999998
+ },
+ "CL both, tau_cl=0.2|mask0.5|2024|4": {
+  "config": "CL both, tau_cl=0.2",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8330246913580247,
+  "aupr": 0.7963108487330401,
+  "epochs": 120,
+  "ms_per_epoch": 139.09706750000623
+ },
+ "CL both, tau_cl=1.0|mask0.5|2024|4": {
+  "config": "CL both, tau_cl=1.0",
+  "seed": 2024,
+  "fold": 4,
+  "auc": 0.8490740740740741,
+  "aupr": 0.8063449104414467,
+  "epochs": 120,
+  "ms_per_epoch": 146.9633516666666
+ }
+}

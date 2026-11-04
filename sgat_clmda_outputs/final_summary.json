@@ -1,0 +1,117 @@
+{
+ "parallel": {
+  "n": 25,
+  "leaky": "0.8992 \u00b1 0.0266",
+  "honest": "0.6668 \u00b1 0.0748",
+  "masked": "0.8474 \u00b1 0.0307",
+  "hybrid": "0.8857 \u00b1 0.0230",
+  "hybrid_aupr": "0.8930 \u00b1 0.0302",
+  "gap": 0.23234814814814814
+ },
+ "serial": {
+  "n": 25,
+  "leaky": "0.8626 \u00b1 0.0498",
+  "honest": "0.6717 \u00b1 0.0823",
+  "masked": "0.8196 \u00b1 0.0296",
+  "hybrid": "0.8622 \u00b1 0.0235",
+  "hybrid_aupr": "0.8777 \u00b1 0.0220",
+  "gap": 0.19082716049382717
+ },
+ "gcn_only": {
+  "n": 25,
+  "leaky": "0.9121 \u00b1 0.0290",
+  "honest": "0.6609 \u00b1 0.0709",
+  "masked": "0.8490 \u00b1 0.0250",
+  "hybrid": "0.8836 \u00b1 0.0182",
+  "hybrid_aupr": "0.8913 \u00b1 0.0238",
+  "gap": 0.25113086419753083
+ },
+ "gat_only": {
+  "n": 25,
+  "leaky": "0.8748 \u00b1 0.0301",
+  "honest": "0.6722 \u00b1 0.0936",
+  "masked": "0.8466 \u00b1 0.0312",
+  "hybrid": "0.8799 \u00b1 0.0237",
+  "hybrid_aupr": "0.8894 \u00b1 0.0246",
+  "gap": 0.202558024691358
+ },
+ "viewA_only": {
+  "n": 25,
+  "leaky": "0.8857 \u00b1 0.0240",
+  "honest": "0.7117 \u00b1 0.0793",
+  "masked": "0.8582 \u00b1 0.0274",
+  "hybrid": "0.8851 \u00b1 0.0205",
+  "hybrid_aupr": "0.8930 \u00b1 0.0233",
+  "gap": 0.17398765432098767
+ },
+ "paired": {
+  "Final (parallel, masked+CF) vs item-CF alone": {
+   "diff": 0.03088641975308643,
+   "p": 5.960464477539063e-08
+  },
+  "Final (parallel, masked+CF) vs masked parallel model alone": {
+   "diff": 0.03826419753086421,
+   "p": 5.960464477539063e-08
+  },
+  "Final vs KATZ-style (honest)": {
+   "diff": 0.01972592592592591,
+   "p": 3.220225529450529e-05
+  },
+  "masked+CF: parallel vs GCATCMDA-style (serial GCN->GAT)": {
+   "diff": 0.023437037037037048,
+   "p": 2.980232238769531e-07
+  },
+  "masked only: parallel vs GCATCMDA-style (serial GCN->GAT)": {
+   "diff": 0.02776296296296298,
+   "p": 1.8298625946044922e-05
+  },
+  "masked+CF: parallel vs GCN-only encoder": {
+   "diff": 0.0020469135802468983,
+   "p": 0.7111607789993286
+  },
+  "masked only: parallel vs GCN-only encoder": {
+   "diff": -0.0015432098765432124,
+   "p": 0.7264845348540796
+  },
+  "masked+CF: parallel vs GAT-only encoder": {
+   "diff": 0.0057802469135802515,
+   "p": 0.12179394457125725
+  },
+  "masked only: parallel vs GAT-only encoder": {
+   "diff": 0.0008024691358024638,
+   "p": 0.8119303584098816
+  },
+  "masked+CF: parallel vs SGAT-CLMDA without View B / contrastive": {
+   "diff": 0.0005407407407407305,
+   "p": 0.8531995415687561
+  },
+  "masked only: parallel vs SGAT-CLMDA without View B / contrastive": {
+   "diff": -0.010772839506172858,
+   "p": 0.017248403467000253
+  },
+  "masked only: parallel vs View-A-only (no View B)": {
+   "diff": -0.010772839506172858,
+   "p": 0.017248403467000253
+  },
+  "SGAT-CLMDA (parallel GCN || SAGA): honest+masked+CF vs honest plain": {
+   "diff": 0.21886913580246914,
+   "p": 5.960464477539063e-08
+  },
+  "GCATCMDA-style (serial GCN->GAT): honest+masked+CF vs honest plain": {
+   "diff": 0.19049876543209876,
+   "p": 5.960464477539063e-08
+  },
+  "GCN-only encoder: honest+masked+CF vs honest plain": {
+   "diff": 0.22269382716049385,
+   "p": 5.960464477539063e-08
+  },
+  "GAT-only encoder: honest+masked+CF vs honest plain": {
+   "diff": 0.20765679012345678,
+   "p": 5.960464477539063e-08
+  },
+  "SGAT-CLMDA without View B / contrastive: honest+masked+CF vs honest plain": {
+   "diff": 0.1733876543209877,
+   "p": 5.960464477539063e-08
+  }
+ }
+}

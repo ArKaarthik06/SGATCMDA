@@ -1,0 +1,5 @@
+42|0 {'rwr': 0.905, 'cf': 0.834, 'cf+rwr': 0.881, 'model': 0.8, 'model+cf': 0.855, 'model+rwr': 0.906, 'model+cf+rwr': 0.887, 'fused': 0.904, 'fused+cf': 0.885, 'fused_s': 1.32}
+42|1 {'rwr': 0.919, 'cf': 0.838, 'cf+rwr': 0.891, 'model': 0.83, 'model+cf': 0.858, 'model+rwr': 0.901, 'model+cf+rwr': 0.892, 'fused': 0.885, 'fused+cf': 0.884, 'fused_s': 0.6}
+42|2 {'rwr': 0.935, 'cf': 0.879, 'cf+rwr': 0.917, 'model': 0.879, 'model+cf': 0.91, 'model+rwr': 0.927, 'model+cf+rwr': 0.928, 'fused': 0.913, 'fused+cf': 0.91, 'fused_s': 1.0}
+42|3 {'rwr': 0.912, 'cf': 0.85, 'cf+rwr': 0.897, 'model': 0.805, 'model+cf': 0.874, 'model+rwr': 0.893, 'model+cf+rwr': 0.905, 'fused': 0.858, 'fused+cf': 0.891, 'fused_s': 0.87}
+42|4 {'rwr': 0.931, 'cf': 0.877, 'cf+rwr': 0.913, 'model': 0.86, 'model+cf': 0.913, 'model+rwr': 0.931, 'model+cf+rwr': 0.927, 'fused': 0.918, 'fused+cf': 0.91, 'fused_s': 1.16}

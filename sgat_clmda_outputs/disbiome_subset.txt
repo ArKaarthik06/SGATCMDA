@@ -1,0 +1,5743 @@
+Disease	Microbe
+Acne	aerococcus
+Acne	alkaliphilus
+Acne	allobaculum
+Acne	bacillus
+Acne	bacteroides
+Acne	bifidobacterium
+Acne	bilophila
+Acne	blautia
+Acne	butyricicoccus
+Acne	carnobacterium
+Acne	coprobacillus
+Acne	enhydrobacter
+Acne	enterobacteriaceae
+Acne	enterococcus
+Acne	faecalibacterium
+Acne	fusicatenibacter
+Acne	gemmiger
+Acne	granulicatella
+Acne	klebsiella
+Acne	lachnospira
+Acne	lachnospiraceae
+Acne	lactobacillus
+Acne	lactococcus
+Acne	lysinibacillus
+Acne	mycobacterium
+Acne	odoribacter
+Acne	oscillospira
+Acne	oxalobacter
+Acne	oxalobacteraceae
+Acne	paenibacillus
+Acne	paraprevotella
+Acne	planococcaceae
+Acne	propionibacterium
+Acne	proteobacteria
+Acne	rhodococcus
+Acne	ruminococcus
+Acne	staphylococcus
+Acquired Immunodeficiency Syndrome	bacteriodes
+Acquired Immunodeficiency Syndrome	bacteroides
+Acquired Immunodeficiency Syndrome	blautia
+Acquired Immunodeficiency Syndrome	dialister
+Acquired Immunodeficiency Syndrome	enterococcus
+Acquired Immunodeficiency Syndrome	faecalibacterium
+Acquired Immunodeficiency Syndrome	lachnoclostridium
+Acquired Immunodeficiency Syndrome	lachnospira
+Acquired Immunodeficiency Syndrome	lactobacillus
+Acquired Immunodeficiency Syndrome	megamonas
+Acquired Immunodeficiency Syndrome	phascolarctobacterium
+Acquired Immunodeficiency Syndrome	prevotella
+Acquired Immunodeficiency Syndrome	roseburia
+Acquired Immunodeficiency Syndrome	ruminiclostridium
+Acquired Immunodeficiency Syndrome	ruminococcus
+Acquired Immunodeficiency Syndrome	streptococcus
+Acute fatty liver	acinetobacter
+Acute fatty liver	adlercreutzia
+Acute fatty liver	blautia
+Acute fatty liver	carnobacterium
+Acute fatty liver	coprobacillus
+Acute fatty liver	dysgonomonas
+Acute fatty liver	enterococcus
+Acute fatty liver	fusicatenibacter
+Acute fatty liver	lysinibacillus
+Acute fatty liver	psychrobacter
+Acute fatty liver	terrisporobacter
+Acute fatty liver	weissella
+Acute lymphoblastic leukemia	alistipes
+Acute lymphoblastic leukemia	anaerococcus
+Acute lymphoblastic leukemia	atopobium
+Acute lymphoblastic leukemia	bacteriodes
+Acute lymphoblastic leukemia	bacteroides
+Acute lymphoblastic leukemia	bifidobacterium
+Acute lymphoblastic leukemia	campylobacter
+Acute lymphoblastic leukemia	corynebacterium
+Acute lymphoblastic leukemia	faecalibacterium
+Acute lymphoblastic leukemia	fusicatenibacter
+Acute lymphoblastic leukemia	peptoniphilus
+Acute lymphoblastic leukemia	porphyromonas
+Acute lymphoblastic leukemia	prevotella
+Acute lymphoblastic leukemia	pseudobutyrivibrio
+Acute lymphoblastic leukemia	staphylococcus
+Acute lymphoblastic leukemia	veillonellaceae
+Aerobic vaginitis	aerococcus
+Aerobic vaginitis	alloscardovia
+Aerobic vaginitis	anaerococcus
+Aerobic vaginitis	atopobium
+Aerobic vaginitis	bifidobacterium
+Aerobic vaginitis	burkholderia
+Aerobic vaginitis	candidatus
+Aerobic vaginitis	dialister
+Aerobic vaginitis	enterococcus
+Aerobic vaginitis	escherichia
+Aerobic vaginitis	eubacterium
+Aerobic vaginitis	faecalibacterium
+Aerobic vaginitis	finegoldia
+Aerobic vaginitis	gardnerella
+Aerobic vaginitis	gemella
+Aerobic vaginitis	haemophilus
+Aerobic vaginitis	klebsiella
+Aerobic vaginitis	lactobacillus
+Aerobic vaginitis	megasphaera
+Aerobic vaginitis	microbacterium
+Aerobic vaginitis	mycoplasma
+Aerobic vaginitis	pelomonas
+Aerobic vaginitis	phyllobacterium
+Aerobic vaginitis	porphyromonas
+Aerobic vaginitis	prevotella
+Aerobic vaginitis	pseudomonas
+Aerobic vaginitis	raoultella
+Aerobic vaginitis	roseburia
+Aerobic vaginitis	sneathia
+Aerobic vaginitis	staphylococcus
+Aerobic vaginitis	streptococcus
+Aerobic vaginitis	tissierellaceae
+Aerobic vaginitis	ureaplasma
+Aerobic vaginitis	veillonella
+Aggressive periodontitis	acinetobacter
+Aggressive periodontitis	actinomyces
+Aggressive periodontitis	akkermansia
+Aggressive periodontitis	atopobium
+Aggressive periodontitis	bacteroides
+Aggressive periodontitis	bifidobacterium
+Aggressive periodontitis	campylobacter
+Aggressive periodontitis	candidatus
+Aggressive periodontitis	capnocytophaga
+Aggressive periodontitis	cardiobacterium
+Aggressive periodontitis	clostridiaceae
+Aggressive periodontitis	corynebacterium
+Aggressive periodontitis	desulfobulbus
+Aggressive periodontitis	dysgonomonas
+Aggressive periodontitis	enterobacteriaceae
+Aggressive periodontitis	escherichia
+Aggressive periodontitis	eubacterium
+Aggressive periodontitis	faecalibacterium
+Aggressive periodontitis	filifactor
+Aggressive periodontitis	fretibacterium
+Aggressive periodontitis	fusobacterium
+Aggressive periodontitis	gemella
+Aggressive periodontitis	granulicatella
+Aggressive periodontitis	haemophilus
+Aggressive periodontitis	lachnospiraceae
+Aggressive periodontitis	lautropia
+Aggressive periodontitis	leptotrichia
+Aggressive periodontitis	leptotrichiaceae
+Aggressive periodontitis	mannheimia
+Aggressive periodontitis	mitsuokella
+Aggressive periodontitis	mycoplasma
+Aggressive periodontitis	neisseria
+Aggressive periodontitis	oribacterium
+Aggressive periodontitis	oscillospira
+Aggressive periodontitis	paracoccus
+Aggressive periodontitis	parvimonas
+Aggressive periodontitis	pedobacter
+Aggressive periodontitis	peptostreptococcaceae
+Aggressive periodontitis	peptostreptococcus
+Aggressive periodontitis	porphyromonas
+Aggressive periodontitis	prevotella
+Aggressive periodontitis	pseudomonadaceae
+Aggressive periodontitis	pseudomonas
+Aggressive periodontitis	pseudoramibacter
+Aggressive periodontitis	rikenellaceae
+Aggressive periodontitis	rothia
+Aggressive periodontitis	ruminococcus
+Aggressive periodontitis	selenomonas
+Aggressive periodontitis	sneathia
+Aggressive periodontitis	sphingobacterium
+Aggressive periodontitis	streptococcus
+Aggressive periodontitis	tanerella
+Aggressive periodontitis	tannerella
+Aggressive periodontitis	tissierellaceae
+Aggressive periodontitis	tm
+Aggressive periodontitis	treponema
+Aggressive periodontitis	veillonella
+Aggressive periodontitis	xanthomonadaceae
+Alcoholic cirrhosis	alistipes
+Alcoholic cirrhosis	bifidobacterium
+Alcoholic cirrhosis	catenibacterium
+Alcoholic cirrhosis	dialister
+Alcoholic cirrhosis	lactobacillus
+Alcoholic cirrhosis	paraprevotella
+Alcoholic cirrhosis	parvimonas
+Alcoholic cirrhosis	prevotella
+Alcoholic cirrhosis	staphylococcus
+Alcoholic cirrhosis	streptococcus
+Alcoholic hepatitis	acinetobacter
+Alcoholic hepatitis	actinomyces
+Alcoholic hepatitis	aggregatibacter
+Alcoholic hepatitis	anaerococcus
+Alcoholic hepatitis	atopobium
+Alcoholic hepatitis	bacteroidetes
+Alcoholic hepatitis	bifidobacterium
+Alcoholic hepatitis	bilophila
+Alcoholic hepatitis	bradyrhizobiaceae
+Alcoholic hepatitis	candida
+Alcoholic hepatitis	christensenellaceae
+Alcoholic hepatitis	clostridium
+Alcoholic hepatitis	debaryomyces
+Alcoholic hepatitis	desulfovibrio
+Alcoholic hepatitis	dorea
+Alcoholic hepatitis	enterobacteriaceae
+Alcoholic hepatitis	enterococcus
+Alcoholic hepatitis	flavobacterium
+Alcoholic hepatitis	haemophilus
+Alcoholic hepatitis	lachnospiraceae
+Alcoholic hepatitis	lactobacillus
+Alcoholic hepatitis	lactococcus
+Alcoholic hepatitis	leptotrichiaceae
+Alcoholic hepatitis	microbacterium
+Alcoholic hepatitis	neisseriaceae
+Alcoholic hepatitis	nocardioides
+Alcoholic hepatitis	odoribacter
+Alcoholic hepatitis	oscillospira
+Alcoholic hepatitis	parabacteroides
+Alcoholic hepatitis	penicillium
+Alcoholic hepatitis	peptostreptococcaceae
+Alcoholic hepatitis	prevotella
+Alcoholic hepatitis	rothia
+Alcoholic hepatitis	ruminococcus
+Alcoholic hepatitis	saccharomyces
+Alcoholic hepatitis	streptococcus
+Alcoholism	acidaminococcus
+Alcoholism	actinobacteria
+Alcoholism	actinomyces
+Alcoholism	adlercreutzia
+Alcoholism	aggregatibacter
+Alcoholism	akkermansia
+Alcoholism	alcaligenaceae
+Alcoholism	anaerostipes
+Alcoholism	bacteroides
+Alcoholism	bacteroidetes
+Alcoholism	bifidobacterium
+Alcoholism	bilophila
+Alcoholism	blautia
+Alcoholism	bulleidia
+Alcoholism	candida
+Alcoholism	cardiobacterium
+Alcoholism	catenibacterium
+Alcoholism	citrobacter
+Alcoholism	clostridium
+Alcoholism	collinsella
+Alcoholism	coprococcus
+Alcoholism	coriobacteriaceae
+Alcoholism	corynebacterium
+Alcoholism	debaryomyces
+Alcoholism	desulfovibrio
+Alcoholism	dialister
+Alcoholism	dorea
+Alcoholism	eikenella
+Alcoholism	enterobacteriaceae
+Alcoholism	enterococcus
+Alcoholism	epulopiscium
+Alcoholism	escherichia
+Alcoholism	eubacterium
+Alcoholism	faecalibacterium
+Alcoholism	granulicatella
+Alcoholism	haemophilus
+Alcoholism	holdemania
+Alcoholism	klebsiella
+Alcoholism	lachnospiraceae
+Alcoholism	lactobacillus
+Alcoholism	lactococcus
+Alcoholism	leptotrichia
+Alcoholism	megamonas
+Alcoholism	micrococcaceae
+Alcoholism	mitsuokella
+Alcoholism	morganella
+Alcoholism	neisseria
+Alcoholism	odoribacter
+Alcoholism	oribacterium
+Alcoholism	parabacteroides
+Alcoholism	paraprevotella
+Alcoholism	parascardovia
+Alcoholism	peptococcus
+Alcoholism	phascolarctobacterium
+Alcoholism	porphyromonas
+Alcoholism	prevotella
+Alcoholism	proteobacteria
+Alcoholism	rothia
+Alcoholism	ruminococcus
+Alcoholism	staphylococcus
+Alcoholism	streptococcus
+Alcoholism	sutterella
+Alcoholism	tissierellaceae
+Alcoholism	turicibacter
+Alcoholism	veillonella
+Allergy	bacteroides
+Allergy	bifidobacterium
+Allergy	blautia
+Allergy	clostridium
+Allergy	coprococcus
+Allergy	dorea
+Allergy	enterococcus
+Allergy	faecalibacterium
+Allergy	lachnospira
+Allergy	lachnospiraceae
+Allergy	lactobacillus
+Allergy	prevotella
+Allergy	roseburia
+Allergy	ruminococcaceae
+Allergy	ruminococcus
+Alopecia universalis	bacteroides
+Alopecia universalis	dorea
+Alopecia universalis	erysipelotrichaceae
+Alopecia universalis	flavonifractor
+Alopecia universalis	holdemania
+Alopecia universalis	lachnospiraceae
+Alopecia universalis	parabacteroides
+Alopecia universalis	phascolarctobacterium
+Alopecia universalis	streptococcus
+Alopecia universalis	turicibacter
+Alzheimer's Disease	acidovorax
+Alzheimer's Disease	acinetobacter
+Alzheimer's Disease	adlercreutzia
+Alzheimer's Disease	alistipes
+Alzheimer's Disease	bacteroidaceae
+Alzheimer's Disease	bacteroides
+Alzheimer's Disease	bacteroidetes
+Alzheimer's Disease	bifidobacterium
+Alzheimer's Disease	bilophila
+Alzheimer's Disease	blautia
+Alzheimer's Disease	clostridiaceae
+Alzheimer's Disease	clostridium
+Alzheimer's Disease	dialister
+Alzheimer's Disease	dorea
+Alzheimer's Disease	enterobacteriaceae
+Alzheimer's Disease	enterococcaceae
+Alzheimer's Disease	escherichia
+Alzheimer's Disease	eubacterium
+Alzheimer's Disease	gemella
+Alzheimer's Disease	halomonas
+Alzheimer's Disease	lachnoclostridium
+Alzheimer's Disease	lachnospiraceae
+Alzheimer's Disease	lactobacillaceae
+Alzheimer's Disease	lactobacillus
+Alzheimer's Disease	leucobacter
+Alzheimer's Disease	ochrobactrum
+Alzheimer's Disease	parabacteroides
+Alzheimer's Disease	paraprevotella
+Alzheimer's Disease	phascolarctobacterium
+Alzheimer's Disease	propionibacterium
+Alzheimer's Disease	proteobacteria
+Alzheimer's Disease	pseudomonas
+Alzheimer's Disease	ruminococcaceae
+Alzheimer's Disease	ruminococcus
+Alzheimer's Disease	shigella
+Alzheimer's Disease	streptococcus
+Alzheimer's Disease	subdoligranulum
+Alzheimer's Disease	sutterella
+Alzheimer's Disease	turicibacter
+Alzheimer's Disease	veillonellaceae
+Amyotrophic lateral sclerosis	anaerostipes
+Amyotrophic lateral sclerosis	anaerotruncus
+Amyotrophic lateral sclerosis	bacteroides
+Amyotrophic lateral sclerosis	clostridiales
+Amyotrophic lateral sclerosis	clostridium
+Amyotrophic lateral sclerosis	dorea
+Amyotrophic lateral sclerosis	eisenbergiella
+Amyotrophic lateral sclerosis	escherichia
+Amyotrophic lateral sclerosis	eubacterium
+Amyotrophic lateral sclerosis	faecalibacterium
+Amyotrophic lateral sclerosis	lachnospiraceae
+Amyotrophic lateral sclerosis	mannheimia
+Amyotrophic lateral sclerosis	megamonas
+Amyotrophic lateral sclerosis	methanobrevibacter
+Amyotrophic lateral sclerosis	odoribacter
+Amyotrophic lateral sclerosis	oscillibacter
+Amyotrophic lateral sclerosis	parabacteroides
+Amyotrophic lateral sclerosis	porphyromonadaceae
+Amyotrophic lateral sclerosis	roseburia
+Amyotrophic lateral sclerosis	ruminococcus
+Amyotrophic lateral sclerosis	sporobacter
+Ankylosing spondylitis	actinomyces
+Ankylosing spondylitis	alistipes
+Ankylosing spondylitis	bacteroidaceae
+Ankylosing spondylitis	bacteroides
+Ankylosing spondylitis	bifidobacterium
+Ankylosing spondylitis	blautia
+Ankylosing spondylitis	butyrivibrio
+Ankylosing spondylitis	campylobacter
+Ankylosing spondylitis	citrobacter
+Ankylosing spondylitis	clostridium
+Ankylosing spondylitis	collinsella
+Ankylosing spondylitis	corynebacterium
+Ankylosing spondylitis	dorea
+Ankylosing spondylitis	eggerthella
+Ankylosing spondylitis	enterobacter
+Ankylosing spondylitis	enterococcus
+Ankylosing spondylitis	escherichia
+Ankylosing spondylitis	eubacterium
+Ankylosing spondylitis	faecalibacterium
+Ankylosing spondylitis	flavonifractor
+Ankylosing spondylitis	fusobacterium
+Ankylosing spondylitis	klebsiella
+Ankylosing spondylitis	lachnospira
+Ankylosing spondylitis	lachnospiraceae
+Ankylosing spondylitis	megamonas
+Ankylosing spondylitis	megasphaera
+Ankylosing spondylitis	neisseria
+Ankylosing spondylitis	odoribacter
+Ankylosing spondylitis	oscillibacter
+Ankylosing spondylitis	parabacteroides
+Ankylosing spondylitis	parasutterella
+Ankylosing spondylitis	porphyromonadaceae
+Ankylosing spondylitis	prevotella
+Ankylosing spondylitis	prevotellaceae
+Ankylosing spondylitis	rikenellaceae
+Ankylosing spondylitis	roseburia
+Ankylosing spondylitis	rothia
+Ankylosing spondylitis	ruminococcaceae
+Ankylosing spondylitis	ruminococcus
+Ankylosing spondylitis	streptococcus
+Ankylosing spondylitis	sutterella
+Ankylosing spondylitis	veillonellaceae
+Anovulation	allobaculum
+Anovulation	anaerostipes
+Anovulation	atopobium
+Anovulation	burkholderia
+Anovulation	candidatus
+Anovulation	dialister
+Anovulation	lachnospiraceae
+Anovulation	lactococcus
+Anovulation	leptotrichia
+Anovulation	oscillospira
+Anovulation	peptococcus
+Anovulation	prevotella
+Anovulation	rikenellaceae
+Anovulation	roseburia
+Anovulation	ruminococcus
+Anovulation	slackia
+Aphthous ulcer	actinobacillus
+Aphthous ulcer	capnocytophaga
+Aphthous ulcer	gemella
+Aphthous ulcer	granulicatella
+Aphthous ulcer	haemophilus
+Aphthous ulcer	lactobacillus
+Aphthous ulcer	leptotrichia
+Aphthous ulcer	megasphaera
+Aphthous ulcer	prevotella
+Aphthous ulcer	shigella
+Aphthous ulcer	sphingomonas
+Aphthous ulcer	streptococcus
+Aphthous ulcer	veillonella
+Appendicitis	anaerofilum
+Appendicitis	anaerovorax
+Appendicitis	bacillus
+Appendicitis	bergeyella
+Appendicitis	bilophila
+Appendicitis	bulleidia
+Appendicitis	dialister
+Appendicitis	fusobacterium
+Appendicitis	mogibacterium
+Appendicitis	paenibacillus
+Appendicitis	parvimonas
+Appendicitis	peptostreptococcus
+Appendicitis	porphyromonas
+Appendicitis	proteus
+Appendicitis	rhizobium
+Appendicitis	streptococcus
+Arsenic exposure	bacteroides
+Arsenic exposure	bifidobacterium
+Arsenic exposure	blautia
+Arsenic exposure	coprococcus
+Arsenic exposure	enterobacteriaceae
+Arsenic exposure	enterococcus
+Arsenic exposure	parabacteroides
+Arsenic exposure	pseudoramibacter
+Arsenic exposure	rikenellaceae
+Arsenic exposure	ruminococcus
+Arsenic exposure	streptococcus
+Asthma	acidaminococcus
+Asthma	acinetobacter
+Asthma	actinobacillus
+Asthma	actinomyces
+Asthma	adlercreutzia
+Asthma	aggregatibacter
+Asthma	alicyclobacillus
+Asthma	alistipes
+Asthma	alloiococcus
+Asthma	anaerostipes
+Asthma	anaerovorax
+Asthma	bacteroides
+Asthma	bifidobacterium
+Asthma	brevundimonas
+Asthma	bulleidia
+Asthma	butyrivibrio
+Asthma	capnocytophaga
+Asthma	catonella
+Asthma	clostridiaceae
+Asthma	clostridium
+Asthma	comamonadaceae
+Asthma	corynebacterium
+Asthma	cryptococcus
+Asthma	deinococcus
+Asthma	dialister
+Asthma	eisenbergiella
+Asthma	enterobacteriaceae
+Asthma	enterococcus
+Asthma	escherichia
+Asthma	eubacterium
+Asthma	faecalibacterium
+Asthma	filifactor
+Asthma	flavonifractor
+Asthma	fusobacterium
+Asthma	gammaproteobacteria
+Asthma	gemella
+Asthma	granulicatella
+Asthma	haemophilus
+Asthma	helicobacter
+Asthma	klebsiella
+Asthma	lachnospira
+Asthma	lactobacillus
+Asthma	leptotrichia
+Asthma	leuconostoc
+Asthma	leucosporidium
+Asthma	moraxella
+Asthma	mycobacterium
+Asthma	mycoplana
+Asthma	neisseria
+Asthma	odoribacter
+Asthma	oribacterium
+Asthma	oscillibacter
+Asthma	oxalobacteraceae
+Asthma	paludibacter
+Asthma	parabacteroides
+Asthma	parvimonas
+Asthma	peptococcus
+Asthma	phyllobacterium
+Asthma	planococcaceae
+Asthma	porphyromonadaceae
+Asthma	prevotella
+Asthma	proteobacteria
+Asthma	proteus
+Asthma	pseudomonadaceae
+Asthma	pseudomonas
+Asthma	pyramidobacter
+Asthma	rhodotorula
+Asthma	romboutsia
+Asthma	roseburia
+Asthma	rothia
+Asthma	rubellimicrobium
+Asthma	ruminococcus
+Asthma	slackia
+Asthma	sphingomonadaceae
+Asthma	staphylococcus
+Asthma	stenotrophomonas
+Asthma	streptococcus
+Asthma	tannerella
+Asthma	tm
+Asthma	treponema
+Asthma	veillonella
+Asthma	weeksella
+Atherosclerosis	alistipes
+Atherosclerosis	anaeroglobus
+Atherosclerosis	atopobium
+Atherosclerosis	bacteroides
+Atherosclerosis	bulleidia
+Atherosclerosis	collinsella
+Atherosclerosis	eggerthella
+Atherosclerosis	enterobacter
+Atherosclerosis	escherichia
+Atherosclerosis	eubacterium
+Atherosclerosis	faecalibacterium
+Atherosclerosis	klebsiella
+Atherosclerosis	lactobacillus
+Atherosclerosis	mucor
+Atherosclerosis	prevotella
+Atherosclerosis	roseburia
+Atherosclerosis	ruminococcus
+Atherosclerosis	streptococcus
+Atopic dermatitis	actinomyces
+Atopic dermatitis	agrobacterium
+Atopic dermatitis	akkermansia
+Atopic dermatitis	alloiococcus
+Atopic dermatitis	atopobium
+Atopic dermatitis	bacteroides
+Atopic dermatitis	bifidobacterium
+Atopic dermatitis	blautia
+Atopic dermatitis	bulleidia
+Atopic dermatitis	burkholderia
+Atopic dermatitis	clostridioides
+Atopic dermatitis	clostridium
+Atopic dermatitis	coprococcus
+Atopic dermatitis	corynebacterium
+Atopic dermatitis	dietzia
+Atopic dermatitis	eggerthella
+Atopic dermatitis	enterococcus
+Atopic dermatitis	eubacterium
+Atopic dermatitis	faecalibacterium
+Atopic dermatitis	granulicatella
+Atopic dermatitis	klebsiella
+Atopic dermatitis	lactobacillus
+Atopic dermatitis	leptotrichia
+Atopic dermatitis	limnobacter
+Atopic dermatitis	oscillospira
+Atopic dermatitis	parabacteroides
+Atopic dermatitis	paracoccus
+Atopic dermatitis	porphyromonas
+Atopic dermatitis	prevotella
+Atopic dermatitis	propionibacterium
+Atopic dermatitis	pseudomonas
+Atopic dermatitis	rhodococcus
+Atopic dermatitis	rothia
+Atopic dermatitis	sphingomonas
+Atopic dermatitis	staphylococcus
+Atopic dermatitis	streptococcus
+Atopic dermatitis	sutterella
+Atopic dermatitis	veillonella
+Atrial fibrillation	alistipes
+Atrial fibrillation	anaerotruncus
+Atrial fibrillation	bacteroides
+Atrial fibrillation	bacteroidetes
+Atrial fibrillation	bifidobacterium
+Atrial fibrillation	bilophila
+Atrial fibrillation	blautia
+Atrial fibrillation	butyricicoccus
+Atrial fibrillation	coprobacillus
+Atrial fibrillation	dorea
+Atrial fibrillation	enterococcus
+Atrial fibrillation	eubacterium
+Atrial fibrillation	faecalibacterium
+Atrial fibrillation	firmicutes
+Atrial fibrillation	flavonifractor
+Atrial fibrillation	hungatella
+Atrial fibrillation	oscillibacter
+Atrial fibrillation	prevotella
+Atrial fibrillation	roseburia
+Atrial fibrillation	ruminococcus
+Atrial fibrillation	streptococcus
+Atrial fibrillation	sutterella
+Atrial fibrillation	veillonella
+Attention Deficit Hyperactivity Disorder	alcaligenaceae
+Attention Deficit Hyperactivity Disorder	bacteriodes
+Attention Deficit Hyperactivity Disorder	bacteroides
+Attention Deficit Hyperactivity Disorder	bifidobacterium
+Attention Deficit Hyperactivity Disorder	clostridiales
+Attention Deficit Hyperactivity Disorder	dialister
+Attention Deficit Hyperactivity Disorder	faecalibacterium
+Attention Deficit Hyperactivity Disorder	fusobacterium
+Attention Deficit Hyperactivity Disorder	lachnoclostridium
+Attention Deficit Hyperactivity Disorder	lachnospiraceae
+Attention Deficit Hyperactivity Disorder	lactobacillus
+Attention Deficit Hyperactivity Disorder	moraxellaceae
+Attention Deficit Hyperactivity Disorder	odoribacter
+Attention Deficit Hyperactivity Disorder	paraprevotella
+Attention Deficit Hyperactivity Disorder	peptococcaceae
+Attention Deficit Hyperactivity Disorder	peptostreptococcaceae
+Attention Deficit Hyperactivity Disorder	ruminococcus
+Attention Deficit Hyperactivity Disorder	sutterella
+Attention Deficit Hyperactivity Disorder	veillonella
+Attention Deficit Hyperactivity Disorder	xanthomonadaceae
+Autism	akkermansia
+Autism	alistipes
+Autism	anaerofilum
+Autism	anaerostipes
+Autism	bacillus
+Autism	bacteriodes
+Autism	bacteroides
+Autism	barnesiella
+Autism	bifidobacterium
+Autism	blautia
+Autism	butyricicoccus
+Autism	christensenella
+Autism	clostridioides
+Autism	clostridium
+Autism	collinsella
+Autism	coprococcus
+Autism	desulfovibrio
+Autism	dialister
+Autism	dorea
+Autism	eggerthella
+Autism	enterobacter
+Autism	enterococcus
+Autism	erysipelatoclostridium
+Autism	escherichia
+Autism	eubacterium
+Autism	faecalibacterium
+Autism	flavonifractor
+Autism	fusobacterium
+Autism	haemophilus
+Autism	holdemania
+Autism	klebsiella
+Autism	lactobacillus
+Autism	megasphaera
+Autism	mitsuokella
+Autism	odoribacter
+Autism	oscillospira
+Autism	parabacteroides
+Autism	parasutterella
+Autism	phascolarctobacterium
+Autism	prevotella
+Autism	prevotellaceae
+Autism	roseburia
+Autism	ruminococcus
+Autism	shigella
+Autism	sporobacter
+Autism	streptococcus
+Autism	subdoligranulum
+Autism	sutterella
+Autism	terrisporobacter
+Autism	turicibacter
+Autism	tyzzerella
+Autism	veillonellaceae
+Autism spectrum disorders	acidobacteria
+Autism spectrum disorders	actinomyces
+Autism spectrum disorders	adlercreutzia
+Autism spectrum disorders	aerococcus
+Autism spectrum disorders	alistipes
+Autism spectrum disorders	allisonella
+Autism spectrum disorders	alloprevotella
+Autism spectrum disorders	anaerotruncus
+Autism spectrum disorders	atopobium
+Autism spectrum disorders	bacillus
+Autism spectrum disorders	bacteroides
+Autism spectrum disorders	bacteroidetes
+Autism spectrum disorders	barnesiella
+Autism spectrum disorders	bifidobacterium
+Autism spectrum disorders	bilophila
+Autism spectrum disorders	blautia
+Autism spectrum disorders	bulleidia
+Autism spectrum disorders	burkholderia
+Autism spectrum disorders	butyricimonas
+Autism spectrum disorders	butyrivibrio
+Autism spectrum disorders	campylobacter
+Autism spectrum disorders	candida
+Autism spectrum disorders	candidatus
+Autism spectrum disorders	cardiobacterium
+Autism spectrum disorders	catonella
+Autism spectrum disorders	clostridiaceae
+Autism spectrum disorders	clostridium
+Autism spectrum disorders	collinsella
+Autism spectrum disorders	coprococcus
+Autism spectrum disorders	coriobacteriaceae
+Autism spectrum disorders	corynebacterium
+Autism spectrum disorders	desulfovibrio
+Autism spectrum disorders	dialister
+Autism spectrum disorders	dorea
+Autism spectrum disorders	eggerthella
+Autism spectrum disorders	enterobacteriaceae
+Autism spectrum disorders	enterococcus
+Autism spectrum disorders	erysipelatoclostridium
+Autism spectrum disorders	erysipelotrichaceae
+Autism spectrum disorders	escherichia
+Autism spectrum disorders	eubacterium
+Autism spectrum disorders	ezakiella
+Autism spectrum disorders	faecalibacterium
+Autism spectrum disorders	flavonifractor
+Autism spectrum disorders	fusicatenibacter
+Autism spectrum disorders	fusobacterium
+Autism spectrum disorders	haemophilus
+Autism spectrum disorders	holdemanella
+Autism spectrum disorders	intestinibacter
+Autism spectrum disorders	kingella
+Autism spectrum disorders	klebsiella
+Autism spectrum disorders	lachnoanaerobaculum
+Autism spectrum disorders	lachnobacterium
+Autism spectrum disorders	lachnoclostridium
+Autism spectrum disorders	lachnospira
+Autism spectrum disorders	lachnospiraceae
+Autism spectrum disorders	lactobacillus
+Autism spectrum disorders	lactococcus
+Autism spectrum disorders	lautropia
+Autism spectrum disorders	megamonas
+Autism spectrum disorders	megasphaera
+Autism spectrum disorders	mogibacterium
+Autism spectrum disorders	neisseriaceae
+Autism spectrum disorders	odoribacter
+Autism spectrum disorders	olsenella
+Autism spectrum disorders	oribacterium
+Autism spectrum disorders	oscillospira
+Autism spectrum disorders	oxalobacter
+Autism spectrum disorders	parabacteroides
+Autism spectrum disorders	parvimonas
+Autism spectrum disorders	pasteurellaceae
+Autism spectrum disorders	peptococcus
+Autism spectrum disorders	peptoniphilus
+Autism spectrum disorders	peptostreptococcaceae
+Autism spectrum disorders	peptostreptococcus
+Autism spectrum disorders	phascolarctobacterium
+Autism spectrum disorders	porphyromonas
+Autism spectrum disorders	prevotella
+Autism spectrum disorders	pseudomonas
+Autism spectrum disorders	romboutsia
+Autism spectrum disorders	roseburia
+Autism spectrum disorders	rothia
+Autism spectrum disorders	ruminiclostridium
+Autism spectrum disorders	ruminococcaceae
+Autism spectrum disorders	ruminococcus
+Autism spectrum disorders	selenomonas
+Autism spectrum disorders	shigella
+Autism spectrum disorders	solobacterium
+Autism spectrum disorders	stomatobaculum
+Autism spectrum disorders	streptococcaceae
+Autism spectrum disorders	streptococcus
+Autism spectrum disorders	sutterella
+Autism spectrum disorders	tannerella
+Autism spectrum disorders	tm
+Autism spectrum disorders	treponema
+Autism spectrum disorders	tyzzerella
+Autism spectrum disorders	veillonella
+Autism spectrum disorders	veillonellaceae
+Autoimmune hepatitis	bifidobacterium
+Autoimmune hepatitis	clostridiales
+Autoimmune hepatitis	clostridium
+Autoimmune hepatitis	coprococcus
+Autoimmune hepatitis	klebsiella
+Autoimmune hepatitis	lactobacillales
+Autoimmune hepatitis	lactobacillus
+Autoimmune hepatitis	oscillospira
+Autoimmune hepatitis	parabacteroides
+Autoimmune hepatitis	rikenellaceae
+Autoimmune hepatitis	ruminococcaceae
+Autoimmune hepatitis	streptococcus
+Autoimmune hepatitis	veillonella
+Autoimmune polyendocrine syndrome type 1	actinomyces
+Autoimmune polyendocrine syndrome type 1	aggregatibacter
+Autoimmune polyendocrine syndrome type 1	atopobium
+Autoimmune polyendocrine syndrome type 1	bacteroides
+Autoimmune polyendocrine syndrome type 1	bacteroidetes
+Autoimmune polyendocrine syndrome type 1	bulleidia
+Autoimmune polyendocrine syndrome type 1	campylobacter
+Autoimmune polyendocrine syndrome type 1	capnocytophaga
+Autoimmune polyendocrine syndrome type 1	catonella
+Autoimmune polyendocrine syndrome type 1	desulfovibrio
+Autoimmune polyendocrine syndrome type 1	eubacterium
+Autoimmune polyendocrine syndrome type 1	fretibacterium
+Autoimmune polyendocrine syndrome type 1	fusobacterium
+Autoimmune polyendocrine syndrome type 1	gemella
+Autoimmune polyendocrine syndrome type 1	haemophilus
+Autoimmune polyendocrine syndrome type 1	lachnoanaerobaculum
+Autoimmune polyendocrine syndrome type 1	lachnospiraceae
+Autoimmune polyendocrine syndrome type 1	leptotrichia
+Autoimmune polyendocrine syndrome type 1	megasphaera
+Autoimmune polyendocrine syndrome type 1	mitsuokella
+Autoimmune polyendocrine syndrome type 1	mogibacterium
+Autoimmune polyendocrine syndrome type 1	neisseria
+Autoimmune polyendocrine syndrome type 1	peptostreptococcaceae
+Autoimmune polyendocrine syndrome type 1	porphyromonas
+Autoimmune polyendocrine syndrome type 1	prevotella
+Autoimmune polyendocrine syndrome type 1	ruminococcaceae
+Autoimmune polyendocrine syndrome type 1	streptococcus
+Autoimmune polyendocrine syndrome type 1	tanerella
+Autoimmune polyendocrine syndrome type 1	veillonella
+Bacterial vaginosis	acinetobacter
+Bacterial vaginosis	actinomyces
+Bacterial vaginosis	actinomycetaceae
+Bacterial vaginosis	aerococcus
+Bacterial vaginosis	allisonella
+Bacterial vaginosis	alloiococcus
+Bacterial vaginosis	anaerococcus
+Bacterial vaginosis	atopobium
+Bacterial vaginosis	citrobacter
+Bacterial vaginosis	clostridium
+Bacterial vaginosis	coriobacteriaceae
+Bacterial vaginosis	dialister
+Bacterial vaginosis	eggerthella
+Bacterial vaginosis	enterococcus
+Bacterial vaginosis	fusobacterium
+Bacterial vaginosis	gardnerella
+Bacterial vaginosis	howardella
+Bacterial vaginosis	lachnospira
+Bacterial vaginosis	lachnospiraceae
+Bacterial vaginosis	lactobacillus
+Bacterial vaginosis	leptotrichia
+Bacterial vaginosis	leptotrichiaceae
+Bacterial vaginosis	megasphaera
+Bacterial vaginosis	methanobrevibacter
+Bacterial vaginosis	mobiluncus
+Bacterial vaginosis	mycoplasma
+Bacterial vaginosis	papillibacter
+Bacterial vaginosis	parvimonas
+Bacterial vaginosis	peptoniphilus
+Bacterial vaginosis	peptostreptococcus
+Bacterial vaginosis	porphyromonas
+Bacterial vaginosis	prevotella
+Bacterial vaginosis	propionibacteriaceae
+Bacterial vaginosis	sneathia
+Bacterial vaginosis	streptococcus
+Bacterial vaginosis	ureaplasma
+Bacterial vaginosis	veillonella
+Barrett's oesophagus	aggregatibacter
+Barrett's oesophagus	bulleidia
+Barrett's oesophagus	campylobacter
+Barrett's oesophagus	firmicutes
+Barrett's oesophagus	fusobacterium
+Barrett's oesophagus	gemella
+Barrett's oesophagus	mogibacterium
+Barrett's oesophagus	mycoplasma
+Barrett's oesophagus	neisseria
+Barrett's oesophagus	porphyromonas
+Barrett's oesophagus	prevotella
+Barrett's oesophagus	sphingomonas
+Barrett's oesophagus	streptococcus
+Barrett's oesophagus	veillonella
+Behcet's Disease	acidaminococcus
+Behcet's Disease	actinomyces
+Behcet's Disease	alistipes
+Behcet's Disease	alloprevotella
+Behcet's Disease	anaerotruncus
+Behcet's Disease	atopobium
+Behcet's Disease	bacteroides
+Behcet's Disease	bacteroidetes
+Behcet's Disease	bifidobacterium
+Behcet's Disease	bilophila
+Behcet's Disease	bulleidia
+Behcet's Disease	butyrivibrio
+Behcet's Disease	campylobacter
+Behcet's Disease	clostridiales
+Behcet's Disease	clostridium
+Behcet's Disease	collinsella
+Behcet's Disease	coprococcus
+Behcet's Disease	dialister
+Behcet's Disease	eggerthella
+Behcet's Disease	eubacterium
+Behcet's Disease	filifactor
+Behcet's Disease	fusobacterium
+Behcet's Disease	gemella
+Behcet's Disease	haemophilus
+Behcet's Disease	lachnoanaerobaculum
+Behcet's Disease	lachnospiraceae
+Behcet's Disease	lactobacillus
+Behcet's Disease	leptotrichia
+Behcet's Disease	megamonas
+Behcet's Disease	megasphaera
+Behcet's Disease	mitsuokella
+Behcet's Disease	neisseria
+Behcet's Disease	oribacterium
+Behcet's Disease	oscillibacter
+Behcet's Disease	parabacteroides
+Behcet's Disease	paraprevotella
+Behcet's Disease	prevotella
+Behcet's Disease	pyramidobacter
+Behcet's Disease	roseburia
+Behcet's Disease	rothia
+Behcet's Disease	selenomonas
+Behcet's Disease	streptococcus
+Behcet's Disease	subdoligranulum
+Behcet's Disease	tm
+Behcet's Disease	veillonella
+Biliary atresia	anaerostipes
+Biliary atresia	bacteroides
+Biliary atresia	bifidobacterium
+Biliary atresia	blautia
+Biliary atresia	clostridium
+Biliary atresia	enterococcus
+Biliary atresia	faecalibacterium
+Biliary atresia	haemophilus
+Biliary atresia	klebsiella
+Biliary atresia	lachnospiraceae
+Biliary atresia	lactobacillus
+Biliary atresia	megasphaera
+Biliary atresia	streptococcus
+Bipolar disorder	bacteroides
+Bipolar disorder	bacteroidetes
+Bipolar disorder	clostridiaceae
+Bipolar disorder	coprococcus
+Bipolar disorder	coriobacteriaceae
+Bipolar disorder	faecalibacterium
+Bipolar disorder	flavonifractor
+Bipolar disorder	gemmiger
+Bipolar disorder	halomonas
+Bipolar disorder	parabacteroides
+Bipolar disorder	parasutterella
+Bipolar disorder	proteobacteria
+Bipolar disorder	pseudomonadaceae
+Bipolar disorder	roseburia
+Bipolar disorder	ruminococcaceae
+Bipolar disorder	ruminococcus
+Bipolar disorder	weissella
+Bladder cancer	acinetobacter
+Bladder cancer	actinobaculum
+Bladder cancer	actinomyces
+Bladder cancer	aeromonas
+Bladder cancer	anaerococcus
+Bladder cancer	anoxybacillus
+Bladder cancer	bacteroides
+Bladder cancer	bifidobacterium
+Bladder cancer	corynebacterium
+Bladder cancer	fusobacterium
+Bladder cancer	lactobacillus
+Bladder cancer	pelomonas
+Bladder cancer	prevotella
+Bladder cancer	proteus
+Bladder cancer	ralstonia
+Bladder cancer	roseburia
+Bladder cancer	ruminiclostridium
+Bladder cancer	ruminococcaceae
+Bladder cancer	serratia
+Bladder cancer	shigella
+Bladder cancer	sphingobacterium
+Bladder cancer	sphingomonas
+Bladder cancer	streptococcus
+Bladder cancer	subdoligranulum
+Bladder cancer	veillonella
+Bleeding gum	actinomyces
+Bleeding gum	fusobacterium
+Bleeding gum	gemella
+Bleeding gum	granulicatella
+Bleeding gum	haemophilus
+Bleeding gum	lautropia
+Bleeding gum	neisseria
+Bleeding gum	olsenella
+Bleeding gum	porphyromonas
+Bleeding gum	prevotella
+Bleeding gum	streptococcus
+Bleeding gum	veillonella
+Breast cancer	acinetobacter
+Breast cancer	actinomyces
+Breast cancer	alcaligenaceae
+Breast cancer	alistipes
+Breast cancer	atopobium
+Breast cancer	bacillus
+Breast cancer	bacteroidetes
+Breast cancer	clostridiales
+Breast cancer	comamonadaceae
+Breast cancer	corynebacterium
+Breast cancer	enterobacteriaceae
+Breast cancer	escherichia
+Breast cancer	fusobacterium
+Breast cancer	lactobacillus
+Breast cancer	lactococcus
+Breast cancer	methylobacterium
+Breast cancer	microbacterium
+Breast cancer	micrococcaceae
+Breast cancer	micrococcus
+Breast cancer	mycobacterium
+Breast cancer	prevotella
+Breast cancer	propionibacteriaceae
+Breast cancer	ralstonia
+Breast cancer	rhodobacteraceae
+Breast cancer	salmonella
+Breast cancer	sphingobium
+Breast cancer	sphingomonadaceae
+Breast cancer	staphylococcus
+Breast cancer	streptococcus
+Breast cancer	veillonella
+COPD Exacerbation	acinetobacter
+COPD Exacerbation	actinomyces
+COPD Exacerbation	bergeyella
+COPD Exacerbation	campylobacter
+COPD Exacerbation	capnocytophaga
+COPD Exacerbation	firmicutes
+COPD Exacerbation	gemella
+COPD Exacerbation	haemophilus
+COPD Exacerbation	lachnospiraceae
+COPD Exacerbation	moraxella
+COPD Exacerbation	prevotella
+COPD Exacerbation	proteobacteria
+COPD Exacerbation	ruminococcaceae
+COPD Exacerbation	streptococcus
+COPD Exacerbation	subdoligranulum
+COPD Exacerbation	treponema
+Cardiac valve calcification	bacteroides
+Cardiac valve calcification	blautia
+Cardiac valve calcification	clostridiaceae
+Cardiac valve calcification	dorea
+Cardiac valve calcification	enterococcus
+Cardiac valve calcification	erysipelotrichaceae
+Cardiac valve calcification	fusobacterium
+Cardiac valve calcification	lactobacillus
+Cardiac valve calcification	megamonas
+Cardiac valve calcification	prevotella
+Cardiac valve calcification	ruminococcaceae
+Cardiac valve calcification	veillonella
+Caries	acinetobacter
+Caries	actinobacillus
+Caries	actinobaculum
+Caries	actinomyces
+Caries	alloprevotella
+Caries	alternaria
+Caries	anaeroglobus
+Caries	aspergillus
+Caries	atopobium
+Caries	bacteroides
+Caries	bacteroidetes
+Caries	bergeriella
+Caries	bergeyella
+Caries	bifidobacterium
+Caries	burkholderia
+Caries	campylobacter
+Caries	candida
+Caries	capnocytophaga
+Caries	cardiobacterium
+Caries	comamonas
+Caries	corynebacterium
+Caries	cryptococcus
+Caries	debaryomyces
+Caries	delftia
+Caries	dialister
+Caries	dolosigranulum
+Caries	eikenella
+Caries	eubacterium
+Caries	filifactor
+Caries	fretibacterium
+Caries	fusobacterium
+Caries	granulicatella
+Caries	haemophilus
+Caries	kingella
+Caries	lachnoanaerobaculum
+Caries	lachnospiraceae
+Caries	lactobacillus
+Caries	lautropia
+Caries	leptotrichia
+Caries	malassezia
+Caries	megasphaera
+Caries	mitsuokella
+Caries	mogibacterium
+Caries	moryella
+Caries	mucor
+Caries	mycoplasma
+Caries	naganishia
+Caries	neisseria
+Caries	olsenella
+Caries	oribacterium
+Caries	parascardovia
+Caries	penicillium
+Caries	peptococcus
+Caries	peptostreptococcaceae
+Caries	porphyromonas
+Caries	prevotella
+Caries	propionibacterium
+Caries	pseudomonas
+Caries	pseudoramibacter
+Caries	rhodotorula
+Caries	rothia
+Caries	scardovia
+Caries	selenomonas
+Caries	shigella
+Caries	shuttleworthia
+Caries	solobacterium
+Caries	staphylococcus
+Caries	stomatobaculum
+Caries	streptococcus
+Caries	treponema
+Caries	veillonella
+Caries	veillonellaceae
+Caries	weissella
+Celiac Disease, Coaliac disease	acinetobacter
+Celiac Disease, Coaliac disease	actinomyces
+Celiac Disease, Coaliac disease	akkermansia
+Celiac Disease, Coaliac disease	alloscardovia
+Celiac Disease, Coaliac disease	anaerostipes
+Celiac Disease, Coaliac disease	atopobium
+Celiac Disease, Coaliac disease	bacteroides
+Celiac Disease, Coaliac disease	bacteroidetes
+Celiac Disease, Coaliac disease	bergeriella
+Celiac Disease, Coaliac disease	bifidobacterium
+Celiac Disease, Coaliac disease	blautia
+Celiac Disease, Coaliac disease	clostridium
+Celiac Disease, Coaliac disease	coprococcus
+Celiac Disease, Coaliac disease	coriobacteriaceae
+Celiac Disease, Coaliac disease	corynebacterium
+Celiac Disease, Coaliac disease	dorea
+Celiac Disease, Coaliac disease	enterobacteriaceae
+Celiac Disease, Coaliac disease	enterococcus
+Celiac Disease, Coaliac disease	escherichia
+Celiac Disease, Coaliac disease	faecalibacterium
+Celiac Disease, Coaliac disease	firmicutes
+Celiac Disease, Coaliac disease	fusobacteria
+Celiac Disease, Coaliac disease	gemella
+Celiac Disease, Coaliac disease	granulicatella
+Celiac Disease, Coaliac disease	helicobacter
+Celiac Disease, Coaliac disease	intestinibacter
+Celiac Disease, Coaliac disease	klebsiella
+Celiac Disease, Coaliac disease	lachnospiraceae
+Celiac Disease, Coaliac disease	lactobacillales
+Celiac Disease, Coaliac disease	lactobacillus
+Celiac Disease, Coaliac disease	leptotrichia
+Celiac Disease, Coaliac disease	megasphaera
+Celiac Disease, Coaliac disease	mogibacterium
+Celiac Disease, Coaliac disease	neisseria
+Celiac Disease, Coaliac disease	parabacteroides
+Celiac Disease, Coaliac disease	parvimonas
+Celiac Disease, Coaliac disease	pediococcus
+Celiac Disease, Coaliac disease	peptostreptococcaceae
+Celiac Disease, Coaliac disease	porphyromonas
+Celiac Disease, Coaliac disease	prevotella
+Celiac Disease, Coaliac disease	roseburia
+Celiac Disease, Coaliac disease	rothia
+Celiac Disease, Coaliac disease	salmonella
+Celiac Disease, Coaliac disease	selenomonas
+Celiac Disease, Coaliac disease	shigella
+Celiac Disease, Coaliac disease	simonsiella
+Celiac Disease, Coaliac disease	staphylococcus
+Celiac Disease, Coaliac disease	streptococcus
+Celiac Disease, Coaliac disease	veillonella
+Celiac Disease, Coaliac disease	veillonellaceae
+Cervical cancer	alkaliphilus
+Cervical cancer	anaerococcus
+Cervical cancer	dorea
+Cervical cancer	gardnerella
+Cervical cancer	halomonas
+Cervical cancer	lactobacillus
+Cervical cancer	morganella
+Cervical cancer	peptostreptococcus
+Cervical cancer	phascolarctobacterium
+Cervical cancer	proteus
+Cervical cancer	pseudoalteromonas
+Cervical cancer	psychrobacter
+Cervical cancer	roseburia
+Cervical cancer	ruminococcus
+Cervical cancer	shewanella
+Cervical cancer	sneathia
+Cervical cancer	succinivibrio
+Chagas' disease	actinobacillus
+Chagas' disease	actinomyces
+Chagas' disease	bacteroides
+Chagas' disease	blautia
+Chagas' disease	butyrivibrio
+Chagas' disease	comamonadaceae
+Chagas' disease	enterococcus
+Chagas' disease	fusobacterium
+Chagas' disease	lactobacillus
+Chagas' disease	leptotrichia
+Chagas' disease	paracoccus
+Chagas' disease	peptococcus
+Chagas' disease	roseburia
+Chagas' disease	streptococcus
+Chagas' disease	veillonella
+Chlamydia	aerococcus
+Chlamydia	anaerococcus
+Chlamydia	atopobium
+Chlamydia	cloacibacterium
+Chlamydia	collinsella
+Chlamydia	corynebacterium
+Chlamydia	delftia
+Chlamydia	dialister
+Chlamydia	gardnerella
+Chlamydia	lactobacillus
+Chlamydia	megasphaera
+Chlamydia	neisseria
+Chlamydia	porphyromonas
+Chlamydia	prevotella
+Chlamydia	pseudomonas
+Chlamydia	ralstonia
+Chlamydia	sneathia
+Chlamydia	stenotrophomonas
+Chlamydia	streptococcus
+Chlamydia	sutterella
+Chlamydia	ureaplasma
+Chlamydia	veillonella
+Cholestasis	anaerostipes
+Cholestasis	bacteroides
+Cholestasis	bifidobacterium
+Cholestasis	blautia
+Cholestasis	clostridium
+Cholestasis	collinsella
+Cholestasis	coprococcus
+Cholestasis	eggerthella
+Cholestasis	enterobacteriaceae
+Cholestasis	enterococcus
+Cholestasis	faecalibacterium
+Cholestasis	flavonifractor
+Cholestasis	megamonas
+Cholestasis	megasphaera
+Cholestasis	phyllobacterium
+Cholestasis	roseburia
+Cholestasis	ruminococcus
+Cholestasis	staphylococcus
+Cholestasis	streptococcus
+Cholestasis	veillonella
+Chronic Obstructive Pulmonary Disease	abiotrophia
+Chronic Obstructive Pulmonary Disease	acinetobacter
+Chronic Obstructive Pulmonary Disease	actinobacillus
+Chronic Obstructive Pulmonary Disease	actinomyces
+Chronic Obstructive Pulmonary Disease	aeromonas
+Chronic Obstructive Pulmonary Disease	anaerobacter
+Chronic Obstructive Pulmonary Disease	anaerosporobacter
+Chronic Obstructive Pulmonary Disease	arthrobacter
+Chronic Obstructive Pulmonary Disease	atopobium
+Chronic Obstructive Pulmonary Disease	bacteroidetes
+Chronic Obstructive Pulmonary Disease	bifidobacterium
+Chronic Obstructive Pulmonary Disease	brevundimonas
+Chronic Obstructive Pulmonary Disease	bulleidia
+Chronic Obstructive Pulmonary Disease	burkholderia
+Chronic Obstructive Pulmonary Disease	butyrivibrio
+Chronic Obstructive Pulmonary Disease	campylobacter
+Chronic Obstructive Pulmonary Disease	capnocytophaga
+Chronic Obstructive Pulmonary Disease	catonella
+Chronic Obstructive Pulmonary Disease	chryseobacterium
+Chronic Obstructive Pulmonary Disease	citrobacter
+Chronic Obstructive Pulmonary Disease	clostridium
+Chronic Obstructive Pulmonary Disease	corynebacterium
+Chronic Obstructive Pulmonary Disease	desulfobulbus
+Chronic Obstructive Pulmonary Disease	dialister
+Chronic Obstructive Pulmonary Disease	dysgonomonas
+Chronic Obstructive Pulmonary Disease	eikenella
+Chronic Obstructive Pulmonary Disease	eubacterium
+Chronic Obstructive Pulmonary Disease	filifactor
+Chronic Obstructive Pulmonary Disease	fusobacterium
+Chronic Obstructive Pulmonary Disease	gemella
+Chronic Obstructive Pulmonary Disease	granulicatella
+Chronic Obstructive Pulmonary Disease	haemophilus
+Chronic Obstructive Pulmonary Disease	hallella
+Chronic Obstructive Pulmonary Disease	kingella
+Chronic Obstructive Pulmonary Disease	klebsiella
+Chronic Obstructive Pulmonary Disease	lactobacillus
+Chronic Obstructive Pulmonary Disease	leptotrichia
+Chronic Obstructive Pulmonary Disease	micrococcus
+Chronic Obstructive Pulmonary Disease	moraxella
+Chronic Obstructive Pulmonary Disease	neisseria
+Chronic Obstructive Pulmonary Disease	nocardioides
+Chronic Obstructive Pulmonary Disease	novosphingobium
+Chronic Obstructive Pulmonary Disease	olsenella
+Chronic Obstructive Pulmonary Disease	oribacterium
+Chronic Obstructive Pulmonary Disease	parvimonas
+Chronic Obstructive Pulmonary Disease	pasteurellaceae
+Chronic Obstructive Pulmonary Disease	peptostreptococcus
+Chronic Obstructive Pulmonary Disease	porphyromonas
+Chronic Obstructive Pulmonary Disease	prevotella
+Chronic Obstructive Pulmonary Disease	propionibacterium
+Chronic Obstructive Pulmonary Disease	pseudomonas
+Chronic Obstructive Pulmonary Disease	rothia
+Chronic Obstructive Pulmonary Disease	selenomonas
+Chronic Obstructive Pulmonary Disease	serratia
+Chronic Obstructive Pulmonary Disease	shewanella
+Chronic Obstructive Pulmonary Disease	staphylococcus
+Chronic Obstructive Pulmonary Disease	stenotrophomonas
+Chronic Obstructive Pulmonary Disease	streptococcus
+Chronic Obstructive Pulmonary Disease	tannerella
+Chronic Obstructive Pulmonary Disease	tm
+Chronic Obstructive Pulmonary Disease	veillonella
+Chronic Rhinosinusitis	anaerococcus
+Chronic Rhinosinusitis	bacteroides
+Chronic Rhinosinusitis	bacteroidetes
+Chronic Rhinosinusitis	campylobacter
+Chronic Rhinosinusitis	carnobacterium
+Chronic Rhinosinusitis	cloacibacterium
+Chronic Rhinosinusitis	clostridiales
+Chronic Rhinosinusitis	corynebacterium
+Chronic Rhinosinusitis	enterococcus
+Chronic Rhinosinusitis	escherichia
+Chronic Rhinosinusitis	fusobacterium
+Chronic Rhinosinusitis	haemophilus
+Chronic Rhinosinusitis	lachnospiraceae
+Chronic Rhinosinusitis	lactobacillus
+Chronic Rhinosinusitis	moraxella
+Chronic Rhinosinusitis	oxalobacteraceae
+Chronic Rhinosinusitis	parabacteroides
+Chronic Rhinosinusitis	pediococcus
+Chronic Rhinosinusitis	peptoniphilus
+Chronic Rhinosinusitis	prevotella
+Chronic Rhinosinusitis	propionibacterium
+Chronic Rhinosinusitis	pseudomonas
+Chronic Rhinosinusitis	ruminococcaceae
+Chronic Rhinosinusitis	staphylococcus
+Chronic Rhinosinusitis	streptococcus
+Chronic alcoholic pancreatitis	acinetobacter
+Chronic alcoholic pancreatitis	anaerostipes
+Chronic alcoholic pancreatitis	anoxybacillus
+Chronic alcoholic pancreatitis	aquabacterium
+Chronic alcoholic pancreatitis	bacteroides
+Chronic alcoholic pancreatitis	bilophila
+Chronic alcoholic pancreatitis	blautia
+Chronic alcoholic pancreatitis	clostridium
+Chronic alcoholic pancreatitis	desulfovibrio
+Chronic alcoholic pancreatitis	dialister
+Chronic alcoholic pancreatitis	enterobacter
+Chronic alcoholic pancreatitis	enterococcus
+Chronic alcoholic pancreatitis	epulopiscium
+Chronic alcoholic pancreatitis	faecalibacterium
+Chronic alcoholic pancreatitis	fusobacterium
+Chronic alcoholic pancreatitis	lachnospira
+Chronic alcoholic pancreatitis	lactococcus
+Chronic alcoholic pancreatitis	mitsuokella
+Chronic alcoholic pancreatitis	odoribacter
+Chronic alcoholic pancreatitis	oscillospira
+Chronic alcoholic pancreatitis	parabacteroides
+Chronic alcoholic pancreatitis	paraprevotella
+Chronic alcoholic pancreatitis	prevotella
+Chronic alcoholic pancreatitis	pseudomonas
+Chronic alcoholic pancreatitis	roseburia
+Chronic alcoholic pancreatitis	ruminococcus
+Chronic alcoholic pancreatitis	serratia
+Chronic alcoholic pancreatitis	sphingomonas
+Chronic alcoholic pancreatitis	staphylococcus
+Chronic alcoholic pancreatitis	streptococcus
+Chronic alcoholic pancreatitis	sutterella
+Chronic fatigue syndrome	alistipes
+Chronic fatigue syndrome	asaccharobacter
+Chronic fatigue syndrome	bifidobacteriaceae
+Chronic fatigue syndrome	enterobacteriaceae
+Chronic fatigue syndrome	enterococcus
+Chronic fatigue syndrome	eubacterium
+Chronic fatigue syndrome	holdemania
+Chronic fatigue syndrome	moryella
+Chronic fatigue syndrome	ruminococcaceae
+Chronic fatigue syndrome	ruminococcus
+Chronic fatigue syndrome	streptococcus
+Chronic fatigue syndrome	turicibacter
+Chronic kidney disease	acinetobacter
+Chronic kidney disease	actinomyces
+Chronic kidney disease	akkermansia
+Chronic kidney disease	alcaligenaceae
+Chronic kidney disease	alloprevotella
+Chronic kidney disease	anaerobacter
+Chronic kidney disease	anaerotruncus
+Chronic kidney disease	bacillus
+Chronic kidney disease	bacteroides
+Chronic kidney disease	barnesiella
+Chronic kidney disease	bergeyella
+Chronic kidney disease	bifidobacterium
+Chronic kidney disease	butyricicoccus
+Chronic kidney disease	candidatus
+Chronic kidney disease	carnobacterium
+Chronic kidney disease	catenibacterium
+Chronic kidney disease	citrobacter
+Chronic kidney disease	cloacibacillus
+Chronic kidney disease	clostridium
+Chronic kidney disease	collinsella
+Chronic kidney disease	coprobacillus
+Chronic kidney disease	coprococcus
+Chronic kidney disease	corynebacterium
+Chronic kidney disease	desulfovibrio
+Chronic kidney disease	dialister
+Chronic kidney disease	dorea
+Chronic kidney disease	eggerthella
+Chronic kidney disease	enterobacter
+Chronic kidney disease	enterobacteriaceae
+Chronic kidney disease	enterococcus
+Chronic kidney disease	erysipelatoclostridium
+Chronic kidney disease	escherichia
+Chronic kidney disease	eubacterium
+Chronic kidney disease	faecalibacterium
+Chronic kidney disease	flavonifractor
+Chronic kidney disease	hallella
+Chronic kidney disease	hungatella
+Chronic kidney disease	hyphomicrobium
+Chronic kidney disease	intestinimonas
+Chronic kidney disease	lachnoclostridium
+Chronic kidney disease	lachnospira
+Chronic kidney disease	lactobacillus
+Chronic kidney disease	marvinbryantia
+Chronic kidney disease	megamonas
+Chronic kidney disease	neisseria
+Chronic kidney disease	oribacterium
+Chronic kidney disease	parabacteroides
+Chronic kidney disease	paracoccus
+Chronic kidney disease	paraprevotella
+Chronic kidney disease	parasutterella
+Chronic kidney disease	pasteurellaceae
+Chronic kidney disease	prevotella
+Chronic kidney disease	prevotellaceae
+Chronic kidney disease	pseudomonas
+Chronic kidney disease	pyramidobacter
+Chronic kidney disease	rikenellaceae
+Chronic kidney disease	romboutsia
+Chronic kidney disease	roseburia
+Chronic kidney disease	rothia
+Chronic kidney disease	ruminiclostridium
+Chronic kidney disease	ruminococcaceae
+Chronic kidney disease	ruminococcus
+Chronic kidney disease	scardovia
+Chronic kidney disease	sediminibacterium
+Chronic kidney disease	serratia
+Chronic kidney disease	shigella
+Chronic kidney disease	slackia
+Chronic kidney disease	sphingomonas
+Chronic kidney disease	stenotrophomonas
+Chronic kidney disease	streptococcus
+Chronic kidney disease	subdoligranulum
+Chronic kidney disease	tyzzerella
+Chronic kidney disease	weissella
+Chronic pancreatitis	butyricicoccus
+Chronic pancreatitis	collinsella
+Chronic pancreatitis	dialister
+Chronic pancreatitis	dorea
+Chronic pancreatitis	erysipelotrichaceae
+Chronic pancreatitis	faecalibacterium
+Chronic pancreatitis	lachnospiraceae
+Chronic pancreatitis	megamonas
+Chronic pancreatitis	parabacteroides
+Chronic pancreatitis	peptostreptococcaceae
+Chronic pancreatitis	shigella
+Chronic pancreatitis	subdoligranulum
+Cirrhosis	acidaminococcus
+Cirrhosis	actinobacteria
+Cirrhosis	actinomyces
+Cirrhosis	aggregatibacter
+Cirrhosis	akkermansia
+Cirrhosis	alistipes
+Cirrhosis	atopobium
+Cirrhosis	bacteriodes
+Cirrhosis	bacteroidaceae
+Cirrhosis	bacteroides
+Cirrhosis	bifidobacterium
+Cirrhosis	bilophila
+Cirrhosis	blautia
+Cirrhosis	bulleidia
+Cirrhosis	burkholderia
+Cirrhosis	campylobacter
+Cirrhosis	capnocytophaga
+Cirrhosis	cardiobacterium
+Cirrhosis	catonella
+Cirrhosis	christensenella
+Cirrhosis	clostridiaceae
+Cirrhosis	clostridiales
+Cirrhosis	clostridium
+Cirrhosis	coriobacteriaceae
+Cirrhosis	deinococcus
+Cirrhosis	desulfovibrionaceae
+Cirrhosis	dialister
+Cirrhosis	dorea
+Cirrhosis	enterobacter
+Cirrhosis	enterobacteriaceae
+Cirrhosis	enterococcaceae
+Cirrhosis	enterococcus
+Cirrhosis	eubacteriaceae
+Cirrhosis	eubacterium
+Cirrhosis	faecalibacterium
+Cirrhosis	filifactor
+Cirrhosis	flavobacteriaceae
+Cirrhosis	fusobacteria
+Cirrhosis	fusobacteriaceae
+Cirrhosis	fusobacterium
+Cirrhosis	haemophilus
+Cirrhosis	klebsiella
+Cirrhosis	lachnoanaerobaculum
+Cirrhosis	lachnospira
+Cirrhosis	lachnospiraceae
+Cirrhosis	lactobacillaceae
+Cirrhosis	lactobacillus
+Cirrhosis	leptotrichia
+Cirrhosis	leptotrichiaceae
+Cirrhosis	leuconostocaceae
+Cirrhosis	megasphaera
+Cirrhosis	methanobrevibacter
+Cirrhosis	mogibacterium
+Cirrhosis	neisseria
+Cirrhosis	odoribacter
+Cirrhosis	olsenella
+Cirrhosis	parabacteroides
+Cirrhosis	pasteurellaceae
+Cirrhosis	peptococcaceae
+Cirrhosis	peptostreptococcaceae
+Cirrhosis	phascolarctobacterium
+Cirrhosis	pleosporales
+Cirrhosis	porphyromonadaceae
+Cirrhosis	prevotella
+Cirrhosis	propionibacteriaceae
+Cirrhosis	proteobacteria
+Cirrhosis	proteus
+Cirrhosis	pseudomonas
+Cirrhosis	ralstonia
+Cirrhosis	rhizobiales
+Cirrhosis	rhodobacteraceae
+Cirrhosis	rikenellaceae
+Cirrhosis	roseburia
+Cirrhosis	ruminococcaceae
+Cirrhosis	ruminococcus
+Cirrhosis	selenomonas
+Cirrhosis	staphylococcaceae
+Cirrhosis	streptococcaceae
+Cirrhosis	streptococcus
+Cirrhosis	subdoligranulum
+Cirrhosis	synergistetes
+Cirrhosis	tenericutes
+Cirrhosis	veillonella
+Cirrhosis	veillonellaceae
+Cirrhosis	verrucomicrobiaceae
+Cirrhosis	verrucomicrobium
+Clonorchis sinensis infection	agrobacterium
+Clonorchis sinensis infection	bacteroides
+Clonorchis sinensis infection	cloacibacillus
+Clonorchis sinensis infection	dorea
+Clonorchis sinensis infection	enhydrobacter
+Clonorchis sinensis infection	enterobacter
+Clonorchis sinensis infection	epulopiscium
+Clonorchis sinensis infection	microbacterium
+Clonorchis sinensis infection	parabacteroides
+Clonorchis sinensis infection	paraprevotella
+Clonorchis sinensis infection	ruminococcus
+Clonorchis sinensis infection	sphingomonas
+Clonorchis sinensis infection	synergistetes
+Clonorchis sinensis infection	tm
+Clonorchis sinensis infection	veillonella
+Clostridium difficile associated disease	actinobacteria
+Clostridium difficile associated disease	aspergillus
+Clostridium difficile associated disease	bacteroidetes
+Clostridium difficile associated disease	candida
+Clostridium difficile associated disease	firmicutes
+Clostridium difficile associated disease	mucor
+Clostridium difficile associated disease	penicillium
+Clostridium difficile associated disease	proteobacteria
+Clostridium difficile associated disease	rhodotorula
+Clostridium difficile associated disease	wallemia
+Clostridium difficile infection	akkermansia
+Clostridium difficile infection	alistipes
+Clostridium difficile infection	anaerostipes
+Clostridium difficile infection	anaerotruncus
+Clostridium difficile infection	bacteroides
+Clostridium difficile infection	barnesiella
+Clostridium difficile infection	barnesiellaceae
+Clostridium difficile infection	bifidobacterium
+Clostridium difficile infection	butyricimonas
+Clostridium difficile infection	catenibacterium
+Clostridium difficile infection	christensenellaceae
+Clostridium difficile infection	citrobacter
+Clostridium difficile infection	clostridioides
+Clostridium difficile infection	clostridium
+Clostridium difficile infection	collinsella
+Clostridium difficile infection	comamonadaceae
+Clostridium difficile infection	coprococcus
+Clostridium difficile infection	coriobacteriaceae
+Clostridium difficile infection	corynebacterium
+Clostridium difficile infection	dialister
+Clostridium difficile infection	dorea
+Clostridium difficile infection	eggerthella
+Clostridium difficile infection	enterobacteriaceae
+Clostridium difficile infection	enterococcaceae
+Clostridium difficile infection	enterococcus
+Clostridium difficile infection	escherichia
+Clostridium difficile infection	faecalibacterium
+Clostridium difficile infection	flavobacterium
+Clostridium difficile infection	haemophilus
+Clostridium difficile infection	helicobacter
+Clostridium difficile infection	klebsiella
+Clostridium difficile infection	lachnospira
+Clostridium difficile infection	lactobacillus
+Clostridium difficile infection	morganella
+Clostridium difficile infection	odoribacter
+Clostridium difficile infection	oscillospira
+Clostridium difficile infection	parabacteroides
+Clostridium difficile infection	paraprevotella
+Clostridium difficile infection	peptostreptococcaceae
+Clostridium difficile infection	phascolarctobacterium
+Clostridium difficile infection	porphyromonadaceae
+Clostridium difficile infection	prevotella
+Clostridium difficile infection	proteus
+Clostridium difficile infection	rikenellaceae
+Clostridium difficile infection	ruminococcaceae
+Clostridium difficile infection	ruminococcus
+Clostridium difficile infection	shigella
+Clostridium difficile infection	staphylococcus
+Clostridium difficile infection	subdoligranulum
+Clostridium difficile infection	sutterella
+Clostridium difficile infection	synechococcus
+Clostridium difficile infection	turicibacter
+Clostridium difficile infection	veillonella
+Collagenous colitis	akkermansia
+Collagenous colitis	alistipes
+Collagenous colitis	bacteroides
+Collagenous colitis	clostridium
+Collagenous colitis	collinsella
+Collagenous colitis	coprococcus
+Collagenous colitis	erysipelotrichaceae
+Collagenous colitis	lachnospiraceae
+Collagenous colitis	methanobrevibacter
+Collagenous colitis	oscillibacter
+Collagenous colitis	parabacteroides
+Collagenous colitis	ruminococcaceae
+Colon adenomas	actinobacteria
+Colon adenomas	atopobium
+Colon adenomas	bacteroides
+Colon adenomas	bacteroidetes
+Colon adenomas	butyricicoccus
+Colon adenomas	butyricimonas
+Colon adenomas	collinsella
+Colon adenomas	comamonas
+Colon adenomas	coprococcus
+Colon adenomas	dorea
+Colon adenomas	erysipelotrichaceae
+Colon adenomas	faecalibacterium
+Colon adenomas	firmicutes
+Colon adenomas	fusobacterium
+Colon adenomas	lachnobacterium
+Colon adenomas	lachnoclostridium
+Colon adenomas	lactococcus
+Colon adenomas	megamonas
+Colon adenomas	mitsuokella
+Colon adenomas	moraxellaceae
+Colon adenomas	oscillibacter
+Colon adenomas	parvimonas
+Colon adenomas	proteobacteria
+Colon adenomas	pseudomonas
+Colon adenomas	ruminococcus
+Colon adenomas	salmonella
+Colon adenomas	shigella
+Colon adenomas	subdoligranulum
+Colon adenomas	tenericutes
+Colon adenomas	veillonella
+Colon polyps	bacteroides
+Colon polyps	bifidobacterium
+Colon polyps	blautia
+Colon polyps	collinsella
+Colon polyps	eubacterium
+Colon polyps	faecalibacterium
+Colon polyps	fusobacterium
+Colon polyps	lactobacillus
+Colon polyps	peptostreptococcus
+Colon polyps	ruminococcus
+Colorectal cancer	acidovorax
+Colorectal cancer	acinetobacter
+Colorectal cancer	actinobacillus
+Colorectal cancer	actinomyces
+Colorectal cancer	akkermansia
+Colorectal cancer	alistipes
+Colorectal cancer	alloprevotella
+Colorectal cancer	anaerococcus
+Colorectal cancer	anaerostipes
+Colorectal cancer	anaerotruncus
+Colorectal cancer	anoxybacillus
+Colorectal cancer	aquabacterium
+Colorectal cancer	atopobium
+Colorectal cancer	bacillus
+Colorectal cancer	bacteriodes
+Colorectal cancer	bacteroides
+Colorectal cancer	bifidobacterium
+Colorectal cancer	bilophila
+Colorectal cancer	blautia
+Colorectal cancer	brevundimonas
+Colorectal cancer	bulleidia
+Colorectal cancer	burkholderia
+Colorectal cancer	campylobacter
+Colorectal cancer	candidatus
+Colorectal cancer	christensenella
+Colorectal cancer	citrobacter
+Colorectal cancer	cloacibacterium
+Colorectal cancer	clostridiales
+Colorectal cancer	clostridioides
+Colorectal cancer	clostridium
+Colorectal cancer	collinsella
+Colorectal cancer	coprobacillus
+Colorectal cancer	coprococcus
+Colorectal cancer	desulfovibrio
+Colorectal cancer	devosia
+Colorectal cancer	dialister
+Colorectal cancer	dorea
+Colorectal cancer	eikenella
+Colorectal cancer	enterobacteriaceae
+Colorectal cancer	enterococcus
+Colorectal cancer	escherichia
+Colorectal cancer	eubacterium
+Colorectal cancer	faecalibacterium
+Colorectal cancer	flavobacterium
+Colorectal cancer	fusobacterium
+Colorectal cancer	gemella
+Colorectal cancer	granulicatella
+Colorectal cancer	haemophilus
+Colorectal cancer	helicobacter
+Colorectal cancer	intestinimonas
+Colorectal cancer	janthinobacterium
+Colorectal cancer	klebsiella
+Colorectal cancer	lachnoanaerobaculum
+Colorectal cancer	lachnobacterium
+Colorectal cancer	lachnoclostridium
+Colorectal cancer	lachnospira
+Colorectal cancer	lachnospiraceae
+Colorectal cancer	lactobacillus
+Colorectal cancer	lactococcus
+Colorectal cancer	leptotrichia
+Colorectal cancer	malassezia
+Colorectal cancer	marvinbryantia
+Colorectal cancer	megamonas
+Colorectal cancer	megasphaera
+Colorectal cancer	methanobrevibacter
+Colorectal cancer	methylobacterium
+Colorectal cancer	microbacterium
+Colorectal cancer	mitsuokella
+Colorectal cancer	mogibacterium
+Colorectal cancer	morganella
+Colorectal cancer	neisseria
+Colorectal cancer	ochrobactrum
+Colorectal cancer	oscillibacter
+Colorectal cancer	paenibacillus
+Colorectal cancer	parabacteroides
+Colorectal cancer	paracoccus
+Colorectal cancer	paraprevotella
+Colorectal cancer	parasutterella
+Colorectal cancer	parvimonas
+Colorectal cancer	pedobacter
+Colorectal cancer	peptoniphilus
+Colorectal cancer	peptostreptococcus
+Colorectal cancer	phascolarctobacterium
+Colorectal cancer	porphyromonas
+Colorectal cancer	prevotella
+Colorectal cancer	propionibacterium
+Colorectal cancer	pseudobutyrivibrio
+Colorectal cancer	pseudoflavonifractor
+Colorectal cancer	pseudomonas
+Colorectal cancer	psychrobacter
+Colorectal cancer	rhodococcus
+Colorectal cancer	rhodotorula
+Colorectal cancer	rikenellaceae
+Colorectal cancer	roseburia
+Colorectal cancer	ruminococcaceae
+Colorectal cancer	ruminococcus
+Colorectal cancer	selenomonas
+Colorectal cancer	serratia
+Colorectal cancer	slackia
+Colorectal cancer	solobacterium
+Colorectal cancer	sphingobacterium
+Colorectal cancer	sphingobium
+Colorectal cancer	sphingomonas
+Colorectal cancer	staphylococcus
+Colorectal cancer	stenotrophomonas
+Colorectal cancer	streptococcus
+Colorectal cancer	succinivibrio
+Colorectal cancer	sutterella
+Colorectal cancer	synechococcus
+Colorectal cancer	turicibacter
+Constipation	acinetobacter
+Constipation	adlercreutzia
+Constipation	blautia
+Constipation	carnobacterium
+Constipation	comamonas
+Constipation	coprobacillus
+Constipation	coprococcus
+Constipation	delftia
+Constipation	dysgonomonas
+Constipation	enterococcus
+Constipation	flavobacterium
+Constipation	fusicatenibacter
+Constipation	lysinibacillus
+Constipation	mycoplana
+Constipation	odoribacter
+Constipation	prevotella
+Constipation	psychrobacter
+Constipation	ruminococcus
+Constipation	terrisporobacter
+Constipation	weissella
+Coronary Heart Disease	bacteroidetes
+Coronary Heart Disease	citrobacter
+Coronary Heart Disease	collinsella
+Coronary Heart Disease	eggerthella
+Coronary Heart Disease	firmicutes
+Coronary Heart Disease	fusobacteria
+Coronary Heart Disease	megasphaera
+Coronary Heart Disease	mitsuokella
+Coronary Heart Disease	parabacteroides
+Coronary Heart Disease	prevotella
+Coronary Heart Disease	proteobacteria
+Coronary Heart Disease	ruminococcaceae
+Coronary artery disease	acinetobacter
+Coronary artery disease	actinobacillus
+Coronary artery disease	agathobacter
+Coronary artery disease	agrobacterium
+Coronary artery disease	akkermansia
+Coronary artery disease	anaerosporobacter
+Coronary artery disease	bacteroides
+Coronary artery disease	bacteroidetes
+Coronary artery disease	barnesiellaceae
+Coronary artery disease	blautia
+Coronary artery disease	bulleidia
+Coronary artery disease	butyricimonas
+Coronary artery disease	catenibacterium
+Coronary artery disease	christensenellaceae
+Coronary artery disease	clostridiaceae
+Coronary artery disease	collinsella
+Coronary artery disease	comamonas
+Coronary artery disease	coprococcus
+Coronary artery disease	coriobacteriaceae
+Coronary artery disease	delftia
+Coronary artery disease	desulfovibrio
+Coronary artery disease	dorea
+Coronary artery disease	eggerthella
+Coronary artery disease	eisenbergiella
+Coronary artery disease	enhydrobacter
+Coronary artery disease	enterobacter
+Coronary artery disease	enterococcus
+Coronary artery disease	erysipelotrichaceae
+Coronary artery disease	eubacterium
+Coronary artery disease	faecalibacterium
+Coronary artery disease	flavonifractor
+Coronary artery disease	fusicatenibacter
+Coronary artery disease	granulicatella
+Coronary artery disease	haemophilus
+Coronary artery disease	klebsiella
+Coronary artery disease	lachnospira
+Coronary artery disease	lachnospiraceae
+Coronary artery disease	lactobacillales
+Coronary artery disease	lactobacillus
+Coronary artery disease	lactococcus
+Coronary artery disease	leuconostocaceae
+Coronary artery disease	megamonas
+Coronary artery disease	megasphaera
+Coronary artery disease	morganella
+Coronary artery disease	odoribacter
+Coronary artery disease	parabacteroides
+Coronary artery disease	porphyromonas
+Coronary artery disease	prevotella
+Coronary artery disease	pseudomonas
+Coronary artery disease	roseburia
+Coronary artery disease	ruminococcaceae
+Coronary artery disease	ruminococcus
+Coronary artery disease	shewanella
+Coronary artery disease	shigella
+Coronary artery disease	sphingobium
+Coronary artery disease	sphingomonadaceae
+Coronary artery disease	staphylococcus
+Coronary artery disease	streptococcus
+Coronary artery disease	subdoligranulum
+Coronary artery disease	succiniclasticum
+Coronary artery disease	veillonella
+Coronary artery disease	verrucomicrobium
+Coronary artery disease	weissella
+Covid-19	actinomyces
+Covid-19	agathobacter
+Covid-19	anaerostipes
+Covid-19	aspergillus
+Covid-19	bacteroides
+Covid-19	blautia
+Covid-19	candida
+Covid-19	clostridium
+Covid-19	coprobacillus
+Covid-19	coprococcus
+Covid-19	dorea
+Covid-19	erysipelatoclostridium
+Covid-19	eubacterium
+Covid-19	faecalibacterium
+Covid-19	fusicatenibacter
+Covid-19	lachnospiraceae
+Covid-19	romboutsia
+Covid-19	roseburia
+Covid-19	rothia
+Covid-19	ruminococcaceae
+Covid-19	ruminococcus
+Covid-19	streptococcus
+Covid-19	veillonella
+Crohn's Disease	acidaminococcus
+Crohn's Disease	acinetobacter
+Crohn's Disease	actinobacillus
+Crohn's Disease	actinomyces
+Crohn's Disease	adlercreutzia
+Crohn's Disease	aeromonas
+Crohn's Disease	akkermansia
+Crohn's Disease	alicyclobacillus
+Crohn's Disease	alistipes
+Crohn's Disease	alternaria
+Crohn's Disease	anaerofustis
+Crohn's Disease	anaerostipes
+Crohn's Disease	anaerotruncus
+Crohn's Disease	anaerovorax
+Crohn's Disease	asaccharobacter
+Crohn's Disease	aspergillus
+Crohn's Disease	bacillus
+Crohn's Disease	bacteriodes
+Crohn's Disease	bacteroides
+Crohn's Disease	bacteroidetes
+Crohn's Disease	barnesiellaceae
+Crohn's Disease	bifidobacterium
+Crohn's Disease	bilophila
+Crohn's Disease	blautia
+Crohn's Disease	brachyspira
+Crohn's Disease	burkholderia
+Crohn's Disease	butyricicoccus
+Crohn's Disease	butyricimonas
+Crohn's Disease	campylobacter
+Crohn's Disease	candida
+Crohn's Disease	capnocytophaga
+Crohn's Disease	christensenella
+Crohn's Disease	christensenellaceae
+Crohn's Disease	citrobacter
+Crohn's Disease	cloacibacillus
+Crohn's Disease	clostridioides
+Crohn's Disease	clostridium
+Crohn's Disease	collinsella
+Crohn's Disease	coprobacillus
+Crohn's Disease	coprococcus
+Crohn's Disease	coriobacteriaceae
+Crohn's Disease	cryptococcus
+Crohn's Disease	defluviitalea
+Crohn's Disease	desulfovibrio
+Crohn's Disease	dialister
+Crohn's Disease	dorea
+Crohn's Disease	eggerthella
+Crohn's Disease	eikenella
+Crohn's Disease	enterobacter
+Crohn's Disease	enterobacteriaceae
+Crohn's Disease	enterococcus
+Crohn's Disease	epulopiscium
+Crohn's Disease	erysipelotrichaceae
+Crohn's Disease	escherichia
+Crohn's Disease	eubacterium
+Crohn's Disease	faecalibacterium
+Crohn's Disease	faecalicoccus
+Crohn's Disease	finegoldia
+Crohn's Disease	firmicutes
+Crohn's Disease	flavobacterium
+Crohn's Disease	flavonifractor
+Crohn's Disease	fusobacteria
+Crohn's Disease	fusobacterium
+Crohn's Disease	gardnerella
+Crohn's Disease	gemella
+Crohn's Disease	gemmiger
+Crohn's Disease	gibberella
+Crohn's Disease	gordonibacter
+Crohn's Disease	haemophilus
+Crohn's Disease	hallella
+Crohn's Disease	hanseniaspora
+Crohn's Disease	helicobacter
+Crohn's Disease	holdemanella
+Crohn's Disease	holdemania
+Crohn's Disease	intestinibacter
+Crohn's Disease	janthinobacterium
+Crohn's Disease	klebsiella
+Crohn's Disease	lachnoanaerobaculum
+Crohn's Disease	lachnobacterium
+Crohn's Disease	lachnospira
+Crohn's Disease	lachnospiraceae
+Crohn's Disease	lactobacillales
+Crohn's Disease	lactobacillus
+Crohn's Disease	lactococcus
+Crohn's Disease	leucosporidium
+Crohn's Disease	limnobacter
+Crohn's Disease	malassezia
+Crohn's Disease	megasphaera
+Crohn's Disease	methanobrevibacter
+Crohn's Disease	mitsuokella
+Crohn's Disease	mogibacterium
+Crohn's Disease	morganella
+Crohn's Disease	moryella
+Crohn's Disease	mycobacterium
+Crohn's Disease	naganishia
+Crohn's Disease	neisseria
+Crohn's Disease	odoribacter
+Crohn's Disease	oscillibacter
+Crohn's Disease	oscillospira
+Crohn's Disease	oxalobacter
+Crohn's Disease	paenibacillus
+Crohn's Disease	paludibacter
+Crohn's Disease	parabacteroides
+Crohn's Disease	paraprevotella
+Crohn's Disease	parvimonas
+Crohn's Disease	pasteurellaceae
+Crohn's Disease	pelomonas
+Crohn's Disease	peptococcus
+Crohn's Disease	peptoniphilus
+Crohn's Disease	peptostreptococcus
+Crohn's Disease	phascolarctobacterium
+Crohn's Disease	pleosporales
+Crohn's Disease	prevotella
+Crohn's Disease	propionibacterium
+Crohn's Disease	proteobacteria
+Crohn's Disease	proteus
+Crohn's Disease	pseudoflavonifractor
+Crohn's Disease	pseudomonas
+Crohn's Disease	psychrobacter
+Crohn's Disease	rikenellaceae
+Crohn's Disease	roseburia
+Crohn's Disease	rothia
+Crohn's Disease	ruminiclostridium
+Crohn's Disease	ruminococcaceae
+Crohn's Disease	ruminococcus
+Crohn's Disease	saccharomyces
+Crohn's Disease	salmonella
+Crohn's Disease	shigella
+Crohn's Disease	sphingobacterium
+Crohn's Disease	sphingomonas
+Crohn's Disease	sporobacter
+Crohn's Disease	staphylococcus
+Crohn's Disease	stenotrophomonas
+Crohn's Disease	streptococcus
+Crohn's Disease	subdoligranulum
+Crohn's Disease	synergistes
+Crohn's Disease	tm
+Crohn's Disease	turicibacter
+Crohn's Disease	veillonella
+Crohn's Disease	veillonellaceae
+Crohn's Disease	vivictivallis
+Crohn's Disease	wallemia
+Cystic Fibrosis	actinobacteria
+Cystic Fibrosis	actinomyces
+Cystic Fibrosis	aeromonas
+Cystic Fibrosis	akkermansia
+Cystic Fibrosis	alcaligenaceae
+Cystic Fibrosis	alistipes
+Cystic Fibrosis	alloprevotella
+Cystic Fibrosis	anaerofustis
+Cystic Fibrosis	anaerostipes
+Cystic Fibrosis	anaerotruncus
+Cystic Fibrosis	bacillus
+Cystic Fibrosis	bacteriodes
+Cystic Fibrosis	bacteroidales
+Cystic Fibrosis	bacteroides
+Cystic Fibrosis	bacteroidetes
+Cystic Fibrosis	bergeyella
+Cystic Fibrosis	bifidobacteriaceae
+Cystic Fibrosis	bifidobacterium
+Cystic Fibrosis	blautia
+Cystic Fibrosis	butyrivibrio
+Cystic Fibrosis	campylobacter
+Cystic Fibrosis	capnocytophaga
+Cystic Fibrosis	catonella
+Cystic Fibrosis	clostridioides
+Cystic Fibrosis	clostridium
+Cystic Fibrosis	collinsella
+Cystic Fibrosis	corynebacterium
+Cystic Fibrosis	dialister
+Cystic Fibrosis	dietzia
+Cystic Fibrosis	dorea
+Cystic Fibrosis	enterobacteriaceae
+Cystic Fibrosis	enterococcus
+Cystic Fibrosis	erysipelotrichaceae
+Cystic Fibrosis	escherichia
+Cystic Fibrosis	eubacterium
+Cystic Fibrosis	faecalibacterium
+Cystic Fibrosis	firmicutes
+Cystic Fibrosis	flavobacterium
+Cystic Fibrosis	fusobacterium
+Cystic Fibrosis	gemella
+Cystic Fibrosis	granulicatella
+Cystic Fibrosis	haemophilus
+Cystic Fibrosis	helcococcus
+Cystic Fibrosis	klebsiella
+Cystic Fibrosis	lachnoanaerobaculum
+Cystic Fibrosis	lachnospiraceae
+Cystic Fibrosis	lactobacillales
+Cystic Fibrosis	lautropia
+Cystic Fibrosis	leptotrichia
+Cystic Fibrosis	leuconostoc
+Cystic Fibrosis	malassezia
+Cystic Fibrosis	mannheimia
+Cystic Fibrosis	megasphaera
+Cystic Fibrosis	methylobacterium
+Cystic Fibrosis	moraxella
+Cystic Fibrosis	moraxellaceae
+Cystic Fibrosis	neisseria
+Cystic Fibrosis	novosphingobium
+Cystic Fibrosis	odoribacter
+Cystic Fibrosis	pasteurellaceae
+Cystic Fibrosis	peptococcaceae
+Cystic Fibrosis	peptococcus
+Cystic Fibrosis	porphyromonas
+Cystic Fibrosis	prevotella
+Cystic Fibrosis	prevotellaceae
+Cystic Fibrosis	proteobacteria
+Cystic Fibrosis	pseudomonadaceae
+Cystic Fibrosis	pseudomonas
+Cystic Fibrosis	ralstonia
+Cystic Fibrosis	roseburia
+Cystic Fibrosis	rothia
+Cystic Fibrosis	ruminococcaceae
+Cystic Fibrosis	ruminococcus
+Cystic Fibrosis	selenomonas
+Cystic Fibrosis	shigella
+Cystic Fibrosis	sphingobacterium
+Cystic Fibrosis	staphylococcus
+Cystic Fibrosis	streptobacillus
+Cystic Fibrosis	streptococcus
+Cystic Fibrosis	treponema
+Cystic Fibrosis	tyzzerella
+Cystic Fibrosis	veillonella
+Dandruff	aspergillus
+Dandruff	candida
+Dandruff	cryptococcus
+Dandruff	enhydrobacter
+Dandruff	erwinia
+Dandruff	leptotrichia
+Dandruff	malassezia
+Dandruff	micrococcus
+Dandruff	penicillium
+Dandruff	propionibacterium
+Dandruff	pseudomonas
+Dandruff	rhodotorula
+Dandruff	selenomonas
+Dandruff	staphylococcus
+Diaper dermatitis	acinetobacter
+Diaper dermatitis	bifidobacterium
+Diaper dermatitis	clostridium
+Diaper dermatitis	collinsella
+Diaper dermatitis	eubacterium
+Diaper dermatitis	lactobacillus
+Diaper dermatitis	micrococcus
+Diaper dermatitis	pseudomonas
+Diaper dermatitis	pseudoxanthomonas
+Diaper dermatitis	ruminococcus
+Diaper dermatitis	staphylococcus
+Diaper dermatitis	streptococcus
+Disease-free 	actinobacteria
+Disease-free 	aquabacterium
+Disease-free 	cloacibacterium
+Disease-free 	comamonadaceae
+Disease-free 	helicobacter
+Disease-free 	neisseria
+Disease-free 	paenibacillus
+Disease-free 	prevotella
+Disease-free 	propionibacterium
+Disease-free 	pseudomonas
+Disease-free 	staphylococcus
+Disease-free 	streptococcus
+Drug-resistant Epilepsy	akkermansia
+Drug-resistant Epilepsy	atopobium
+Drug-resistant Epilepsy	clostridium
+Drug-resistant Epilepsy	coprobacillus
+Drug-resistant Epilepsy	coprococcus
+Drug-resistant Epilepsy	delftia
+Drug-resistant Epilepsy	dorea
+Drug-resistant Epilepsy	fusobacterium
+Drug-resistant Epilepsy	gemmiger
+Drug-resistant Epilepsy	holdemania
+Drug-resistant Epilepsy	methanobrevibacter
+Drug-resistant Epilepsy	neisseria
+Drug-resistant Epilepsy	paraprevotella
+Drug-resistant Epilepsy	phascolarctobacterium
+Drug-resistant Epilepsy	roseburia
+Drug-resistant Epilepsy	ruminococcus
+Dry eye syndrome	actinomycetaceae
+Dry eye syndrome	coriobacteriaceae
+Dry eye syndrome	eubacteriaceae
+Dry eye syndrome	faecalibacterium
+Dry eye syndrome	lactobacillaceae
+Dry eye syndrome	megasphaera
+Dry eye syndrome	parabacteroides
+Dry eye syndrome	prevotella
+Dry eye syndrome	subdoligranulum
+Dry eye syndrome	veillonella
+E-smoking	alloprevotella
+E-smoking	corynebacterium
+E-smoking	dialister
+E-smoking	fusobacterium
+E-smoking	granulicatella
+E-smoking	leptotrichia
+E-smoking	neisseria
+E-smoking	oribacterium
+E-smoking	parvimonas
+E-smoking	porphyromonas
+E-smoking	prevotella
+E-smoking	streptococcus
+E-smoking	veillonella
+Edentulism	actinomyces
+Edentulism	alloprevotella
+Edentulism	atopobium
+Edentulism	bacteroides
+Edentulism	capnocytophaga
+Edentulism	cardiobacterium
+Edentulism	catonella
+Edentulism	comamonas
+Edentulism	corynebacterium
+Edentulism	dialister
+Edentulism	eubacterium
+Edentulism	filifactor
+Edentulism	kingella
+Edentulism	klebsiella
+Edentulism	lactobacillus
+Edentulism	lautropia
+Edentulism	leptotrichia
+Edentulism	megasphaera
+Edentulism	mogibacterium
+Edentulism	mycoplasma
+Edentulism	neisseria
+Edentulism	peptococcus
+Edentulism	peptostreptococcaceae
+Edentulism	peptostreptococcus
+Edentulism	porphyromonas
+Edentulism	prevotella
+Edentulism	pseudomonas
+Edentulism	rothia
+Edentulism	selenomonas
+Edentulism	solobacterium
+Edentulism	streptococcus
+Edentulism	tanerella
+Edentulism	tm
+Edentulism	treponema
+Edentulism	veillonella
+Endometriosis	acinetobacter
+Endometriosis	aerococcus
+Endometriosis	alloprevotella
+Endometriosis	anaerococcus
+Endometriosis	arthrobacter
+Endometriosis	atopobium
+Endometriosis	barnesiella
+Endometriosis	comamonadaceae
+Endometriosis	corynebacterium
+Endometriosis	delftia
+Endometriosis	dialister
+Endometriosis	dysgonomonas
+Endometriosis	enterobacteriaceae
+Endometriosis	flavobacterium
+Endometriosis	gardnerella
+Endometriosis	gemella
+Endometriosis	lactobacillus
+Endometriosis	megasphaera
+Endometriosis	micrococcaceae
+Endometriosis	prevotella
+Endometriosis	pseudomonadaceae
+Endometriosis	pseudomonas
+Endometriosis	shewanella
+Endometriosis	shigella
+Endometriosis	sneathia
+Endometriosis	sphingobium
+Endometriosis	sphingomonas
+Endometriosis	streptococcus
+Endometriosis	tissierellaceae
+Endometriosis	ureaplasma
+Eosinophilic esophagitis	actinomyces
+Eosinophilic esophagitis	campylobacter
+Eosinophilic esophagitis	corynebacterium
+Eosinophilic esophagitis	granulicatella
+Eosinophilic esophagitis	haemophilus
+Eosinophilic esophagitis	lactobacillus
+Eosinophilic esophagitis	leptotrichiaceae
+Eosinophilic esophagitis	neisseria
+Eosinophilic esophagitis	neisseriaceae
+Eosinophilic esophagitis	streptococcus
+Excessive vomiting	acinetobacter
+Excessive vomiting	adlercreutzia
+Excessive vomiting	blautia
+Excessive vomiting	carnobacterium
+Excessive vomiting	coprobacillus
+Excessive vomiting	dysgonomonas
+Excessive vomiting	enterococcus
+Excessive vomiting	fusicatenibacter
+Excessive vomiting	lysinibacillus
+Excessive vomiting	psychrobacter
+Excessive vomiting	terrisporobacter
+Excessive vomiting	weissella
+Fibromyalgia	acetivibrio
+Fibromyalgia	alistipes
+Fibromyalgia	bacteriodes
+Fibromyalgia	bacteroides
+Fibromyalgia	bifidobacterium
+Fibromyalgia	blautia
+Fibromyalgia	clostridium
+Fibromyalgia	coriobacteriaceae
+Fibromyalgia	dorea
+Fibromyalgia	eisenbergiella
+Fibromyalgia	erysipelatoclostridium
+Fibromyalgia	eubacterium
+Fibromyalgia	faecalibacterium
+Fibromyalgia	flavonifractor
+Fibromyalgia	haemophilus
+Fibromyalgia	hungatella
+Fibromyalgia	lachnoclostridium
+Fibromyalgia	lachnospiraceae
+Fibromyalgia	parabacteroides
+Fibromyalgia	prevotella
+Fibromyalgia	roseburia
+Fibromyalgia	ruminococcaceae
+Frailty	akkermansia
+Frailty	bacteroides
+Frailty	blautia
+Frailty	dorea
+Frailty	eggerthella
+Frailty	eubacterium
+Frailty	faecalibacterium
+Frailty	fusicatenibacter
+Frailty	klebsiella
+Frailty	lachnospiraceae
+Frailty	megamonas
+Frailty	parabacteroides
+Frailty	prevotella
+Frailty	roseburia
+Gastric carcinoma	achromobacter
+Gastric carcinoma	acinetobacter
+Gastric carcinoma	aggregatibacter
+Gastric carcinoma	alistipes
+Gastric carcinoma	alloprevotella
+Gastric carcinoma	bacteriodes
+Gastric carcinoma	bacteroides
+Gastric carcinoma	bifidobacterium
+Gastric carcinoma	candidatus
+Gastric carcinoma	christensenellaceae
+Gastric carcinoma	citrobacter
+Gastric carcinoma	clostridium
+Gastric carcinoma	comamonadaceae
+Gastric carcinoma	comamonas
+Gastric carcinoma	corynebacterium
+Gastric carcinoma	eubacterium
+Gastric carcinoma	faecalibacterium
+Gastric carcinoma	fusobacterium
+Gastric carcinoma	gemella
+Gastric carcinoma	haemophilus
+Gastric carcinoma	helicobacter
+Gastric carcinoma	klebsiella
+Gastric carcinoma	lachnoclostridium
+Gastric carcinoma	lachnospira
+Gastric carcinoma	lactobacillus
+Gastric carcinoma	neisseria
+Gastric carcinoma	parabacteroides
+Gastric carcinoma	peptostreptococcus
+Gastric carcinoma	phyllobacterium
+Gastric carcinoma	porphyromonas
+Gastric carcinoma	prevotella
+Gastric carcinoma	propionibacterium
+Gastric carcinoma	pseudomonas
+Gastric carcinoma	rhodococcus
+Gastric carcinoma	roseburia
+Gastric carcinoma	ruminococcaceae
+Gastric carcinoma	selenomonas
+Gastric carcinoma	shigella
+Gastric carcinoma	slackia
+Gastric carcinoma	sphingobium
+Gastric carcinoma	sphingomonas
+Gastric carcinoma	streptococcus
+Gastric carcinoma	veillonella
+Generalized anxiety disorder	acinetobacter
+Generalized anxiety disorder	agathobacter
+Generalized anxiety disorder	bacteroides
+Generalized anxiety disorder	bacteroidetes
+Generalized anxiety disorder	burkholderia
+Generalized anxiety disorder	butyricicoccus
+Generalized anxiety disorder	clostridium
+Generalized anxiety disorder	coprococcus
+Generalized anxiety disorder	dialister
+Generalized anxiety disorder	enterobacteriaceae
+Generalized anxiety disorder	eubacterium
+Generalized anxiety disorder	faecalibacterium
+Generalized anxiety disorder	fusobacterium
+Generalized anxiety disorder	holdemanella
+Generalized anxiety disorder	hungatella
+Generalized anxiety disorder	lachnospira
+Generalized anxiety disorder	lachnospiraceae
+Generalized anxiety disorder	megamonas
+Generalized anxiety disorder	mitsuokella
+Generalized anxiety disorder	prevotella
+Generalized anxiety disorder	raoultella
+Generalized anxiety disorder	ruminococcaceae
+Generalized anxiety disorder	ruminococcus
+Generalized anxiety disorder	shigella
+Generalized anxiety disorder	subdoligranulum
+Generalized anxiety disorder	succinivibrio
+Generalized anxiety disorder	sutterella
+Generalized anxiety disorder	tyzzerella
+Gestational diabetes	acetivibrio
+Gestational diabetes	actinomyces
+Gestational diabetes	alcaligenaceae
+Gestational diabetes	anaerosporobacter
+Gestational diabetes	bacteroidales
+Gestational diabetes	bacteroides
+Gestational diabetes	candidatus
+Gestational diabetes	collinsella
+Gestational diabetes	cyanobacteria
+Gestational diabetes	dehalobacter
+Gestational diabetes	desulfovibrio
+Gestational diabetes	dialister
+Gestational diabetes	eisenbergiella
+Gestational diabetes	enterobacter
+Gestational diabetes	enterococcus
+Gestational diabetes	eubacterium
+Gestational diabetes	ezakiella
+Gestational diabetes	granulicatella
+Gestational diabetes	howardella
+Gestational diabetes	klebsiella
+Gestational diabetes	lachnospiraceae
+Gestational diabetes	lactobacillus
+Gestational diabetes	leuconostoc
+Gestational diabetes	marvinbryantia
+Gestational diabetes	megasphaera
+Gestational diabetes	mogibacterium
+Gestational diabetes	olsenella
+Gestational diabetes	parabacteroides
+Gestational diabetes	parasutterella
+Gestational diabetes	porphyromonas
+Gestational diabetes	prevotella
+Gestational diabetes	rhodocyclaceae
+Gestational diabetes	rothia
+Gestational diabetes	ruminococcaceae
+Gestational diabetes	ruminococcus
+Gestational diabetes	shigella
+Gestational diabetes	tyzzerella
+Gestational diabetes	varibaculum
+Gestational diabetes	veillonella
+Gestational diabetes	xanthomonadaceae
+Glycogen storage disease	alistipes
+Glycogen storage disease	anaerostipes
+Glycogen storage disease	barnesiella
+Glycogen storage disease	bifidobacterium
+Glycogen storage disease	blautia
+Glycogen storage disease	christensenellaceae
+Glycogen storage disease	coprococcus
+Glycogen storage disease	eubacterium
+Glycogen storage disease	faecalibacterium
+Glycogen storage disease	lactobacillus
+Glycogen storage disease	methanobrevibacter
+Glycogen storage disease	odoribacter
+Glycogen storage disease	phascolarctobacterium
+Glycogen storage disease	roseburia
+Glycogen storage disease	ruminococcus
+Glycogen storage disease	shigella
+Glycogen storage disease	subdoligranulum
+Graves' disease	alistipes
+Graves' disease	bifidobacterium
+Graves' disease	enterobacteriaceae
+Graves' disease	eubacterium
+Graves' disease	faecalibacterium
+Graves' disease	haemophilus
+Graves' disease	lactobacillus
+Graves' disease	parabacteroides
+Graves' disease	pasteurellaceae
+Graves' disease	prevotella
+Graves' disease	rikenellaceae
+Graves' disease	succinivibrio
+Graves' disease	veillonellaceae
+Graves' orbitopathy	alistipes
+Graves' orbitopathy	anaerostipes
+Graves' orbitopathy	bacteroides
+Graves' orbitopathy	blautia
+Graves' orbitopathy	butyricicoccus
+Graves' orbitopathy	collinsella
+Graves' orbitopathy	eubacterium
+Graves' orbitopathy	fusicatenibacter
+Graves' orbitopathy	prevotella
+Graves' orbitopathy	ruminococcus
+H1N1 Influenza	agathobacter
+H1N1 Influenza	anaerostipes
+H1N1 Influenza	blautia
+H1N1 Influenza	dorea
+H1N1 Influenza	eubacterium
+H1N1 Influenza	ezakiella
+H1N1 Influenza	faecalibacterium
+H1N1 Influenza	fusicatenibacter
+H1N1 Influenza	lachnospiraceae
+H1N1 Influenza	murdochiella
+H1N1 Influenza	porphyromonas
+H1N1 Influenza	prevotella
+H1N1 Influenza	ruminococcaceae
+H7N9	bacteroides
+H7N9	bifidobacteriaceae
+H7N9	filifactor
+H7N9	fusobacterium
+H7N9	haemophilus
+H7N9	leptotrichia
+H7N9	megasphaera
+H7N9	pasteurellaceae
+H7N9	pseudomonas
+H7N9	tannerella
+HIV infection	achromobacter
+HIV infection	acidaminococcus
+HIV infection	acinetobacter
+HIV infection	aggregatibacter
+HIV infection	akkermansia
+HIV infection	alistipes
+HIV infection	allisonella
+HIV infection	alternaria
+HIV infection	anaerococcus
+HIV infection	anaerotruncus
+HIV infection	asaccharobacter
+HIV infection	bacteroides
+HIV infection	bacteroidetes
+HIV infection	barnesiella
+HIV infection	barnesiellaceae
+HIV infection	bifidobacterium
+HIV infection	bilophila
+HIV infection	blautia
+HIV infection	brachyspira
+HIV infection	bulleidia
+HIV infection	butyrivibrio
+HIV infection	campylobacter
+HIV infection	candida
+HIV infection	capnocytophaga
+HIV infection	catenibacterium
+HIV infection	christensenellaceae
+HIV infection	citrobacter
+HIV infection	clostridium
+HIV infection	collinsella
+HIV infection	coprococcus
+HIV infection	corynebacterium
+HIV infection	desulfovibrio
+HIV infection	dialister
+HIV infection	dietzia
+HIV infection	dorea
+HIV infection	eggerthella
+HIV infection	eisenbergiella
+HIV infection	enhydrobacter
+HIV infection	enterobacter
+HIV infection	enterobacteriaceae
+HIV infection	erysipelotrichaceae
+HIV infection	escherichia
+HIV infection	eubacterium
+HIV infection	faecalibacterium
+HIV infection	finegoldia
+HIV infection	firmicutes
+HIV infection	flavonifractor
+HIV infection	fusobacteriaceae
+HIV infection	fusobacterium
+HIV infection	gammaproteobacteria
+HIV infection	gardnerella
+HIV infection	haemophilus
+HIV infection	helicobacter
+HIV infection	howardella
+HIV infection	klebsiella
+HIV infection	lachnobacterium
+HIV infection	lachnospira
+HIV infection	lachnospiraceae
+HIV infection	lactobacillus
+HIV infection	malassezia
+HIV infection	megasphaera
+HIV infection	mitsuokella
+HIV infection	mobiluncus
+HIV infection	mogibacterium
+HIV infection	murdochiella
+HIV infection	mycoplasma
+HIV infection	neisseria
+HIV infection	odoribacter
+HIV infection	oscillibacter
+HIV infection	oscillospira
+HIV infection	oxalobacter
+HIV infection	parabacteroides
+HIV infection	paraprevotella
+HIV infection	parasutterella
+HIV infection	parvimonas
+HIV infection	pelomonas
+HIV infection	penicillium
+HIV infection	peptoniphilus
+HIV infection	peptostreptococcaceae
+HIV infection	peptostreptococcus
+HIV infection	porphyromonas
+HIV infection	prevotella
+HIV infection	propionibacteriaceae
+HIV infection	propionibacterium
+HIV infection	proteobacteria
+HIV infection	pseudoflavonifractor
+HIV infection	pseudomonas
+HIV infection	pyramidobacter
+HIV infection	ralstonia
+HIV infection	rikenellaceae
+HIV infection	romboutsia
+HIV infection	roseburia
+HIV infection	rothia
+HIV infection	ruminococcaceae
+HIV infection	ruminococcus
+HIV infection	salmonella
+HIV infection	selenomonas
+HIV infection	serratia
+HIV infection	shigella
+HIV infection	sneathia
+HIV infection	staphylococcus
+HIV infection	stenotrophomonas
+HIV infection	streptococcus
+HIV infection	succinivibrio
+HIV infection	turicibacter
+HIV infection	veillonella
+HIV infection	verrucomicrobia
+HIV infection	vivictivallis
+HIV infection	xanthomonadaceae
+Halitosis	aggregatibacter
+Halitosis	alloprevotella
+Halitosis	atopobium
+Halitosis	bergeyella
+Halitosis	bulleidia
+Halitosis	campylobacter
+Halitosis	capnocytophaga
+Halitosis	clostridiales
+Halitosis	comamonas
+Halitosis	dialister
+Halitosis	eikenella
+Halitosis	eubacterium
+Halitosis	gemella
+Halitosis	haemophilus
+Halitosis	leptotrichia
+Halitosis	mogibacterium
+Halitosis	moryella
+Halitosis	oribacterium
+Halitosis	parvimonas
+Halitosis	peptococcus
+Halitosis	peptostreptococcus
+Halitosis	prevotella
+Halitosis	rothia
+Halitosis	selenomonas
+Halitosis	stomatobaculum
+Halitosis	streptococcus
+Halitosis	tannerella
+Halitosis	tm
+Halitosis	treponema
+Hashimoto's thyroiditis	bacteroides
+Hashimoto's thyroiditis	bifidobacterium
+Hashimoto's thyroiditis	blautia
+Hashimoto's thyroiditis	dialister
+Hashimoto's thyroiditis	dorea
+Hashimoto's thyroiditis	escherichia
+Hashimoto's thyroiditis	eubacterium
+Hashimoto's thyroiditis	faecalibacterium
+Hashimoto's thyroiditis	fusicatenibacter
+Hashimoto's thyroiditis	lachnoclostridium
+Hashimoto's thyroiditis	lactobacillus
+Hashimoto's thyroiditis	megasphaera
+Hashimoto's thyroiditis	paraprevotella
+Hashimoto's thyroiditis	prevotella
+Hashimoto's thyroiditis	romboutsia
+Hashimoto's thyroiditis	roseburia
+Hashimoto's thyroiditis	ruminococcus
+Hashimoto's thyroiditis	veillonellaceae
+Head/Neck cancer	actinomyces
+Head/Neck cancer	capnocytophaga
+Head/Neck cancer	comamonadaceae
+Head/Neck cancer	fusobacterium
+Head/Neck cancer	haemophilus
+Head/Neck cancer	kingella
+Head/Neck cancer	lachnospiraceae
+Head/Neck cancer	parvimonas
+Head/Neck cancer	ruminococcus
+Head/Neck cancer	selenomonas
+Head/Neck cancer	stenotrophomonas
+Head/Neck cancer	streptococcus
+Head/Neck cancer	tannerella
+Head/Neck cancer	veillonella
+Head/Neck cancer	weeksella
+Heart failure	anaerostipes
+Heart failure	bilophila
+Heart failure	burkholderia
+Heart failure	butyricicoccus
+Heart failure	campylobacter
+Heart failure	clostridium
+Heart failure	collinsella
+Heart failure	coprobacillus
+Heart failure	dorea
+Heart failure	dysgonomonas
+Heart failure	enterococcus
+Heart failure	erysipelatoclostridium
+Heart failure	eubacterium
+Heart failure	faecalibacterium
+Heart failure	fusobacterium
+Heart failure	intestinimonas
+Heart failure	johnsonella
+Heart failure	lactobacillus
+Heart failure	mycobacterium
+Heart failure	oscillibacter
+Heart failure	parasutterella
+Heart failure	streptococcus
+Heart failure	veillonella
+Helicobacter pylori infection	acinetobacter
+Helicobacter pylori infection	actinobacteria
+Helicobacter pylori infection	actinomyces
+Helicobacter pylori infection	adlercreutzia
+Helicobacter pylori infection	aggregatibacter
+Helicobacter pylori infection	alloprevotella
+Helicobacter pylori infection	bacteroides
+Helicobacter pylori infection	bacteroidetes
+Helicobacter pylori infection	butyricimonas
+Helicobacter pylori infection	candida
+Helicobacter pylori infection	coriobacteriaceae
+Helicobacter pylori infection	desulfovibrio
+Helicobacter pylori infection	enterobacter
+Helicobacter pylori infection	enterococcus
+Helicobacter pylori infection	escherichia
+Helicobacter pylori infection	firmicutes
+Helicobacter pylori infection	fusobacteria
+Helicobacter pylori infection	fusobacterium
+Helicobacter pylori infection	granulicatella
+Helicobacter pylori infection	haemophilus
+Helicobacter pylori infection	helicobacter
+Helicobacter pylori infection	klebsiella
+Helicobacter pylori infection	leptotrichia
+Helicobacter pylori infection	moryella
+Helicobacter pylori infection	ochrobactrum
+Helicobacter pylori infection	oribacterium
+Helicobacter pylori infection	oxalobacter
+Helicobacter pylori infection	parvimonas
+Helicobacter pylori infection	peptococcus
+Helicobacter pylori infection	prevotella
+Helicobacter pylori infection	proteobacteria
+Helicobacter pylori infection	ralstonia
+Helicobacter pylori infection	rikenellaceae
+Helicobacter pylori infection	roseburia
+Helicobacter pylori infection	rothia
+Helicobacter pylori infection	sphingomonas
+Helicobacter pylori infection	streptococcus
+Helicobacter pylori infection	succinivibrio
+Helicobacter pylori infection	sutterella
+Helicobacter pylori infection	turicibacter
+Henoch-Schönlein Purpura	acinetobacter
+Henoch-Schönlein Purpura	bacteroidales
+Henoch-Schönlein Purpura	dialister
+Henoch-Schönlein Purpura	enterococcus
+Henoch-Schönlein Purpura	haemophilus
+Henoch-Schönlein Purpura	neisseria
+Henoch-Schönlein Purpura	parabacteroides
+Henoch-Schönlein Purpura	parasutterella
+Henoch-Schönlein Purpura	prevotella
+Henoch-Schönlein Purpura	roseburia
+Henoch-Schönlein Purpura	veillonella
+Hepatic encephalopathy	bacteroidaceae
+Hepatic encephalopathy	bifidobacterium
+Hepatic encephalopathy	burkholderia
+Hepatic encephalopathy	clostridiaceae
+Hepatic encephalopathy	clostridiales
+Hepatic encephalopathy	enterobacteriaceae
+Hepatic encephalopathy	enterococcus
+Hepatic encephalopathy	eubacteriaceae
+Hepatic encephalopathy	faecalibacterium
+Hepatic encephalopathy	fusobacteriaceae
+Hepatic encephalopathy	granulicatella
+Hepatic encephalopathy	lachnospiraceae
+Hepatic encephalopathy	lactobacillaceae
+Hepatic encephalopathy	lactobacillales
+Hepatic encephalopathy	megasphaera
+Hepatic encephalopathy	micrococcaceae
+Hepatic encephalopathy	mycobacterium
+Hepatic encephalopathy	pasteurellaceae
+Hepatic encephalopathy	planococcaceae
+Hepatic encephalopathy	prevotellaceae
+Hepatic encephalopathy	roseburia
+Hepatic encephalopathy	ruminococcus
+Hepatic encephalopathy	streptococcaceae
+Hepatic encephalopathy	veillonella
+Hepatitis B	actinobacteria
+Hepatitis B	actinomyces
+Hepatitis B	aggregatibacter
+Hepatitis B	alistipes
+Hepatitis B	anaerostipes
+Hepatitis B	asaccharobacter
+Hepatitis B	atopobium
+Hepatitis B	bacteroides
+Hepatitis B	bifidobacterium
+Hepatitis B	butyricimonas
+Hepatitis B	campylobacter
+Hepatitis B	capnocytophaga
+Hepatitis B	clostridium
+Hepatitis B	corynebacterium
+Hepatitis B	desulfovibrio
+Hepatitis B	dialister
+Hepatitis B	enterobacteriaceae
+Hepatitis B	enterococcus
+Hepatitis B	escherichia
+Hepatitis B	eubacterium
+Hepatitis B	faecalibacterium
+Hepatitis B	filifactor
+Hepatitis B	fusobacterium
+Hepatitis B	haemophilus
+Hepatitis B	lactobacillus
+Hepatitis B	megamonas
+Hepatitis B	megasphaera
+Hepatitis B	parabacteroides
+Hepatitis B	paraprevotella
+Hepatitis B	phascolarctobacterium
+Hepatitis B	porphyromonas
+Hepatitis B	prevotella
+Hepatitis B	ruminococcus
+Hepatitis B	streptococcus
+Hepatitis B	treponema
+Hepatitis B	veillonella
+Hepatitis B associated liver failure	acinetobacter
+Hepatitis B associated liver failure	actinobacteria
+Hepatitis B associated liver failure	bacteroides
+Hepatitis B associated liver failure	burkholderia
+Hepatitis B associated liver failure	clostridium
+Hepatitis B associated liver failure	comamonas
+Hepatitis B associated liver failure	deinococcus
+Hepatitis B associated liver failure	enterobacteriaceae
+Hepatitis B associated liver failure	moraxellaceae
+Hepatitis B associated liver failure	xanthomonadaceae
+Hepatitis C	acetivibrio
+Hepatitis C	acinetobacter
+Hepatitis C	akkermansia
+Hepatitis C	alloprevotella
+Hepatitis C	bilophila
+Hepatitis C	butyricimonas
+Hepatitis C	citrobacter
+Hepatitis C	clostridium
+Hepatitis C	escherichia
+Hepatitis C	haemophilus
+Hepatitis C	lactobacillus
+Hepatitis C	micrococcus
+Hepatitis C	mitsuokella
+Hepatitis C	parabacteroides
+Hepatitis C	pediococcus
+Hepatitis C	phascolarctobacterium
+Hepatitis C	prevotella
+Hepatitis C	pseudoflavonifractor
+Hepatitis C	ruminococcus
+Hepatitis C	streptococcus
+Hepatitis C	veillonella
+Hepatitis C	vivictivallis
+Hepatitis C	weissella
+Hepatocellular cancer	acidaminococcus
+Hepatocellular cancer	actinobacteria
+Hepatocellular cancer	actinomyces
+Hepatocellular cancer	adlercreutzia
+Hepatocellular cancer	aggregatibacter
+Hepatocellular cancer	akkermansia
+Hepatocellular cancer	alistipes
+Hepatocellular cancer	allisonella
+Hepatocellular cancer	alloprevotella
+Hepatocellular cancer	anaerostipes
+Hepatocellular cancer	anaerotruncus
+Hepatocellular cancer	bacteroides
+Hepatocellular cancer	bacteroidetes
+Hepatocellular cancer	barnesiella
+Hepatocellular cancer	bifidobacterium
+Hepatocellular cancer	bilophila
+Hepatocellular cancer	butyricicoccus
+Hepatocellular cancer	campylobacter
+Hepatocellular cancer	clostridium
+Hepatocellular cancer	collinsella
+Hepatocellular cancer	coprobacillus
+Hepatocellular cancer	coprococcus
+Hepatocellular cancer	dialister
+Hepatocellular cancer	dorea
+Hepatocellular cancer	eggerthella
+Hepatocellular cancer	enterococcus
+Hepatocellular cancer	erysipelotrichia
+Hepatocellular cancer	escherichia
+Hepatocellular cancer	eubacterium
+Hepatocellular cancer	faecalibacterium
+Hepatocellular cancer	fusobacterium
+Hepatocellular cancer	gammaproteobacteria
+Hepatocellular cancer	gemella
+Hepatocellular cancer	gemmiger
+Hepatocellular cancer	haemophilus
+Hepatocellular cancer	holdemania
+Hepatocellular cancer	klebsiella
+Hepatocellular cancer	lachnospira
+Hepatocellular cancer	lachnospiraceae
+Hepatocellular cancer	lactobacillus
+Hepatocellular cancer	leptotrichia
+Hepatocellular cancer	megasphaera
+Hepatocellular cancer	odoribacter
+Hepatocellular cancer	oscillibacter
+Hepatocellular cancer	parabacteroides
+Hepatocellular cancer	paraprevotella
+Hepatocellular cancer	pasteurellaceae
+Hepatocellular cancer	peptococcus
+Hepatocellular cancer	phascolarctobacterium
+Hepatocellular cancer	porphyromonas
+Hepatocellular cancer	prevotella
+Hepatocellular cancer	proteobacteria
+Hepatocellular cancer	proteus
+Hepatocellular cancer	pseudomonas
+Hepatocellular cancer	pyramidobacter
+Hepatocellular cancer	rothia
+Hepatocellular cancer	ruminiclostridium
+Hepatocellular cancer	ruminococcaceae
+Hepatocellular cancer	ruminococcus
+Hepatocellular cancer	shigella
+Hepatocellular cancer	streptococcus
+Hepatocellular cancer	subdoligranulum
+Hepatocellular cancer	synechococcus
+Hepatocellular cancer	veillonella
+Human end-stage renal disease	actinobacteria
+Human end-stage renal disease	alistipes
+Human end-stage renal disease	bacillus
+Human end-stage renal disease	bifidobacterium
+Human end-stage renal disease	clostridium
+Human end-stage renal disease	dialister
+Human end-stage renal disease	eggerthella
+Human end-stage renal disease	eubacterium
+Human end-stage renal disease	faecalibacterium
+Human end-stage renal disease	flavonifractor
+Human end-stage renal disease	fusobacterium
+Human end-stage renal disease	lachnospira
+Human end-stage renal disease	megasphaera
+Human end-stage renal disease	peptostreptococcaceae
+Human end-stage renal disease	phascolarctobacterium
+Human end-stage renal disease	prevotella
+Human end-stage renal disease	roseburia
+Human end-stage renal disease	ruminococcus
+Human papilloma virus infection	atopobium
+Human papilloma virus infection	bifidobacteriaceae
+Human papilloma virus infection	campylobacter
+Human papilloma virus infection	capnocytophaga
+Human papilloma virus infection	dialister
+Human papilloma virus infection	eggerthella
+Human papilloma virus infection	gardnerella
+Human papilloma virus infection	lactobacillus
+Human papilloma virus infection	porphyromonas
+Human papilloma virus infection	shuttleworthia
+Human papilloma virus infection	sneathia
+Human papilloma virus infection	treponema
+Hypertension	actinomyces
+Hypertension	akkermansia
+Hypertension	alistipes
+Hypertension	bacteroides
+Hypertension	bifidobacterium
+Hypertension	blautia
+Hypertension	butyrivibrio
+Hypertension	clostridium
+Hypertension	coprococcus
+Hypertension	desulfovibrio
+Hypertension	dorea
+Hypertension	eggerthella
+Hypertension	enterobacter
+Hypertension	enterococcus
+Hypertension	eubacterium
+Hypertension	faecalibacterium
+Hypertension	fusobacterium
+Hypertension	klebsiella
+Hypertension	lactobacillus
+Hypertension	megasphaera
+Hypertension	oscillibacter
+Hypertension	oscillospira
+Hypertension	parabacteroides
+Hypertension	paraprevotella
+Hypertension	parasutterella
+Hypertension	porphyromonas
+Hypertension	prevotella
+Hypertension	roseburia
+Hypertension	ruminococcus
+Hypertension	salmonella
+Hypertension	shigella
+Hypertension	streptococcus
+Hypertension	synergistetes
+Hypertension	veillonella
+Hypopharyngeal cancer	campylobacter
+Hypopharyngeal cancer	capnocytophaga
+Hypopharyngeal cancer	haemophilus
+Hypopharyngeal cancer	neisseria
+Hypopharyngeal cancer	porphyromonas
+Hypopharyngeal cancer	prevotella
+Hypopharyngeal cancer	rothia
+Hypopharyngeal cancer	selenomonas
+Hypopharyngeal cancer	shuttleworthia
+Hypopharyngeal cancer	treponema
+Hypopharyngeal cancer	veillonella
+Idiopathic Pulmonary Fibrosis	blautia
+Idiopathic Pulmonary Fibrosis	campylobacter
+Idiopathic Pulmonary Fibrosis	coprococcus
+Idiopathic Pulmonary Fibrosis	dorea
+Idiopathic Pulmonary Fibrosis	haemophilus
+Idiopathic Pulmonary Fibrosis	neisseria
+Idiopathic Pulmonary Fibrosis	paludibacter
+Idiopathic Pulmonary Fibrosis	parasutterella
+Idiopathic Pulmonary Fibrosis	pseudobutyrivibrio
+Idiopathic Pulmonary Fibrosis	streptococcus
+Idiopathic Pulmonary Fibrosis	sutterella
+Idiopathic Pulmonary Fibrosis	veillonella
+Idiopathic REM Sleep Behavior Disorder	anaerotruncus
+Idiopathic REM Sleep Behavior Disorder	catenibacterium
+Idiopathic REM Sleep Behavior Disorder	clostridium
+Idiopathic REM Sleep Behavior Disorder	desulfovibrionaceae
+Idiopathic REM Sleep Behavior Disorder	eggerthella
+Idiopathic REM Sleep Behavior Disorder	erysipelotrichaceae
+Idiopathic REM Sleep Behavior Disorder	flavonifractor
+Idiopathic REM Sleep Behavior Disorder	megasphaera
+Idiopathic REM Sleep Behavior Disorder	mitsuokella
+Idiopathic REM Sleep Behavior Disorder	oxalobacteraceae
+Idiopathic REM Sleep Behavior Disorder	prevotella
+Idiopathic central precocious puberty	acinetobacter
+Idiopathic central precocious puberty	bacteroides
+Idiopathic central precocious puberty	barnesiella
+Idiopathic central precocious puberty	clostridium
+Idiopathic central precocious puberty	coprobacter
+Idiopathic central precocious puberty	coprococcus
+Idiopathic central precocious puberty	gemmiger
+Idiopathic central precocious puberty	holdemania
+Idiopathic central precocious puberty	oscillibacter
+Idiopathic central precocious puberty	pseudomonas
+Idiopathic central precocious puberty	psychrobacter
+Idiopathic central precocious puberty	roseburia
+Idiopathic central precocious puberty	ruminococcus
+Idiopathic focal epilepsy	bacteroides
+Idiopathic focal epilepsy	bifidobacterium
+Idiopathic focal epilepsy	blautia
+Idiopathic focal epilepsy	campylobacter
+Idiopathic focal epilepsy	collinsella
+Idiopathic focal epilepsy	coprococcus
+Idiopathic focal epilepsy	delftia
+Idiopathic focal epilepsy	faecalibacterium
+Idiopathic focal epilepsy	haemophilus
+Idiopathic focal epilepsy	lautropia
+Idiopathic focal epilepsy	neisseria
+Idiopathic focal epilepsy	parabacteroides
+Idiopathic focal epilepsy	ruminococcus
+Infantile eczema	acidaminococcus
+Infantile eczema	akkermansia
+Infantile eczema	allisonella
+Infantile eczema	anaeroglobus
+Infantile eczema	anaerostipes
+Infantile eczema	anaerotruncus
+Infantile eczema	bacteroidaceae
+Infantile eczema	bifidobacterium
+Infantile eczema	bilophila
+Infantile eczema	brevibacterium
+Infantile eczema	butyricicoccus
+Infantile eczema	clostridium
+Infantile eczema	collinsella
+Infantile eczema	coprococcus
+Infantile eczema	corynebacterium
+Infantile eczema	cronobacter
+Infantile eczema	desulfovibrio
+Infantile eczema	dialister
+Infantile eczema	dorea
+Infantile eczema	eikenella
+Infantile eczema	enterobacter
+Infantile eczema	erysipelotrichaceae
+Infantile eczema	faecalibacterium
+Infantile eczema	flavonifractor
+Infantile eczema	gemmiger
+Infantile eczema	granulicatella
+Infantile eczema	haemophilus
+Infantile eczema	klebsiella
+Infantile eczema	lachnospiraceae
+Infantile eczema	lactobacillus
+Infantile eczema	megasphaera
+Infantile eczema	oscillibacter
+Infantile eczema	paenibacillus
+Infantile eczema	parabacteroides
+Infantile eczema	paraprevotella
+Infantile eczema	phascolarctobacterium
+Infantile eczema	porphyromonas
+Infantile eczema	prevotella
+Infantile eczema	rhizobium
+Infantile eczema	roseburia
+Infantile eczema	ruminococcus
+Infantile eczema	shigella
+Infantile eczema	streptococcus
+Infantile eczema	sutterella
+Infantile eczema	turicibacter
+Infantile eczema	veillonella
+Inflammatory Bowel Disease	acidovorax
+Inflammatory Bowel Disease	alistipes
+Inflammatory Bowel Disease	anaerostipes
+Inflammatory Bowel Disease	bacillus
+Inflammatory Bowel Disease	bacteroides
+Inflammatory Bowel Disease	barnesiella
+Inflammatory Bowel Disease	bifidobacterium
+Inflammatory Bowel Disease	blautia
+Inflammatory Bowel Disease	bradyrhizobiaceae
+Inflammatory Bowel Disease	butyricimonas
+Inflammatory Bowel Disease	candida
+Inflammatory Bowel Disease	christensenellaceae
+Inflammatory Bowel Disease	comamonadaceae
+Inflammatory Bowel Disease	coprococcus
+Inflammatory Bowel Disease	coriobacteriaceae
+Inflammatory Bowel Disease	dehalobacter
+Inflammatory Bowel Disease	desulfovibrio
+Inflammatory Bowel Disease	dorea
+Inflammatory Bowel Disease	enterobacteriaceae
+Inflammatory Bowel Disease	enterococcus
+Inflammatory Bowel Disease	eubacterium
+Inflammatory Bowel Disease	faecalibacterium
+Inflammatory Bowel Disease	gammaproteobacteria
+Inflammatory Bowel Disease	gemella
+Inflammatory Bowel Disease	lachnobacterium
+Inflammatory Bowel Disease	methanobrevibacter
+Inflammatory Bowel Disease	mogibacterium
+Inflammatory Bowel Disease	moraxellaceae
+Inflammatory Bowel Disease	parabacteroides
+Inflammatory Bowel Disease	prevotella
+Inflammatory Bowel Disease	pseudomonas
+Inflammatory Bowel Disease	rikenellaceae
+Inflammatory Bowel Disease	ruminococcaceae
+Inflammatory Bowel Disease	ruminococcus
+Inflammatory Bowel Disease	saccharomyces
+Inflammatory Bowel Disease	sphingomonas
+Inflammatory Bowel Disease	streptococcus
+Influenza A	acidobacteria
+Influenza A	acinetobacter
+Influenza A	actinomyces
+Influenza A	atopobium
+Influenza A	corynebacterium
+Influenza A	dolosigranulum
+Influenza A	eubacterium
+Influenza A	fusobacterium
+Influenza A	gemella
+Influenza A	granulicatella
+Influenza A	haemophilus
+Influenza A	halomonas
+Influenza A	lachnoclostridium
+Influenza A	lactobacillus
+Influenza A	moraxella
+Influenza A	neisseria
+Influenza A	phyllobacterium
+Influenza A	pseudomonas
+Influenza A	ralstonia
+Influenza A	rothia
+Influenza A	staphylococcus
+Influenza A	streptococcus
+Interstitial cystitis	acidovorax
+Interstitial cystitis	actinobaculum
+Interstitial cystitis	aerococcus
+Interstitial cystitis	atopobium
+Interstitial cystitis	bacteroides
+Interstitial cystitis	bifidobacterium
+Interstitial cystitis	campylobacter
+Interstitial cystitis	coprococcus
+Interstitial cystitis	cronobacter
+Interstitial cystitis	dialister
+Interstitial cystitis	eggerthella
+Interstitial cystitis	enterococcus
+Interstitial cystitis	eubacterium
+Interstitial cystitis	faecalibacterium
+Interstitial cystitis	lactobacillus
+Interstitial cystitis	megasphaera
+Interstitial cystitis	microbacterium
+Interstitial cystitis	mobiluncus
+Interstitial cystitis	peptostreptococcus
+Interstitial cystitis	prevotella
+Interstitial cystitis	propionibacterium
+Interstitial cystitis	proteus
+Interstitial cystitis	ruminococcus
+Interstitial cystitis	sneathia
+Interstitial cystitis	streptococcus
+Intestinal metaplasia	bacillus
+Intestinal metaplasia	cyanobacteria
+Intestinal metaplasia	enhydrobacter
+Intestinal metaplasia	exiguobacterium
+Intestinal metaplasia	flavobacterium
+Intestinal metaplasia	lactococcus
+Intestinal metaplasia	leuconostoc
+Intestinal metaplasia	lysinibacillus
+Intestinal metaplasia	paenibacillus
+Intestinal metaplasia	psychrobacter
+Intestinal metaplasia	rhizobiales
+Intestinal metaplasia	streptococcus
+Invasive colorectal cancer	clostridiales
+Invasive colorectal cancer	corynebacterium
+Invasive colorectal cancer	desulfovibrio
+Invasive colorectal cancer	enterococcus
+Invasive colorectal cancer	fusobacterium
+Invasive colorectal cancer	lactobacillus
+Invasive colorectal cancer	neisseria
+Invasive colorectal cancer	oribacterium
+Invasive colorectal cancer	porphyromonas
+Invasive colorectal cancer	schlegelella
+Invasive pneumococcal disease	acinetobacter
+Invasive pneumococcal disease	actinomyces
+Invasive pneumococcal disease	alloprevotella
+Invasive pneumococcal disease	atopobium
+Invasive pneumococcal disease	capnocytophaga
+Invasive pneumococcal disease	granulicatella
+Invasive pneumococcal disease	lachnoanaerobaculum
+Invasive pneumococcal disease	megasphaera
+Invasive pneumococcal disease	moraxella
+Invasive pneumococcal disease	oribacterium
+Invasive pneumococcal disease	porphyromonas
+Invasive pneumococcal disease	prevotella
+Invasive pneumococcal disease	rothia
+Invasive pneumococcal disease	staphylococcus
+Invasive pneumococcal disease	streptococcus
+Invasive pneumococcal disease	veillonella
+Iron-deficiency anaemia	aggregatibacter
+Iron-deficiency anaemia	capnocytophaga
+Iron-deficiency anaemia	cardiobacterium
+Iron-deficiency anaemia	corynebacterium
+Iron-deficiency anaemia	enterococcus
+Iron-deficiency anaemia	lactobacillus
+Iron-deficiency anaemia	lactococcus
+Iron-deficiency anaemia	moraxella
+Iron-deficiency anaemia	neisseria
+Iron-deficiency anaemia	pseudomonas
+Irritable Bowel Syndrome	acinetobacter
+Irritable Bowel Syndrome	actinomyces
+Irritable Bowel Syndrome	aeromonas
+Irritable Bowel Syndrome	alcaligenaceae
+Irritable Bowel Syndrome	alistipes
+Irritable Bowel Syndrome	allisonella
+Irritable Bowel Syndrome	alternaria
+Irritable Bowel Syndrome	anaerostipes
+Irritable Bowel Syndrome	anaerovorax
+Irritable Bowel Syndrome	bacteriodes
+Irritable Bowel Syndrome	bacteroidales
+Irritable Bowel Syndrome	bacteroides
+Irritable Bowel Syndrome	bifidobacterium
+Irritable Bowel Syndrome	blautia
+Irritable Bowel Syndrome	brevundimonas
+Irritable Bowel Syndrome	butyricicoccus
+Irritable Bowel Syndrome	butyricimonas
+Irritable Bowel Syndrome	candida
+Irritable Bowel Syndrome	candidatus
+Irritable Bowel Syndrome	christensenellaceae
+Irritable Bowel Syndrome	citrobacter
+Irritable Bowel Syndrome	clostridioides
+Irritable Bowel Syndrome	clostridium
+Irritable Bowel Syndrome	collinsella
+Irritable Bowel Syndrome	coprococcus
+Irritable Bowel Syndrome	dehalobacter
+Irritable Bowel Syndrome	desulfovibrio
+Irritable Bowel Syndrome	dialister
+Irritable Bowel Syndrome	dorea
+Irritable Bowel Syndrome	enterobacter
+Irritable Bowel Syndrome	enterobacteriaceae
+Irritable Bowel Syndrome	enterococcus
+Irritable Bowel Syndrome	erysipelotrichia
+Irritable Bowel Syndrome	escherichia
+Irritable Bowel Syndrome	eubacterium
+Irritable Bowel Syndrome	faecalibacterium
+Irritable Bowel Syndrome	flavonifractor
+Irritable Bowel Syndrome	fusobacterium
+Irritable Bowel Syndrome	gemella
+Irritable Bowel Syndrome	haemophilus
+Irritable Bowel Syndrome	holdemania
+Irritable Bowel Syndrome	klebsiella
+Irritable Bowel Syndrome	lachnoclostridium
+Irritable Bowel Syndrome	lachnospira
+Irritable Bowel Syndrome	lachnospiraceae
+Irritable Bowel Syndrome	lactobacillales
+Irritable Bowel Syndrome	lactobacillus
+Irritable Bowel Syndrome	leuconostoc
+Irritable Bowel Syndrome	marvinbryantia
+Irritable Bowel Syndrome	neisseria
+Irritable Bowel Syndrome	odoribacter
+Irritable Bowel Syndrome	oribacterium
+Irritable Bowel Syndrome	oscillibacter
+Irritable Bowel Syndrome	oxalobacter
+Irritable Bowel Syndrome	papillibacter
+Irritable Bowel Syndrome	parabacteroides
+Irritable Bowel Syndrome	paraprevotella
+Irritable Bowel Syndrome	penicillium
+Irritable Bowel Syndrome	peptococcus
+Irritable Bowel Syndrome	porphyromonadaceae
+Irritable Bowel Syndrome	prevotella
+Irritable Bowel Syndrome	prevotellaceae
+Irritable Bowel Syndrome	propionibacterium
+Irritable Bowel Syndrome	pseudomonas
+Irritable Bowel Syndrome	raoultella
+Irritable Bowel Syndrome	roseburia
+Irritable Bowel Syndrome	ruminococcaceae
+Irritable Bowel Syndrome	ruminococcus
+Irritable Bowel Syndrome	sporobacter
+Irritable Bowel Syndrome	staphylococcus
+Irritable Bowel Syndrome	streptococcus
+Irritable Bowel Syndrome	tannerella
+Irritable Bowel Syndrome	tyzzerella
+Irritable Bowel Syndrome	veillonella
+Irritable Bowel Syndrome	veillonellaceae
+Irritable Bowel Syndrome	vivictivallis
+Ischemic stroke	akkermansia
+Ischemic stroke	anaerostipes
+Ischemic stroke	atopobium
+Ischemic stroke	bacteroides
+Ischemic stroke	blautia
+Ischemic stroke	clostridium
+Ischemic stroke	enterobacteriaceae
+Ischemic stroke	enterococcus
+Ischemic stroke	faecalibacterium
+Ischemic stroke	lachnospiraceae
+Ischemic stroke	lactobacillaceae
+Ischemic stroke	lactobacillus
+Ischemic stroke	porphyromonadaceae
+Ischemic stroke	roseburia
+Juvenile idiopathic arthritis	allobaculum
+Juvenile idiopathic arthritis	bacteroidetes
+Juvenile idiopathic arthritis	barnesiellaceae
+Juvenile idiopathic arthritis	blautia
+Juvenile idiopathic arthritis	dorea
+Juvenile idiopathic arthritis	enterococcus
+Juvenile idiopathic arthritis	erysipelotrichaceae
+Juvenile idiopathic arthritis	faecalibacterium
+Juvenile idiopathic arthritis	firmicutes
+Juvenile idiopathic arthritis	gemella
+Juvenile idiopathic arthritis	haemophilus
+Juvenile idiopathic arthritis	klebsiella
+Juvenile idiopathic arthritis	parabacteroides
+Juvenile idiopathic arthritis	phascolarctobacterium
+Juvenile idiopathic arthritis	propionibacterium
+Juvenile idiopathic arthritis	ruminococcaceae
+Juvenile idiopathic arthritis	turicibacter
+Kawasaki disease	blautia
+Kawasaki disease	clostridium
+Kawasaki disease	coprococcus
+Kawasaki disease	eubacterium
+Kawasaki disease	faecalibacterium
+Kawasaki disease	megamonas
+Kawasaki disease	roseburia
+Kawasaki disease	rothia
+Kawasaki disease	ruminococcus
+Kawasaki disease	staphylococcus
+Kawasaki disease	streptococcus
+Keratitis	acidaminococcus
+Keratitis	aspergillus
+Keratitis	bacteroides
+Keratitis	bifidobacterium
+Keratitis	clostridium
+Keratitis	dialister
+Keratitis	dorea
+Keratitis	faecalibacterium
+Keratitis	fusobacteriaceae
+Keratitis	klebsiella
+Keratitis	lachnospira
+Keratitis	malassezia
+Keratitis	megasphaera
+Keratitis	mitsuokella
+Keratitis	mortierella
+Keratitis	roseburia
+Keratitis	ruminococcus
+Keratitis	sutterella
+Keratitis	treponema
+Kidney stone	acinetobacter
+Kidney stone	alistipes
+Kidney stone	alloprevotella
+Kidney stone	anaerostipes
+Kidney stone	bacteroides
+Kidney stone	bilophila
+Kidney stone	clostridium
+Kidney stone	dialister
+Kidney stone	dorea
+Kidney stone	erysipelatoclostridium
+Kidney stone	eubacterium
+Kidney stone	faecalibacterium
+Kidney stone	finegoldia
+Kidney stone	fusicatenibacter
+Kidney stone	holdemania
+Kidney stone	lachnospiraceae
+Kidney stone	lactobacillus
+Kidney stone	lysinibacillus
+Kidney stone	megamonas
+Kidney stone	parabacteroides
+Kidney stone	parasutterella
+Kidney stone	peptoniphilus
+Kidney stone	phascolarctobacterium
+Kidney stone	prevotella
+Kidney stone	ruminiclostridium
+Kidney stone	ruminococcus
+Kidney stone	shigella
+Kidney stone	subdoligranulum
+Kidney stone	sutterella
+Kidney stone	varibaculum
+Kidney stone	veillonella
+Kidney stone with hypertension	acidovorax
+Kidney stone with hypertension	anaerovorax
+Kidney stone with hypertension	arthrobacter
+Kidney stone with hypertension	bilophila
+Kidney stone with hypertension	bradyrhizobium
+Kidney stone with hypertension	brevibacterium
+Kidney stone with hypertension	butyricicoccus
+Kidney stone with hypertension	butyrivibrio
+Kidney stone with hypertension	cloacibacterium
+Kidney stone with hypertension	clostridium
+Kidney stone with hypertension	comamonas
+Kidney stone with hypertension	delftia
+Kidney stone with hypertension	enhydrobacter
+Kidney stone with hypertension	lachnospiraceae
+Kidney stone with hypertension	lactobacillus
+Kidney stone with hypertension	ochrobactrum
+Kidney stone with hypertension	pelomonas
+Kidney stone with hypertension	phascolarctobacterium
+Kidney stone with hypertension	propionibacterium
+Kidney stone with hypertension	pseudochrobactrum
+Kidney stone with hypertension	rhizobium
+Kidney stone with hypertension	rhodococcus
+Kidney stone with hypertension	selenomonas
+Kidney stone with hypertension	sphingobium
+Kidney stone with hypertension	stenotrophomonas
+Kidney stone with hypertension	succiniclasticum
+Laryngeal carcinoma	abiotrophia
+Laryngeal carcinoma	aggregatibacter
+Laryngeal carcinoma	burkholderia
+Laryngeal carcinoma	capnocytophaga
+Laryngeal carcinoma	catonella
+Laryngeal carcinoma	dialister
+Laryngeal carcinoma	erysipelotrichaceae
+Laryngeal carcinoma	fusobacterium
+Laryngeal carcinoma	hallella
+Laryngeal carcinoma	helicobacter
+Laryngeal carcinoma	methylobacterium
+Laryngeal carcinoma	mobiluncus
+Laryngeal carcinoma	moraxella
+Laryngeal carcinoma	mycoplasma
+Laryngeal carcinoma	parvimonas
+Laryngeal carcinoma	peptostreptococcaceae
+Laryngeal carcinoma	peptostreptococcus
+Laryngeal carcinoma	prevotella
+Laryngeal carcinoma	proteus
+Laryngeal carcinoma	pyramidobacter
+Laryngeal carcinoma	rothia
+Laryngeal carcinoma	schlegelella
+Laryngeal carcinoma	selenomonas
+Laryngeal carcinoma	serratia
+Laryngeal carcinoma	staphylococcus
+Laryngeal carcinoma	streptococcus
+Laryngeal carcinoma	treponema
+Lung cancer	acidovorax
+Lung cancer	acinetobacter
+Lung cancer	bacillus
+Lung cancer	bacteroides
+Lung cancer	bifidobacterium
+Lung cancer	butyricimonas
+Lung cancer	clostridium
+Lung cancer	coprococcus
+Lung cancer	coriobacteriaceae
+Lung cancer	corynebacterium
+Lung cancer	delftia
+Lung cancer	enterobacteriaceae
+Lung cancer	enterococcus
+Lung cancer	erysipelotrichaceae
+Lung cancer	faecalibacterium
+Lung cancer	fusobacteriaceae
+Lung cancer	lachnospiraceae
+Lung cancer	mycobacterium
+Lung cancer	odoribacter
+Lung cancer	parabacteroides
+Lung cancer	prevotella
+Lung cancer	rhodococcus
+Lung cancer	roseburia
+Lung cancer	rothia
+Lung cancer	ruminococcus
+Lung cancer	sphingomonas
+Lung cancer	streptococcus
+Lung cancer	veillonella
+Macular degeneration	actinomyces
+Macular degeneration	anaerococcus
+Macular degeneration	anaerotruncus
+Macular degeneration	bacteroides
+Macular degeneration	campylobacter
+Macular degeneration	eubacterium
+Macular degeneration	finegoldia
+Macular degeneration	fusobacterium
+Macular degeneration	gemella
+Macular degeneration	leptotrichia
+Macular degeneration	oscillibacter
+Macular degeneration	peptoniphilus
+Macular degeneration	prevotella
+Macular degeneration	propionibacterium
+Macular degeneration	rothia
+Macular degeneration	ruminococcus
+Macular degeneration	staphylococcus
+Macular degeneration	streptococcus
+Macular degeneration	veillonella
+Major depressive disorder	actinomyces
+Major depressive disorder	alistipes
+Major depressive disorder	anaerostipes
+Major depressive disorder	anaerovorax
+Major depressive disorder	bacteroidaceae
+Major depressive disorder	bacteroidales
+Major depressive disorder	bacteroides
+Major depressive disorder	bacteroidetes
+Major depressive disorder	bifidobacteriaceae
+Major depressive disorder	bifidobacterium
+Major depressive disorder	blautia
+Major depressive disorder	clostridium
+Major depressive disorder	coprococcus
+Major depressive disorder	dialister
+Major depressive disorder	eggerthella
+Major depressive disorder	enterobacteriaceae
+Major depressive disorder	eubacterium
+Major depressive disorder	faecalibacterium
+Major depressive disorder	lachnospiraceae
+Major depressive disorder	lactobacillus
+Major depressive disorder	megamonas
+Major depressive disorder	oscillibacter
+Major depressive disorder	parabacteroides
+Major depressive disorder	parasutterella
+Major depressive disorder	phascolarctobacterium
+Major depressive disorder	prevotella
+Major depressive disorder	roseburia
+Major depressive disorder	ruminococcus
+Major depressive disorder	streptococcus
+Major depressive disorder	sutterella
+Major depressive disorder	veillonella
+Metabolic syndrome	bifidobacterium
+Metabolic syndrome	catenibacterium
+Metabolic syndrome	collinsella
+Metabolic syndrome	coprococcus
+Metabolic syndrome	desulfovibrio
+Metabolic syndrome	eubacterium
+Metabolic syndrome	faecalibacterium
+Metabolic syndrome	roseburia
+Metabolic syndrome	ruminococcus
+Metabolic syndrome	subdoligranulum
+Metabolic syndrome	sutterella
+Microscopic colitis	akkermansia
+Microscopic colitis	alistipes
+Microscopic colitis	anaerotruncus
+Microscopic colitis	christensenellaceae
+Microscopic colitis	clostridium
+Microscopic colitis	coprococcus
+Microscopic colitis	coriobacteriaceae
+Microscopic colitis	desulfovibrio
+Microscopic colitis	enterobacter
+Microscopic colitis	faecalibacterium
+Microscopic colitis	haemophilus
+Microscopic colitis	lachnospiraceae
+Microscopic colitis	prevotella
+Microscopic colitis	propionibacterium
+Microscopic colitis	rhodobacteraceae
+Microscopic colitis	romboutsia
+Microscopic colitis	ruminiclostridium
+Microscopic colitis	ruminococcus
+Microscopic colitis	sphingobacterium
+Microscopic colitis	staphylococcus
+Microscopic colitis	subdoligranulum
+Microscopic colitis	veillonella
+Mucosa-associated lymphoid tissue lymphoma	bacteroides
+Mucosa-associated lymphoid tissue lymphoma	brevundimonas
+Mucosa-associated lymphoid tissue lymphoma	chryseobacterium
+Mucosa-associated lymphoid tissue lymphoma	clostridium
+Mucosa-associated lymphoid tissue lymphoma	deinococcus
+Mucosa-associated lymphoid tissue lymphoma	delftia
+Mucosa-associated lymphoid tissue lymphoma	exiguobacterium
+Mucosa-associated lymphoid tissue lymphoma	lactobacillus
+Mucosa-associated lymphoid tissue lymphoma	mycoplana
+Mucosa-associated lymphoid tissue lymphoma	parabacteroides
+Mucosa-associated lymphoid tissue lymphoma	rothia
+Mucosa-associated lymphoid tissue lymphoma	rubellimicrobium
+Mucosa-associated lymphoid tissue lymphoma	schlegelella
+Multiple Sclerosis	actinobacteria
+Multiple Sclerosis	actinomyces
+Multiple Sclerosis	adlercreutzia
+Multiple Sclerosis	akkermansia
+Multiple Sclerosis	alistipes
+Multiple Sclerosis	anaerofustis
+Multiple Sclerosis	anaerostipes
+Multiple Sclerosis	anaerotruncus
+Multiple Sclerosis	bacillus
+Multiple Sclerosis	bacteroidaceae
+Multiple Sclerosis	bacteroides
+Multiple Sclerosis	bifidobacterium
+Multiple Sclerosis	blautia
+Multiple Sclerosis	butyricicoccus
+Multiple Sclerosis	butyricimonas
+Multiple Sclerosis	christensenella
+Multiple Sclerosis	clostridium
+Multiple Sclerosis	collinsella
+Multiple Sclerosis	coprobacillus
+Multiple Sclerosis	coprococcus
+Multiple Sclerosis	coriobacteriaceae
+Multiple Sclerosis	desulfovibrio
+Multiple Sclerosis	dialister
+Multiple Sclerosis	dorea
+Multiple Sclerosis	eggerthella
+Multiple Sclerosis	erysipelotrichaceae
+Multiple Sclerosis	eubacterium
+Multiple Sclerosis	faecalibacterium
+Multiple Sclerosis	faecalicoccus
+Multiple Sclerosis	firmicutes
+Multiple Sclerosis	flavobacterium
+Multiple Sclerosis	fusobacteria
+Multiple Sclerosis	gemmiger
+Multiple Sclerosis	haemophilus
+Multiple Sclerosis	holdemania
+Multiple Sclerosis	intestinibacter
+Multiple Sclerosis	lachnospira
+Multiple Sclerosis	lachnospiraceae
+Multiple Sclerosis	lactobacillus
+Multiple Sclerosis	megamonas
+Multiple Sclerosis	methanobrevibacter
+Multiple Sclerosis	mycoplana
+Multiple Sclerosis	olsenella
+Multiple Sclerosis	parabacteroides
+Multiple Sclerosis	pedobacter
+Multiple Sclerosis	prevotella
+Multiple Sclerosis	proteobacteria
+Multiple Sclerosis	pseudomonas
+Multiple Sclerosis	roseburia
+Multiple Sclerosis	ruminococcaceae
+Multiple Sclerosis	ruminococcus
+Multiple Sclerosis	shigella
+Multiple Sclerosis	slackia
+Multiple Sclerosis	sporobacter
+Multiple Sclerosis	streptococcus
+Multiple Sclerosis	succinivibrio
+Multiple Sclerosis	sutterella
+Multiple system atrophy	aggregatibacter
+Multiple system atrophy	akkermansia
+Multiple system atrophy	alistipes
+Multiple system atrophy	bacteroides
+Multiple system atrophy	bifidobacterium
+Multiple system atrophy	blautia
+Multiple system atrophy	gordonibacter
+Multiple system atrophy	granulicatella
+Multiple system atrophy	haemophilus
+Multiple system atrophy	lactobacillus
+Multiple system atrophy	leucobacter
+Multiple system atrophy	megamonas
+Multiple system atrophy	paraprevotella
+Multiple system atrophy	phascolarctobacterium
+Multiple system atrophy	roseburia
+Multiple system atrophy	scardovia
+Multiple system atrophy	staphylococcus
+Multiple system atrophy	streptococcus
+Multiple system atrophy	tyzzerella
+Myasthenia gravis	acidaminococcus
+Myasthenia gravis	acinetobacter
+Myasthenia gravis	aerococcus
+Myasthenia gravis	bacteroides
+Myasthenia gravis	bifidobacteriaceae
+Myasthenia gravis	bilophila
+Myasthenia gravis	butyricicoccus
+Myasthenia gravis	clostridium
+Myasthenia gravis	coriobacteriaceae
+Myasthenia gravis	desulfovibrio
+Myasthenia gravis	desulfovibrionaceae
+Myasthenia gravis	escherichia
+Myasthenia gravis	eubacterium
+Myasthenia gravis	faecalibacterium
+Myasthenia gravis	flavobacteriaceae
+Myasthenia gravis	fusobacterium
+Myasthenia gravis	lactobacillus
+Myasthenia gravis	leuconostocaceae
+Myasthenia gravis	megamonas
+Myasthenia gravis	paraprevotella
+Myasthenia gravis	parasutterella
+Myasthenia gravis	parvimonas
+Myasthenia gravis	pasteurellaceae
+Myasthenia gravis	prevotella
+Myasthenia gravis	stomatobaculum
+Myasthenia gravis	streptococcus
+Myasthenia gravis	sutterella
+Myasthenia gravis	verrucomicrobia
+Necrotizing enterocolitis	citrobacter
+Necrotizing enterocolitis	clostridium
+Necrotizing enterocolitis	cronobacter
+Necrotizing enterocolitis	enterobacter
+Necrotizing enterocolitis	enterobacteriaceae
+Necrotizing enterocolitis	enterococcus
+Necrotizing enterocolitis	escherichia
+Necrotizing enterocolitis	gammaproteobacteria
+Necrotizing enterocolitis	klebsiella
+Necrotizing enterocolitis	staphylococcus
+Neuromyelitis optica	anaerobacter
+Neuromyelitis optica	anaeroglobus
+Neuromyelitis optica	bacteroides
+Neuromyelitis optica	blautia
+Neuromyelitis optica	candidatus
+Neuromyelitis optica	clostridium
+Neuromyelitis optica	coprococcus
+Neuromyelitis optica	corynebacterium
+Neuromyelitis optica	faecalibacterium
+Neuromyelitis optica	flavobacterium
+Neuromyelitis optica	flavonifractor
+Neuromyelitis optica	fusicatenibacter
+Neuromyelitis optica	lachnospiraceae
+Neuromyelitis optica	oribacterium
+Neuromyelitis optica	peptostreptococcaceae
+Neuromyelitis optica	prevotella
+Neuromyelitis optica	prevotellaceae
+Neuromyelitis optica	romboutsia
+Neuromyelitis optica	roseburia
+Neuromyelitis optica	ruminococcus
+Neuromyelitis optica	shigella
+Neuromyelitis optica	streptococcus
+Neuromyelitis optica	sutterella
+Neuromyelitis optica	treponema
+Non alcoholic steatohepatitis	alcaligenaceae
+Non alcoholic steatohepatitis	alistipes
+Non alcoholic steatohepatitis	bacteroides
+Non alcoholic steatohepatitis	bacteroidetes
+Non alcoholic steatohepatitis	bifidobacterium
+Non alcoholic steatohepatitis	blautia
+Non alcoholic steatohepatitis	clostridium
+Non alcoholic steatohepatitis	coprococcus
+Non alcoholic steatohepatitis	dorea
+Non alcoholic steatohepatitis	escherichia
+Non alcoholic steatohepatitis	eubacterium
+Non alcoholic steatohepatitis	lactobacillus
+Non alcoholic steatohepatitis	megamonas
+Non alcoholic steatohepatitis	oribacterium
+Non alcoholic steatohepatitis	oscillospira
+Non alcoholic steatohepatitis	peptoniphilus
+Non alcoholic steatohepatitis	prevotella
+Non alcoholic steatohepatitis	roseburia
+Non alcoholic steatohepatitis	ruminococcaceae
+Non alcoholic steatohepatitis	ruminococcus
+Non-alcoholic fatty liver disease	acidaminococcus
+Non-alcoholic fatty liver disease	actinomycetaceae
+Non-alcoholic fatty liver disease	akkermansia
+Non-alcoholic fatty liver disease	alistipes
+Non-alcoholic fatty liver disease	anaerobacter
+Non-alcoholic fatty liver disease	anaerococcus
+Non-alcoholic fatty liver disease	anaerosporobacter
+Non-alcoholic fatty liver disease	anaerostipes
+Non-alcoholic fatty liver disease	anaerotruncus
+Non-alcoholic fatty liver disease	bacillus
+Non-alcoholic fatty liver disease	bacteroidaceae
+Non-alcoholic fatty liver disease	bacteroides
+Non-alcoholic fatty liver disease	bifidobacterium
+Non-alcoholic fatty liver disease	bilophila
+Non-alcoholic fatty liver disease	blautia
+Non-alcoholic fatty liver disease	bradyrhizobium
+Non-alcoholic fatty liver disease	catenibacterium
+Non-alcoholic fatty liver disease	citrobacter
+Non-alcoholic fatty liver disease	clostridium
+Non-alcoholic fatty liver disease	coprococcus
+Non-alcoholic fatty liver disease	deinococcus
+Non-alcoholic fatty liver disease	desulfovibrionaceae
+Non-alcoholic fatty liver disease	dorea
+Non-alcoholic fatty liver disease	enterobacteriaceae
+Non-alcoholic fatty liver disease	enterococcus
+Non-alcoholic fatty liver disease	erysipelotrichaceae
+Non-alcoholic fatty liver disease	escherichia
+Non-alcoholic fatty liver disease	faecalibacterium
+Non-alcoholic fatty liver disease	flavonifractor
+Non-alcoholic fatty liver disease	klebsiella
+Non-alcoholic fatty liver disease	lachnospiraceae
+Non-alcoholic fatty liver disease	lactobacillus
+Non-alcoholic fatty liver disease	lactococcus
+Non-alcoholic fatty liver disease	leuconostoc
+Non-alcoholic fatty liver disease	mogibacterium
+Non-alcoholic fatty liver disease	moryella
+Non-alcoholic fatty liver disease	nocardioides
+Non-alcoholic fatty liver disease	odoribacter
+Non-alcoholic fatty liver disease	oscillibacter
+Non-alcoholic fatty liver disease	oscillospira
+Non-alcoholic fatty liver disease	parabacteroides
+Non-alcoholic fatty liver disease	parasutterella
+Non-alcoholic fatty liver disease	peptoniphilus
+Non-alcoholic fatty liver disease	peptostreptococcaceae
+Non-alcoholic fatty liver disease	phascolarctobacterium
+Non-alcoholic fatty liver disease	prevotella
+Non-alcoholic fatty liver disease	propionibacterium
+Non-alcoholic fatty liver disease	pseudobutyrivibrio
+Non-alcoholic fatty liver disease	pseudomonas
+Non-alcoholic fatty liver disease	rikenellaceae
+Non-alcoholic fatty liver disease	roseburia
+Non-alcoholic fatty liver disease	ruminiclostridium
+Non-alcoholic fatty liver disease	ruminococcaceae
+Non-alcoholic fatty liver disease	ruminococcus
+Non-alcoholic fatty liver disease	streptococcus
+Non-alcoholic fatty liver disease	turicibacter
+Non-alcoholic fatty liver disease	veillonella
+Obesity	acidovorax
+Obesity	acinetobacter
+Obesity	actinobacteria
+Obesity	adlercreutzia
+Obesity	aggregatibacter
+Obesity	akkermansia
+Obesity	alcaligenaceae
+Obesity	alistipes
+Obesity	alkaliphilus
+Obesity	alloprevotella
+Obesity	anaerococcus
+Obesity	anaerostipes
+Obesity	anaerotruncus
+Obesity	anaerovorax
+Obesity	atopobium
+Obesity	bacillus
+Obesity	bacteriodes
+Obesity	bacteroides
+Obesity	bacteroidetes
+Obesity	barnesiella
+Obesity	bergeriella
+Obesity	bergeyella
+Obesity	bifidobacterium
+Obesity	bilophila
+Obesity	blautia
+Obesity	bradyrhizobium
+Obesity	bulleidia
+Obesity	butyricicoccus
+Obesity	butyricimonas
+Obesity	campylobacter
+Obesity	candidatus
+Obesity	capnocytophaga
+Obesity	cardiobacterium
+Obesity	catonella
+Obesity	christensenellaceae
+Obesity	clostridium
+Obesity	collinsella
+Obesity	coprococcus
+Obesity	coriobacteriaceae
+Obesity	corynebacterium
+Obesity	dialister
+Obesity	dorea
+Obesity	eikenella
+Obesity	enhydrobacter
+Obesity	erysipelotrichaceae
+Obesity	escherichia
+Obesity	eubacterium
+Obesity	faecalibacterium
+Obesity	flavobacterium
+Obesity	fusobacterium
+Obesity	gemella
+Obesity	haemophilus
+Obesity	helicobacter
+Obesity	holdemania
+Obesity	intestinimonas
+Obesity	klebsiella
+Obesity	lachnospira
+Obesity	lachnospiraceae
+Obesity	lactobacillaceae
+Obesity	lactobacillus
+Obesity	lactococcus
+Obesity	lautropia
+Obesity	leptotrichia
+Obesity	leptotrichiaceae
+Obesity	leuconostocaceae
+Obesity	megamonas
+Obesity	megasphaera
+Obesity	methanobrevibacter
+Obesity	mogibacterium
+Obesity	mucor
+Obesity	neisseria
+Obesity	neisseriaceae
+Obesity	nocardioides
+Obesity	odoribacter
+Obesity	oribacterium
+Obesity	oscillibacter
+Obesity	oscillospira
+Obesity	paludibacter
+Obesity	parabacteroides
+Obesity	paraprevotella
+Obesity	parasutterella
+Obesity	peptoniphilus
+Obesity	peptostreptococcaceae
+Obesity	peptostreptococcus
+Obesity	phascolarctobacterium
+Obesity	porphyromonas
+Obesity	prevotella
+Obesity	prevotellaceae
+Obesity	proteobacteria
+Obesity	pseudomonas
+Obesity	romboutsia
+Obesity	roseburia
+Obesity	rothia
+Obesity	ruminiclostridium
+Obesity	ruminococcaceae
+Obesity	ruminococcus
+Obesity	selenomonas
+Obesity	simonsiella
+Obesity	solobacterium
+Obesity	staphylococcus
+Obesity	stenotrophomonas
+Obesity	streptococcus
+Obesity	succinivibrio
+Obesity	tanerella
+Obesity	terrisporobacter
+Obesity	treponema
+Obesity	veillonella
+Obstructive sleep apnea-hypopnea syndrome	abiotrophia
+Obstructive sleep apnea-hypopnea syndrome	acidobacteria
+Obstructive sleep apnea-hypopnea syndrome	aggregatibacter
+Obstructive sleep apnea-hypopnea syndrome	anaerococcus
+Obstructive sleep apnea-hypopnea syndrome	bifidobacterium
+Obstructive sleep apnea-hypopnea syndrome	clostridiaceae
+Obstructive sleep apnea-hypopnea syndrome	clostridium
+Obstructive sleep apnea-hypopnea syndrome	dialister
+Obstructive sleep apnea-hypopnea syndrome	erysipelotrichaceae
+Obstructive sleep apnea-hypopnea syndrome	fusicatenibacter
+Obstructive sleep apnea-hypopnea syndrome	fusobacterium
+Obstructive sleep apnea-hypopnea syndrome	granulicatella
+Obstructive sleep apnea-hypopnea syndrome	haemophilus
+Obstructive sleep apnea-hypopnea syndrome	kingella
+Obstructive sleep apnea-hypopnea syndrome	leptotrichiaceae
+Obstructive sleep apnea-hypopnea syndrome	megamonas
+Obstructive sleep apnea-hypopnea syndrome	mobiluncus
+Obstructive sleep apnea-hypopnea syndrome	oscillibacter
+Obstructive sleep apnea-hypopnea syndrome	porphyromonas
+Obstructive sleep apnea-hypopnea syndrome	prevotella
+Obstructive sleep apnea-hypopnea syndrome	pseudomonas
+Obstructive sleep apnea-hypopnea syndrome	ruminococcaceae
+Obstructive sleep apnea-hypopnea syndrome	schlegelella
+Obstructive sleep apnea-hypopnea syndrome	streptococcus
+Obstructive sleep apnea-hypopnea syndrome	treponema
+Obstructive sleep apnea-hypopnea syndrome	veillonella
+Obstructive sleep apnea-hypopnea syndrome	verrucomicrobiaceae
+Opisthorchis felineus infection	anoxybacillus
+Opisthorchis felineus infection	bacillus
+Opisthorchis felineus infection	bacteriodes
+Opisthorchis felineus infection	corynebacterium
+Opisthorchis felineus infection	faecalibacterium
+Opisthorchis felineus infection	haemophilus
+Opisthorchis felineus infection	janthinobacterium
+Opisthorchis felineus infection	lactobacillus
+Opisthorchis felineus infection	methylobacterium
+Opisthorchis felineus infection	parabacteroides
+Opisthorchis felineus infection	paracoccus
+Opisthorchis felineus infection	pseudoxanthomonas
+Opisthorchis felineus infection	sphingobium
+Opisthorchis felineus infection	sphingomonas
+Opisthorchis felineus infection	staphylococcus
+Opisthorchis felineus infection	treponema
+Opisthorchis felineus infection	veillonella
+Oral cancer	actinobacillus
+Oral cancer	actinobacteria
+Oral cancer	actinomyces
+Oral cancer	alloprevotella
+Oral cancer	alternaria
+Oral cancer	atopobium
+Oral cancer	candida
+Oral cancer	capnocytophaga
+Oral cancer	clostridium
+Oral cancer	enterobacteriaceae
+Oral cancer	exiguobacterium
+Oral cancer	firmicutes
+Oral cancer	fusobacterium
+Oral cancer	gemella
+Oral cancer	gibberella
+Oral cancer	granulicatella
+Oral cancer	haemophilus
+Oral cancer	hanseniaspora
+Oral cancer	johnsonella
+Oral cancer	lactobacillus
+Oral cancer	leptotrichia
+Oral cancer	malassezia
+Oral cancer	micrococcus
+Oral cancer	moraxella
+Oral cancer	neisseria
+Oral cancer	oribacterium
+Oral cancer	peptostreptococcus
+Oral cancer	porphyromonas
+Oral cancer	prevotella
+Oral cancer	propionibacterium
+Oral cancer	ralstonia
+Oral cancer	rothia
+Oral cancer	sphingomonas
+Oral cancer	staphylococcus
+Oral cancer	streptococcus
+Oral cancer	tm
+Oral cancer	veillonella
+Oral leukoplakia	alloprevotella
+Oral leukoplakia	campylobacter
+Oral leukoplakia	candida
+Oral leukoplakia	fusobacterium
+Oral leukoplakia	gemella
+Oral leukoplakia	lautropia
+Oral leukoplakia	leptotrichia
+Oral leukoplakia	neisseria
+Oral leukoplakia	rothia
+Oral leukoplakia	streptococcus
+Oral lichen planus	abiotrophia
+Oral lichen planus	achromobacter
+Oral lichen planus	aggregatibacter
+Oral lichen planus	alternaria
+Oral lichen planus	aspergillus
+Oral lichen planus	bacteroides
+Oral lichen planus	campylobacter
+Oral lichen planus	candida
+Oral lichen planus	eikenella
+Oral lichen planus	ezakiella
+Oral lichen planus	fusobacterium
+Oral lichen planus	haemophilus
+Oral lichen planus	lautropia
+Oral lichen planus	leptotrichia
+Oral lichen planus	mobiluncus
+Oral lichen planus	moraxella
+Oral lichen planus	neisseria
+Oral lichen planus	oribacterium
+Oral lichen planus	prevotella
+Oral lichen planus	proteobacteria
+Oral lichen planus	rothia
+Oral lichen planus	streptococcus
+Oral potentially malignant disorder	actinomyces
+Oral potentially malignant disorder	campylobacter
+Oral potentially malignant disorder	capnocytophaga
+Oral potentially malignant disorder	corynebacterium
+Oral potentially malignant disorder	delftia
+Oral potentially malignant disorder	enhydrobacter
+Oral potentially malignant disorder	eubacterium
+Oral potentially malignant disorder	fusobacterium
+Oral potentially malignant disorder	gemella
+Oral potentially malignant disorder	granulicatella
+Oral potentially malignant disorder	haemophilus
+Oral potentially malignant disorder	lautropia
+Oral potentially malignant disorder	leptotrichia
+Oral potentially malignant disorder	neisseria
+Oral potentially malignant disorder	parvimonas
+Oral potentially malignant disorder	porphyromonas
+Oral potentially malignant disorder	prevotella
+Oral potentially malignant disorder	psychrobacter
+Oral potentially malignant disorder	rothia
+Oral potentially malignant disorder	simonsiella
+Oral potentially malignant disorder	streptococcus
+Oral potentially malignant disorder	treponema
+Oral potentially malignant disorder	veillonella
+Oropharyngeal cancer	aggregatibacter
+Oropharyngeal cancer	bulleidia
+Oropharyngeal cancer	campylobacter
+Oropharyngeal cancer	capnocytophaga
+Oropharyngeal cancer	haemophilus
+Oropharyngeal cancer	neisseria
+Oropharyngeal cancer	porphyromonas
+Oropharyngeal cancer	prevotella
+Oropharyngeal cancer	rothia
+Oropharyngeal cancer	selenomonas
+Oropharyngeal cancer	shuttleworthia
+Oropharyngeal cancer	streptococcus
+Oropharyngeal cancer	treponema
+Oropharyngeal cancer	veillonella
+Osteoarthritis	atopobium
+Osteoarthritis	bacteriodes
+Osteoarthritis	bacteroides
+Osteoarthritis	haemophilus
+Osteoarthritis	leptotrichia
+Osteoarthritis	megasphaera
+Osteoarthritis	phascolarctobacterium
+Osteoarthritis	porphyromonas
+Osteoarthritis	rhodotorula
+Osteoarthritis	rothia
+Osteoarthritis	streptococcus
+Osteoarthritis	turicibacter
+Otitis Media	abiotrophia
+Otitis Media	acinetobacter
+Otitis Media	actinobacillus
+Otitis Media	alloprevotella
+Otitis Media	bergeyella
+Otitis Media	corynebacterium
+Otitis Media	dolosigranulum
+Otitis Media	eikenella
+Otitis Media	firmicutes
+Otitis Media	fusobacterium
+Otitis Media	gemella
+Otitis Media	granulicatella
+Otitis Media	haemophilus
+Otitis Media	johnsonella
+Otitis Media	klebsiella
+Otitis Media	lautropia
+Otitis Media	moraxella
+Otitis Media	neisseria
+Otitis Media	paracoccus
+Otitis Media	porphyromonas
+Otitis Media	prevotella
+Otitis Media	propionibacterium
+Otitis Media	proteobacteria
+Otitis Media	rothia
+Otitis Media	streptobacillus
+Otitis Media	streptococcus
+Otitis Media	veillonella
+Overactive bladder	aerococcus
+Overactive bladder	anaerococcus
+Overactive bladder	campylobacter
+Overactive bladder	dialister
+Overactive bladder	enterococcus
+Overactive bladder	finegoldia
+Overactive bladder	fusobacterium
+Overactive bladder	gemella
+Overactive bladder	helcococcus
+Overactive bladder	lactobacillus
+Overactive bladder	lactococcus
+Overactive bladder	mycoplasma
+Overactive bladder	novosphingobium
+Overactive bladder	prevotella
+Overactive bladder	proteus
+Overactive bladder	pyramidobacter
+Overactive bladder	sneathia
+Overactive bladder	staphylococcus
+Overactive bladder	ureaplasma
+Pancreatic cancer	acidaminococcus
+Pancreatic cancer	aggregatibacter
+Pancreatic cancer	akkermansia
+Pancreatic cancer	alistipes
+Pancreatic cancer	anaerostipes
+Pancreatic cancer	anaerotruncus
+Pancreatic cancer	bacteroidaceae
+Pancreatic cancer	bacteroidales
+Pancreatic cancer	bifidobacterium
+Pancreatic cancer	bilophila
+Pancreatic cancer	blautia
+Pancreatic cancer	brevundimonas
+Pancreatic cancer	butyricicoccus
+Pancreatic cancer	campylobacter
+Pancreatic cancer	catenibacterium
+Pancreatic cancer	clostridium
+Pancreatic cancer	coprococcus
+Pancreatic cancer	cronobacter
+Pancreatic cancer	dorea
+Pancreatic cancer	eggerthella
+Pancreatic cancer	enterobacter
+Pancreatic cancer	erysipelotrichaceae
+Pancreatic cancer	faecalibacterium
+Pancreatic cancer	flavonifractor
+Pancreatic cancer	gemmiger
+Pancreatic cancer	granulicatella
+Pancreatic cancer	haemophilus
+Pancreatic cancer	hallella
+Pancreatic cancer	klebsiella
+Pancreatic cancer	lachnospiraceae
+Pancreatic cancer	lactobacillus
+Pancreatic cancer	leptotrichia
+Pancreatic cancer	megamonas
+Pancreatic cancer	megasphaera
+Pancreatic cancer	mogibacterium
+Pancreatic cancer	neisseria
+Pancreatic cancer	parabacteroides
+Pancreatic cancer	parasutterella
+Pancreatic cancer	porphyromonas
+Pancreatic cancer	prevotella
+Pancreatic cancer	proteus
+Pancreatic cancer	rhizobium
+Pancreatic cancer	ruminococcaceae
+Pancreatic cancer	selenomonas
+Pancreatic cancer	sporobacter
+Pancreatic cancer	staphylococcaceae
+Pancreatic cancer	streptococcus
+Pancreatic cancer	veillonella
+Pancreatic head cancer	actinomyces
+Pancreatic head cancer	anaeroglobus
+Pancreatic head cancer	atopobium
+Pancreatic head cancer	campylobacter
+Pancreatic head cancer	catonella
+Pancreatic head cancer	coriobacteriaceae
+Pancreatic head cancer	corynebacterium
+Pancreatic head cancer	eubacterium
+Pancreatic head cancer	filifactor
+Pancreatic head cancer	fusobacterium
+Pancreatic head cancer	haemophilus
+Pancreatic head cancer	leptotrichia
+Pancreatic head cancer	moraxella
+Pancreatic head cancer	oribacterium
+Pancreatic head cancer	paraprevotella
+Pancreatic head cancer	pasteurellaceae
+Pancreatic head cancer	peptostreptococcus
+Pancreatic head cancer	porphyromonas
+Pancreatic head cancer	rothia
+Pancreatic head cancer	tannerella
+Pancreatitis	acinetobacter
+Pancreatitis	alistipes
+Pancreatitis	bacteroides
+Pancreatitis	bifidobacterium
+Pancreatitis	blautia
+Pancreatitis	brevundimonas
+Pancreatitis	clostridium
+Pancreatitis	corynebacterium
+Pancreatitis	dietzia
+Pancreatitis	enterobacteriaceae
+Pancreatitis	enterococcus
+Pancreatitis	faecalibacterium
+Pancreatitis	flavobacterium
+Pancreatitis	lachnospiraceae
+Pancreatitis	lactococcus
+Pancreatitis	parabacteroides
+Pancreatitis	paracoccus
+Pancreatitis	paraprevotella
+Pancreatitis	phascolarctobacterium
+Pancreatitis	prevotella
+Pancreatitis	pseudomonas
+Pancreatitis	rhizobium
+Pancreatitis	ruminococcus
+Pancreatitis	serratia
+Pancreatitis	shigella
+Pancreatitis	sphingobium
+Pancreatitis	staphylococcus
+Pancreatitis	stenotrophomonas
+Parkinson's Disease	acidaminococcus
+Parkinson's Disease	acinetobacter
+Parkinson's Disease	actinomyces
+Parkinson's Disease	actinomycetales
+Parkinson's Disease	akkermansia
+Parkinson's Disease	alistipes
+Parkinson's Disease	allisonella
+Parkinson's Disease	allobaculum
+Parkinson's Disease	alloiococcus
+Parkinson's Disease	anaerotruncus
+Parkinson's Disease	aquabacterium
+Parkinson's Disease	bacillus
+Parkinson's Disease	bacteroidales
+Parkinson's Disease	bacteroides
+Parkinson's Disease	barnesiella
+Parkinson's Disease	barnesiellaceae
+Parkinson's Disease	bifidobacteriaceae
+Parkinson's Disease	bifidobacterium
+Parkinson's Disease	bilophila
+Parkinson's Disease	blautia
+Parkinson's Disease	brevibacterium
+Parkinson's Disease	brevundimonas
+Parkinson's Disease	bulleidia
+Parkinson's Disease	butyricicoccus
+Parkinson's Disease	butyricimonas
+Parkinson's Disease	campylobacter
+Parkinson's Disease	candida
+Parkinson's Disease	candidatus
+Parkinson's Disease	capnocytophaga
+Parkinson's Disease	christensenella
+Parkinson's Disease	christensenellaceae
+Parkinson's Disease	citrobacter
+Parkinson's Disease	cloacibacterium
+Parkinson's Disease	clostridium
+Parkinson's Disease	collinsella
+Parkinson's Disease	coprococcus
+Parkinson's Disease	coriobacteriaceae
+Parkinson's Disease	corynebacterium
+Parkinson's Disease	desulfovibrio
+Parkinson's Disease	desulfovibrionaceae
+Parkinson's Disease	dialister
+Parkinson's Disease	dietzia
+Parkinson's Disease	dorea
+Parkinson's Disease	eikenella
+Parkinson's Disease	eisenbergiella
+Parkinson's Disease	enhydrobacter
+Parkinson's Disease	enterobacteriaceae
+Parkinson's Disease	enterococcaceae
+Parkinson's Disease	enterococcus
+Parkinson's Disease	erysipelotrichaceae
+Parkinson's Disease	erysipelotrichia
+Parkinson's Disease	eubacterium
+Parkinson's Disease	faecalibacterium
+Parkinson's Disease	flavobacteriaceae
+Parkinson's Disease	gardnerella
+Parkinson's Disease	gemella
+Parkinson's Disease	granulicatella
+Parkinson's Disease	haemophilus
+Parkinson's Disease	halomonas
+Parkinson's Disease	holdemanella
+Parkinson's Disease	holdemania
+Parkinson's Disease	kingella
+Parkinson's Disease	klebsiella
+Parkinson's Disease	lachnobacterium
+Parkinson's Disease	lachnospira
+Parkinson's Disease	lachnospiraceae
+Parkinson's Disease	lactobacillaceae
+Parkinson's Disease	lactobacillus
+Parkinson's Disease	lactococcus
+Parkinson's Disease	leptotrichia
+Parkinson's Disease	leuconostocaceae
+Parkinson's Disease	limnobacter
+Parkinson's Disease	methanobrevibacter
+Parkinson's Disease	methylobacterium
+Parkinson's Disease	microbacterium
+Parkinson's Disease	micrococcaceae
+Parkinson's Disease	moraxellaceae
+Parkinson's Disease	morganella
+Parkinson's Disease	moryella
+Parkinson's Disease	mycoplana
+Parkinson's Disease	neisseria
+Parkinson's Disease	ochrobactrum
+Parkinson's Disease	odoribacter
+Parkinson's Disease	oscillospira
+Parkinson's Disease	papillibacter
+Parkinson's Disease	parabacteroides
+Parkinson's Disease	paraprevotella
+Parkinson's Disease	parascardovia
+Parkinson's Disease	parasutterella
+Parkinson's Disease	pasteurellaceae
+Parkinson's Disease	pedobacter
+Parkinson's Disease	phascolarctobacterium
+Parkinson's Disease	porphyromonadaceae
+Parkinson's Disease	prevotella
+Parkinson's Disease	prevotellaceae
+Parkinson's Disease	proteobacteria
+Parkinson's Disease	proteus
+Parkinson's Disease	pseudochrobactrum
+Parkinson's Disease	ralstonia
+Parkinson's Disease	rhizobiales
+Parkinson's Disease	rhodococcus
+Parkinson's Disease	rikenellaceae
+Parkinson's Disease	roseburia
+Parkinson's Disease	rothia
+Parkinson's Disease	rubellimicrobium
+Parkinson's Disease	ruminococcaceae
+Parkinson's Disease	ruminococcus
+Parkinson's Disease	saccharomyces
+Parkinson's Disease	salmonella
+Parkinson's Disease	scardovia
+Parkinson's Disease	sediminibacterium
+Parkinson's Disease	shigella
+Parkinson's Disease	solobacterium
+Parkinson's Disease	sphingobacterium
+Parkinson's Disease	sphingomonas
+Parkinson's Disease	stenotrophomonas
+Parkinson's Disease	streptococcus
+Parkinson's Disease	subdoligranulum
+Parkinson's Disease	tyzzerella
+Parkinson's Disease	veillonella
+Parkinson's Disease	verrucomicrobia
+Parkinson's Disease	verrucomicrobiaceae
+Parkinson's Disease	xanthomonadaceae
+Periodontal abscess	atopobium
+Periodontal abscess	bergeyella
+Periodontal abscess	capnocytophaga
+Periodontal abscess	desulfobulbus
+Periodontal abscess	eikenella
+Periodontal abscess	filifactor
+Periodontal abscess	lachnoanaerobaculum
+Periodontal abscess	leptotrichia
+Periodontal abscess	prevotella
+Periodontal abscess	selenomonas
+Periodontal abscess	veillonella
+Periodontal disease	actinomyces
+Periodontal disease	anaeroglobus
+Periodontal disease	atopobium
+Periodontal disease	brevundimonas
+Periodontal disease	capnocytophaga
+Periodontal disease	catonella
+Periodontal disease	corynebacterium
+Periodontal disease	desulfobulbus
+Periodontal disease	dialister
+Periodontal disease	filifactor
+Periodontal disease	fretibacterium
+Periodontal disease	fusobacterium
+Periodontal disease	gemella
+Periodontal disease	granulicatella
+Periodontal disease	haemophilus
+Periodontal disease	johnsonella
+Periodontal disease	lautropia
+Periodontal disease	leptotrichia
+Periodontal disease	mitsuokella
+Periodontal disease	neisseria
+Periodontal disease	parvimonas
+Periodontal disease	peptostreptococcaceae
+Periodontal disease	porphyromonas
+Periodontal disease	prevotella
+Periodontal disease	pseudomonas
+Periodontal disease	pseudoramibacter
+Periodontal disease	rothia
+Periodontal disease	selenomonas
+Periodontal disease	sphingomonas
+Periodontal disease	streptococcus
+Periodontal disease	tanerella
+Periodontal disease	tannerella
+Periodontal disease	treponema
+Periodontal disease	veillonellaceae
+Pervasive developmental disorder NOS	alistipes
+Pervasive developmental disorder NOS	anaerofilum
+Pervasive developmental disorder NOS	bacteriodes
+Pervasive developmental disorder NOS	bacteroides
+Pervasive developmental disorder NOS	barnesiella
+Pervasive developmental disorder NOS	bifidobacterium
+Pervasive developmental disorder NOS	clostridium
+Pervasive developmental disorder NOS	collinsella
+Pervasive developmental disorder NOS	coprococcus
+Pervasive developmental disorder NOS	dorea
+Pervasive developmental disorder NOS	enterococcus
+Pervasive developmental disorder NOS	escherichia
+Pervasive developmental disorder NOS	eubacterium
+Pervasive developmental disorder NOS	faecalibacterium
+Pervasive developmental disorder NOS	fusobacterium
+Pervasive developmental disorder NOS	lachnospira
+Pervasive developmental disorder NOS	oscillospira
+Pervasive developmental disorder NOS	parabacteroides
+Pervasive developmental disorder NOS	prevotella
+Pervasive developmental disorder NOS	roseburia
+Pervasive developmental disorder NOS	ruminococcus
+Pervasive developmental disorder NOS	sporobacter
+Pervasive developmental disorder NOS	streptococcus
+Pervasive developmental disorder NOS	subdoligranulum
+Pervasive developmental disorder NOS	turicibacter
+Pervasive developmental disorder NOS	tyzzerella
+Polycystic Ovary Syndrome	actinobacteria
+Polycystic Ovary Syndrome	akkermansia
+Polycystic Ovary Syndrome	alloprevotella
+Polycystic Ovary Syndrome	bacteriodes
+Polycystic Ovary Syndrome	bacteroides
+Polycystic Ovary Syndrome	clostridium
+Polycystic Ovary Syndrome	eubacterium
+Polycystic Ovary Syndrome	faecalibacterium
+Polycystic Ovary Syndrome	finegoldia
+Polycystic Ovary Syndrome	fusobacteria
+Polycystic Ovary Syndrome	lactobacillus
+Polycystic Ovary Syndrome	lactococcus
+Polycystic Ovary Syndrome	oscillibacter
+Polycystic Ovary Syndrome	parabacteroides
+Polycystic Ovary Syndrome	prevotella
+Polycystic Ovary Syndrome	ruminococcaceae
+Polycystic Ovary Syndrome	ruminococcus
+Polycystic Ovary Syndrome	tenericutes
+Postmenopausal	alistipes
+Postmenopausal	bacteroides
+Postmenopausal	eubacterium
+Postmenopausal	faecalibacterium
+Postmenopausal	lactobacillus
+Postmenopausal	mobiluncus
+Postmenopausal	porphyromonas
+Postmenopausal	prevotella
+Postmenopausal	roseburia
+Postmenopausal	staphylococcus
+Postmenopausal	varibaculum
+Posttraumatic stress syndrome	acidaminococcus
+Posttraumatic stress syndrome	anaerostipes
+Posttraumatic stress syndrome	clostridium
+Posttraumatic stress syndrome	eisenbergiella
+Posttraumatic stress syndrome	lachnospira
+Posttraumatic stress syndrome	pseudoflavonifractor
+Posttraumatic stress syndrome	roseburia
+Posttraumatic stress syndrome	ruminococcus
+Posttraumatic stress syndrome	streptococcus
+Posttraumatic stress syndrome	subdoligranulum
+Pouchitis	acidaminococcus
+Pouchitis	akkermansia
+Pouchitis	bacteroides
+Pouchitis	citrobacter
+Pouchitis	clostridium
+Pouchitis	enterobacteriaceae
+Pouchitis	escherichia
+Pouchitis	eubacterium
+Pouchitis	faecalibacterium
+Pouchitis	lachnospira
+Pouchitis	lachnospiraceae
+Pouchitis	lactobacillus
+Pouchitis	parabacteroides
+Pouchitis	prevotella
+Pouchitis	pseudoalteromonas
+Pouchitis	roseburia
+Pouchitis	ruminococcaceae
+Pouchitis	streptococcus
+Pouchitis	veillonella
+Preeclamsia	abiotrophia
+Preeclamsia	akkermansia
+Preeclamsia	anaerococcus
+Preeclamsia	anoxybacillus
+Preeclamsia	bacillus
+Preeclamsia	bacteroidetes
+Preeclamsia	bilophila
+Preeclamsia	blautia
+Preeclamsia	bulleidia
+Preeclamsia	clostridium
+Preeclamsia	coprococcus
+Preeclamsia	dialister
+Preeclamsia	enterobacteriaceae
+Preeclamsia	escherichia
+Preeclamsia	faecalibacterium
+Preeclamsia	firmicutes
+Preeclamsia	fusobacterium
+Preeclamsia	gemmiger
+Preeclamsia	klebsiella
+Preeclamsia	lachnospira
+Preeclamsia	methanobrevibacter
+Preeclamsia	oribacterium
+Preeclamsia	parvimonas
+Preeclamsia	porphyromonas
+Preeclamsia	prevotella
+Preeclamsia	proteobacteria
+Preeclamsia	ruminococcus
+Preeclamsia	salmonella
+Preeclamsia	veillonella
+Pregnancy	actinomycetales
+Pregnancy	anaerococcus
+Pregnancy	atopobium
+Pregnancy	cloacibacterium
+Pregnancy	dialister
+Pregnancy	eggerthella
+Pregnancy	finegoldia
+Pregnancy	gardnerella
+Pregnancy	lactobacillus
+Pregnancy	leptotrichia
+Pregnancy	megasphaera
+Pregnancy	moryella
+Pregnancy	neisseria
+Pregnancy	parvimonas
+Pregnancy	peptoniphilus
+Pregnancy	porphyromonas
+Pregnancy	prevotella
+Pregnancy	streptococcus
+Pregnancy	treponema
+Pregnancy	ureaplasma
+Pregnancy	veillonella
+Pressure ulcers	actinobaculum
+Pressure ulcers	allobaculum
+Pressure ulcers	anaerotruncus
+Pressure ulcers	bacteroides
+Pressure ulcers	blautia
+Pressure ulcers	christensenella
+Pressure ulcers	dorea
+Pressure ulcers	enterococcus
+Pressure ulcers	eubacterium
+Pressure ulcers	lactobacillus
+Pressure ulcers	lactococcus
+Pressure ulcers	mycobacterium
+Pressure ulcers	parabacteroides
+Pressure ulcers	ruminococcus
+Pressure ulcers	schlegelella
+Pressure ulcers	staphylococcus
+Preterm birth	atopobium
+Preterm birth	bacteroides
+Preterm birth	bifidobacterium
+Preterm birth	clostridium
+Preterm birth	gardnerella
+Preterm birth	lactobacillus
+Preterm birth	neisseria
+Preterm birth	prevotella
+Preterm birth	ralstonia
+Preterm birth	rothia
+Preterm birth	streptococcus
+Preterm birth	ureaplasma
+Preterm birth	veillonella
+Primary biliary cholangitis	akkermansia
+Primary biliary cholangitis	bacteroides
+Primary biliary cholangitis	bacteroidetes
+Primary biliary cholangitis	barnesiellaceae
+Primary biliary cholangitis	blautia
+Primary biliary cholangitis	butyricimonas
+Primary biliary cholangitis	christensenellaceae
+Primary biliary cholangitis	citrobacter
+Primary biliary cholangitis	clostridiaceae
+Primary biliary cholangitis	clostridium
+Primary biliary cholangitis	dialister
+Primary biliary cholangitis	enterobacteriaceae
+Primary biliary cholangitis	eubacterium
+Primary biliary cholangitis	faecalibacterium
+Primary biliary cholangitis	fusobacterium
+Primary biliary cholangitis	haemophilus
+Primary biliary cholangitis	klebsiella
+Primary biliary cholangitis	lactobacillales
+Primary biliary cholangitis	lactobacillus
+Primary biliary cholangitis	odoribacter
+Primary biliary cholangitis	oscillospira
+Primary biliary cholangitis	phascolarctobacterium
+Primary biliary cholangitis	prevotella
+Primary biliary cholangitis	pseudomonas
+Primary biliary cholangitis	rikenellaceae
+Primary biliary cholangitis	salmonella
+Primary biliary cholangitis	sneathia
+Primary biliary cholangitis	streptococcus
+Primary biliary cholangitis	sutterella
+Primary biliary cholangitis	veillonella
+Primary biliary cirrhosis	acidobacteria
+Primary biliary cirrhosis	actinobacillus
+Primary biliary cirrhosis	anaeroglobus
+Primary biliary cirrhosis	bacteroides
+Primary biliary cirrhosis	enterobacter
+Primary biliary cirrhosis	enterobacteriaceae
+Primary biliary cirrhosis	haemophilus
+Primary biliary cirrhosis	klebsiella
+Primary biliary cirrhosis	lachnobacterium
+Primary biliary cirrhosis	megasphaera
+Primary biliary cirrhosis	neisseriaceae
+Primary biliary cirrhosis	paraprevotella
+Primary biliary cirrhosis	ruminococcus
+Primary biliary cirrhosis	streptococcus
+Primary biliary cirrhosis	veillonella
+Primary liver cancer	bacteriodes
+Primary liver cancer	bacteroidaceae
+Primary liver cancer	bacteroides
+Primary liver cancer	dialister
+Primary liver cancer	enterobacter
+Primary liver cancer	enterococcus
+Primary liver cancer	escherichia
+Primary liver cancer	lactococcus
+Primary liver cancer	porphyromonadaceae
+Primary liver cancer	prevotellaceae
+Primary liver cancer	ruminococcus
+Primary liver cancer	shigella
+Primary sclerosing cholangitis	adlercreutzia
+Primary sclerosing cholangitis	anaerostipes
+Primary sclerosing cholangitis	bacteroides
+Primary sclerosing cholangitis	blautia
+Primary sclerosing cholangitis	christensenellaceae
+Primary sclerosing cholangitis	clostridium
+Primary sclerosing cholangitis	coprococcus
+Primary sclerosing cholangitis	desulfovibrio
+Primary sclerosing cholangitis	enterococcus
+Primary sclerosing cholangitis	escherichia
+Primary sclerosing cholangitis	faecalibacterium
+Primary sclerosing cholangitis	fusobacterium
+Primary sclerosing cholangitis	haemophilus
+Primary sclerosing cholangitis	lachnoclostridium
+Primary sclerosing cholangitis	lachnospiraceae
+Primary sclerosing cholangitis	lactobacillus
+Primary sclerosing cholangitis	morganella
+Primary sclerosing cholangitis	neisseria
+Primary sclerosing cholangitis	oribacterium
+Primary sclerosing cholangitis	parabacteroides
+Primary sclerosing cholangitis	phascolarctobacterium
+Primary sclerosing cholangitis	prevotella
+Primary sclerosing cholangitis	rothia
+Primary sclerosing cholangitis	ruminiclostridium
+Primary sclerosing cholangitis	ruminococcus
+Primary sclerosing cholangitis	saccharomyces
+Primary sclerosing cholangitis	staphylococcus
+Primary sclerosing cholangitis	streptococcus
+Primary sclerosing cholangitis	succinivibrio
+Primary sclerosing cholangitis	veillonella
+Primary sclerosing cholangitis-IBD	acidaminococcus
+Primary sclerosing cholangitis-IBD	acinetobacter
+Primary sclerosing cholangitis-IBD	bacteroides
+Primary sclerosing cholangitis-IBD	bifidobacterium
+Primary sclerosing cholangitis-IBD	blautia
+Primary sclerosing cholangitis-IBD	clostridium
+Primary sclerosing cholangitis-IBD	collinsella
+Primary sclerosing cholangitis-IBD	coprobacillus
+Primary sclerosing cholangitis-IBD	coprococcus
+Primary sclerosing cholangitis-IBD	corynebacterium
+Primary sclerosing cholangitis-IBD	dorea
+Primary sclerosing cholangitis-IBD	enterococcus
+Primary sclerosing cholangitis-IBD	escherichia
+Primary sclerosing cholangitis-IBD	faecalibacterium
+Primary sclerosing cholangitis-IBD	fusobacterium
+Primary sclerosing cholangitis-IBD	haemophilus
+Primary sclerosing cholangitis-IBD	lachnospira
+Primary sclerosing cholangitis-IBD	lachnospiraceae
+Primary sclerosing cholangitis-IBD	lactobacillus
+Primary sclerosing cholangitis-IBD	megamonas
+Primary sclerosing cholangitis-IBD	megasphaera
+Primary sclerosing cholangitis-IBD	oscillospira
+Primary sclerosing cholangitis-IBD	parabacteroides
+Primary sclerosing cholangitis-IBD	phascolarctobacterium
+Primary sclerosing cholangitis-IBD	prevotella
+Primary sclerosing cholangitis-IBD	ralstonia
+Primary sclerosing cholangitis-IBD	roseburia
+Primary sclerosing cholangitis-IBD	rothia
+Primary sclerosing cholangitis-IBD	ruminococcus
+Primary sclerosing cholangitis-IBD	sphingomonas
+Primary sclerosing cholangitis-IBD	staphylococcus
+Primary sclerosing cholangitis-IBD	streptococcus
+Primary sclerosing cholangitis-IBD	sutterella
+Primary sclerosing cholangitis-IBD	veillonella
+Protracted bacterial bronchitis	alloscardovia
+Protracted bacterial bronchitis	atopobium
+Protracted bacterial bronchitis	bacillus
+Protracted bacterial bronchitis	bifidobacterium
+Protracted bacterial bronchitis	butyrivibrio
+Protracted bacterial bronchitis	enterococcus
+Protracted bacterial bronchitis	haemophilus
+Protracted bacterial bronchitis	lactobacillus
+Protracted bacterial bronchitis	lactococcus
+Protracted bacterial bronchitis	moraxella
+Protracted bacterial bronchitis	mycobacterium
+Protracted bacterial bronchitis	prevotella
+Protracted bacterial bronchitis	pseudomonas
+Protracted bacterial bronchitis	shuttleworthia
+Protracted bacterial bronchitis	staphylococcus
+Protracted bacterial bronchitis	streptococcus
+Psoriasis	actinomyces
+Psoriasis	akkermansia
+Psoriasis	alistipes
+Psoriasis	allobaculum
+Psoriasis	alloiococcus
+Psoriasis	anaerococcus
+Psoriasis	aspergillus
+Psoriasis	bacillus
+Psoriasis	bacteroides
+Psoriasis	bacteroidetes
+Psoriasis	barnesiella
+Psoriasis	bifidobacterium
+Psoriasis	blautia
+Psoriasis	brevibacterium
+Psoriasis	burkholderia
+Psoriasis	candida
+Psoriasis	carnobacterium
+Psoriasis	clostridium
+Psoriasis	collinsella
+Psoriasis	comamonas
+Psoriasis	coprobacillus
+Psoriasis	coprococcus
+Psoriasis	coriobacteriaceae
+Psoriasis	corynebacterium
+Psoriasis	cyanobacteria
+Psoriasis	debaryomyces
+Psoriasis	dialister
+Psoriasis	dorea
+Psoriasis	enterococcus
+Psoriasis	faecalibacterium
+Psoriasis	finegoldia
+Psoriasis	flavobacterium
+Psoriasis	fretibacterium
+Psoriasis	gordonibacter
+Psoriasis	granulicatella
+Psoriasis	helcococcus
+Psoriasis	hyphomicrobium
+Psoriasis	kocuria
+Psoriasis	lachnospira
+Psoriasis	lachnospiraceae
+Psoriasis	lactobacillus
+Psoriasis	lactococcus
+Psoriasis	malassezia
+Psoriasis	megasphaera
+Psoriasis	methylobacterium
+Psoriasis	micrococcaceae
+Psoriasis	mogibacterium
+Psoriasis	mycoplasma
+Psoriasis	naganishia
+Psoriasis	neisseriaceae
+Psoriasis	novosphingobium
+Psoriasis	parabacteroides
+Psoriasis	paraprevotella
+Psoriasis	pedobacter
+Psoriasis	penicillium
+Psoriasis	peptostreptococcus
+Psoriasis	porphyromonas
+Psoriasis	prevotella
+Psoriasis	propionibacterium
+Psoriasis	pseudomonas
+Psoriasis	rhodocyclaceae
+Psoriasis	rhodotorula
+Psoriasis	rothia
+Psoriasis	ruminococcaceae
+Psoriasis	ruminococcus
+Psoriasis	schlegelella
+Psoriasis	slackia
+Psoriasis	sphingomonas
+Psoriasis	staphylococcus
+Psoriasis	streptococcus
+Psoriasis	subdoligranulum
+Psoriasis	sutterella
+Psoriasis	tanerella
+Psoriasis	treponema
+Psoriasis	xanthomonadaceae
+Pulmonary arterial hypertension	akkermansia
+Pulmonary arterial hypertension	alistipes
+Pulmonary arterial hypertension	bacteroides
+Pulmonary arterial hypertension	barnesiella
+Pulmonary arterial hypertension	bifidobacterium
+Pulmonary arterial hypertension	butyrivibrio
+Pulmonary arterial hypertension	collinsella
+Pulmonary arterial hypertension	coprobacter
+Pulmonary arterial hypertension	coprococcus
+Pulmonary arterial hypertension	eubacterium
+Pulmonary arterial hypertension	lachnospiraceae
+Pulmonary arterial hypertension	parabacteroides
+Pulmonary arterial hypertension	parasutterella
+Pulmonary arterial hypertension	roseburia
+Pulmonary arterial hypertension	ruminococcus
+Pulmonary arterial hypertension	streptococcus
+Pulmonary arterial hypertension	subdoligranulum
+Pulmonary tubercolosis	acinetobacter
+Pulmonary tubercolosis	actinobacteria
+Pulmonary tubercolosis	akkermansia
+Pulmonary tubercolosis	alloprevotella
+Pulmonary tubercolosis	anoxybacillus
+Pulmonary tubercolosis	bacteroides
+Pulmonary tubercolosis	bacteroidetes
+Pulmonary tubercolosis	bifidobacterium
+Pulmonary tubercolosis	clostridium
+Pulmonary tubercolosis	collinsella
+Pulmonary tubercolosis	coprobacillus
+Pulmonary tubercolosis	coprococcus
+Pulmonary tubercolosis	dorea
+Pulmonary tubercolosis	escherichia
+Pulmonary tubercolosis	eubacterium
+Pulmonary tubercolosis	faecalibacterium
+Pulmonary tubercolosis	gemella
+Pulmonary tubercolosis	haemophilus
+Pulmonary tubercolosis	lachnospira
+Pulmonary tubercolosis	lactobacillus
+Pulmonary tubercolosis	megamonas
+Pulmonary tubercolosis	mitsuokella
+Pulmonary tubercolosis	mycobacterium
+Pulmonary tubercolosis	phascolarctobacterium
+Pulmonary tubercolosis	prevotella
+Pulmonary tubercolosis	proteobacteria
+Pulmonary tubercolosis	pseudobutyrivibrio
+Pulmonary tubercolosis	roseburia
+Pulmonary tubercolosis	rothia
+Pulmonary tubercolosis	ruminococcus
+Pulmonary tubercolosis	shigella
+Pulmonary tubercolosis	staphylococcus
+Pulmonary tubercolosis	streptococcus
+Pulmonary tubercolosis	sutterella
+Pulmonary tubercolosis	tyzzerella
+Pulmonary tubercolosis	veillonella
+Rectal Carcinoma	acinetobacter
+Rectal Carcinoma	bacillus
+Rectal Carcinoma	bacteroides
+Rectal Carcinoma	bifidobacterium
+Rectal Carcinoma	desulfovibrio
+Rectal Carcinoma	escherichia
+Rectal Carcinoma	lactobacillus
+Rectal Carcinoma	odoribacter
+Rectal Carcinoma	parabacteroides
+Rectal Carcinoma	phascolarctobacterium
+Rectal Carcinoma	pseudomonas
+Recurrent tonsillitis	actinomyces
+Recurrent tonsillitis	fusobacterium
+Recurrent tonsillitis	gemella
+Recurrent tonsillitis	granulicatella
+Recurrent tonsillitis	haemophilus
+Recurrent tonsillitis	oribacterium
+Recurrent tonsillitis	prevotella
+Recurrent tonsillitis	selenomonas
+Recurrent tonsillitis	streptococcus
+Recurrent tonsillitis	tanerella
+Recurrent tonsillitis	treponema
+Recurrent tonsillitis	veillonella
+Rheumatoid Arthritis	achromobacter
+Rheumatoid Arthritis	acinetobacter
+Rheumatoid Arthritis	actinomyces
+Rheumatoid Arthritis	agrobacterium
+Rheumatoid Arthritis	anaerofilum
+Rheumatoid Arthritis	anaerofustis
+Rheumatoid Arthritis	anaeroglobus
+Rheumatoid Arthritis	bacteroides
+Rheumatoid Arthritis	bifidobacteriaceae
+Rheumatoid Arthritis	bifidobacterium
+Rheumatoid Arthritis	brevundimonas
+Rheumatoid Arthritis	campylobacter
+Rheumatoid Arthritis	capnocytophaga
+Rheumatoid Arthritis	chryseobacterium
+Rheumatoid Arthritis	clostridium
+Rheumatoid Arthritis	collinsella
+Rheumatoid Arthritis	comamonas
+Rheumatoid Arthritis	coriobacteriaceae
+Rheumatoid Arthritis	corynebacterium
+Rheumatoid Arthritis	defluviitalea
+Rheumatoid Arthritis	desulfovibrionaceae
+Rheumatoid Arthritis	eggerthella
+Rheumatoid Arthritis	enhydrobacter
+Rheumatoid Arthritis	erysipelotrichaceae
+Rheumatoid Arthritis	eubacterium
+Rheumatoid Arthritis	faecalibacterium
+Rheumatoid Arthritis	faecalicoccus
+Rheumatoid Arthritis	fusobacterium
+Rheumatoid Arthritis	gardnerella
+Rheumatoid Arthritis	gemella
+Rheumatoid Arthritis	gemmiger
+Rheumatoid Arthritis	granulicatella
+Rheumatoid Arthritis	haemophilus
+Rheumatoid Arthritis	halomonas
+Rheumatoid Arthritis	klebsiella
+Rheumatoid Arthritis	kocuria
+Rheumatoid Arthritis	lachnospira
+Rheumatoid Arthritis	lactobacillaceae
+Rheumatoid Arthritis	lactobacillus
+Rheumatoid Arthritis	lautropia
+Rheumatoid Arthritis	leptotrichia
+Rheumatoid Arthritis	moraxellaceae
+Rheumatoid Arthritis	mycoplana
+Rheumatoid Arthritis	neisseria
+Rheumatoid Arthritis	neisseriaceae
+Rheumatoid Arthritis	oxalobacteraceae
+Rheumatoid Arthritis	parvimonas
+Rheumatoid Arthritis	planococcaceae
+Rheumatoid Arthritis	porphyromonas
+Rheumatoid Arthritis	prevotella
+Rheumatoid Arthritis	pseudomonas
+Rheumatoid Arthritis	roseburia
+Rheumatoid Arthritis	rothia
+Rheumatoid Arthritis	selenomonas
+Rheumatoid Arthritis	serratia
+Rheumatoid Arthritis	shewanella
+Rheumatoid Arthritis	shigella
+Rheumatoid Arthritis	sphingomonas
+Rheumatoid Arthritis	sporobacter
+Rheumatoid Arthritis	staphylococcaceae
+Rheumatoid Arthritis	staphylococcus
+Rheumatoid Arthritis	stenotrophomonas
+Rheumatoid Arthritis	streptococcus
+Rheumatoid Arthritis	tissierellaceae
+Rheumatoid Arthritis	treponema
+Rheumatoid Arthritis	veillonella
+Rheumatoid Arthritis	veillonellaceae
+Sarcopenia	actinomyces
+Sarcopenia	bacteroides
+Sarcopenia	bifidobacterium
+Sarcopenia	blautia
+Sarcopenia	clostridium
+Sarcopenia	coprobacter
+Sarcopenia	desulfovibrio
+Sarcopenia	eubacterium
+Sarcopenia	faecalibacterium
+Sarcopenia	firmicutes
+Sarcopenia	fusobacterium
+Sarcopenia	hungatella
+Sarcopenia	klebsiella
+Sarcopenia	lachnoclostridium
+Sarcopenia	parabacteroides
+Sarcopenia	prevotella
+Sarcopenia	proteobacteria
+Sarcopenia	streptobacillus
+Schizophrenia	actinobacillus
+Schizophrenia	actinomyces
+Schizophrenia	agathobacter
+Schizophrenia	akkermansia
+Schizophrenia	alcaligenaceae
+Schizophrenia	alkaliphilus
+Schizophrenia	anaerococcus
+Schizophrenia	anaerotruncus
+Schizophrenia	bacteroidaceae
+Schizophrenia	bacteroides
+Schizophrenia	bifidobacterium
+Schizophrenia	bilophila
+Schizophrenia	blautia
+Schizophrenia	butyricicoccus
+Schizophrenia	catenibacterium
+Schizophrenia	christensenella
+Schizophrenia	clostridium
+Schizophrenia	collinsella
+Schizophrenia	coprococcus
+Schizophrenia	coriobacteriaceae
+Schizophrenia	cronobacter
+Schizophrenia	dialister
+Schizophrenia	dorea
+Schizophrenia	eggerthella
+Schizophrenia	eisenbergiella
+Schizophrenia	enterobacteriaceae
+Schizophrenia	enterococcus
+Schizophrenia	escherichia
+Schizophrenia	eubacterium
+Schizophrenia	faecalibacterium
+Schizophrenia	flavonifractor
+Schizophrenia	fusicatenibacter
+Schizophrenia	fusobacterium
+Schizophrenia	haemophilus
+Schizophrenia	holdemania
+Schizophrenia	hungatella
+Schizophrenia	klebsiella
+Schizophrenia	lachnospiraceae
+Schizophrenia	lactobacillus
+Schizophrenia	leuconostocaceae
+Schizophrenia	megasphaera
+Schizophrenia	methanobrevibacter
+Schizophrenia	mortierella
+Schizophrenia	ochrobactrum
+Schizophrenia	oscillibacter
+Schizophrenia	parasutterella
+Schizophrenia	prevotellaceae
+Schizophrenia	rhodocyclaceae
+Schizophrenia	rikenellaceae
+Schizophrenia	roseburia
+Schizophrenia	ruminococcaceae
+Schizophrenia	ruminococcus
+Schizophrenia	shigella
+Schizophrenia	sphingomonadaceae
+Schizophrenia	streptococcus
+Schizophrenia	succinivibrio
+Schizophrenia	sutterella
+Schizophrenia	synergistetes
+Schizophrenia	veillonella
+Schizophrenia	veillonellaceae
+Seborrheic dermatitis	aspergillus
+Seborrheic dermatitis	bacteroides
+Seborrheic dermatitis	brevibacterium
+Seborrheic dermatitis	devosia
+Seborrheic dermatitis	hyphomicrobium
+Seborrheic dermatitis	malassezia
+Seborrheic dermatitis	propionibacterium
+Seborrheic dermatitis	proteus
+Seborrheic dermatitis	pseudomonas
+Seborrheic dermatitis	staphylococcus
+Severe fever with thrombocytopenia syndrome	anaerostipes
+Severe fever with thrombocytopenia syndrome	blautia
+Severe fever with thrombocytopenia syndrome	coprococcus
+Severe fever with thrombocytopenia syndrome	enterococcus
+Severe fever with thrombocytopenia syndrome	escherichia
+Severe fever with thrombocytopenia syndrome	faecalibacterium
+Severe fever with thrombocytopenia syndrome	lachnospira
+Severe fever with thrombocytopenia syndrome	lactobacillus
+Severe fever with thrombocytopenia syndrome	prevotella
+Severe fever with thrombocytopenia syndrome	roseburia
+Severe fever with thrombocytopenia syndrome	ruminococcus
+Severe fever with thrombocytopenia syndrome	streptococcus
+Severe fever with thrombocytopenia syndrome	sutterella
+Severe fever with thrombocytopenia syndrome	veillonella
+Short Bowel Syndrome	acinetobacter
+Short Bowel Syndrome	aggregatibacter
+Short Bowel Syndrome	akkermansia
+Short Bowel Syndrome	alistipes
+Short Bowel Syndrome	anaerostipes
+Short Bowel Syndrome	bacteroides
+Short Bowel Syndrome	bacteroidetes
+Short Bowel Syndrome	blautia
+Short Bowel Syndrome	citrobacter
+Short Bowel Syndrome	clostridium
+Short Bowel Syndrome	collinsella
+Short Bowel Syndrome	dorea
+Short Bowel Syndrome	eggerthella
+Short Bowel Syndrome	enterobacteriaceae
+Short Bowel Syndrome	enterococcaceae
+Short Bowel Syndrome	enterococcus
+Short Bowel Syndrome	erysipelotrichaceae
+Short Bowel Syndrome	escherichia
+Short Bowel Syndrome	faecalibacterium
+Short Bowel Syndrome	flavonifractor
+Short Bowel Syndrome	fusicatenibacter
+Short Bowel Syndrome	fusobacterium
+Short Bowel Syndrome	gemella
+Short Bowel Syndrome	granulicatella
+Short Bowel Syndrome	haemophilus
+Short Bowel Syndrome	hungatella
+Short Bowel Syndrome	klebsiella
+Short Bowel Syndrome	lachnoanaerobaculum
+Short Bowel Syndrome	lachnoclostridium
+Short Bowel Syndrome	lachnospira
+Short Bowel Syndrome	lachnospiraceae
+Short Bowel Syndrome	lactobacillus
+Short Bowel Syndrome	megasphaera
+Short Bowel Syndrome	neisseria
+Short Bowel Syndrome	parabacteroides
+Short Bowel Syndrome	peptostreptococcaceae
+Short Bowel Syndrome	porphyromonas
+Short Bowel Syndrome	prevotella
+Short Bowel Syndrome	proteus
+Short Bowel Syndrome	pseudobutyrivibrio
+Short Bowel Syndrome	rhodococcus
+Short Bowel Syndrome	roseburia
+Short Bowel Syndrome	ruminiclostridium
+Short Bowel Syndrome	ruminococcaceae
+Short Bowel Syndrome	serratia
+Short Bowel Syndrome	shigella
+Short Bowel Syndrome	streptococcus
+Short Bowel Syndrome	tyzzerella
+Short Bowel Syndrome	veillonella
+Sicca syndrome	actinomyces
+Sicca syndrome	alloprevotella
+Sicca syndrome	aquabacterium
+Sicca syndrome	atopobium
+Sicca syndrome	burkholderia
+Sicca syndrome	capnocytophaga
+Sicca syndrome	comamonas
+Sicca syndrome	coriobacteriaceae
+Sicca syndrome	eikenella
+Sicca syndrome	fusobacterium
+Sicca syndrome	granulicatella
+Sicca syndrome	johnsonella
+Sicca syndrome	lachnoanaerobaculum
+Sicca syndrome	lautropia
+Sicca syndrome	megasphaera
+Sicca syndrome	mitsuokella
+Sicca syndrome	neisseria
+Sicca syndrome	oribacterium
+Sicca syndrome	peptostreptococcus
+Sicca syndrome	porphyromonas
+Sicca syndrome	prevotella
+Sicca syndrome	rhodocyclaceae
+Sicca syndrome	ruminococcaceae
+Sicca syndrome	shuttleworthia
+Sicca syndrome	sphingomonas
+Sicca syndrome	streptococcus
+Silicosis	anaeroglobus
+Silicosis	bacteroides
+Silicosis	bifidobacterium
+Silicosis	blautia
+Silicosis	devosia
+Silicosis	dialister
+Silicosis	lachnoclostridium
+Silicosis	lachnospiraceae
+Silicosis	megamonas
+Silicosis	parabacteroides
+Silicosis	pseudomonas
+Silicosis	shigella
+Silicosis	subdoligranulum
+Sjögren Syndrome	abiotrophia
+Sjögren Syndrome	actinomyces
+Sjögren Syndrome	agathobacter
+Sjögren Syndrome	alloprevotella
+Sjögren Syndrome	alloscardovia
+Sjögren Syndrome	anaeroglobus
+Sjögren Syndrome	atopobium
+Sjögren Syndrome	bacteriodes
+Sjögren Syndrome	bacteroidaceae
+Sjögren Syndrome	bacteroides
+Sjögren Syndrome	bergeyella
+Sjögren Syndrome	bifidobacterium
+Sjögren Syndrome	blautia
+Sjögren Syndrome	butyrivibrio
+Sjögren Syndrome	catonella
+Sjögren Syndrome	clostridium
+Sjögren Syndrome	comamonas
+Sjögren Syndrome	delftia
+Sjögren Syndrome	dialister
+Sjögren Syndrome	dorea
+Sjögren Syndrome	enterococcus
+Sjögren Syndrome	escherichia
+Sjögren Syndrome	faecalibacterium
+Sjögren Syndrome	fretibacterium
+Sjögren Syndrome	fusobacterium
+Sjögren Syndrome	granulicatella
+Sjögren Syndrome	haemophilus
+Sjögren Syndrome	lachnoanaerobaculum
+Sjögren Syndrome	lactobacillus
+Sjögren Syndrome	lautropia
+Sjögren Syndrome	leptotrichia
+Sjögren Syndrome	leucobacter
+Sjögren Syndrome	megasphaera
+Sjögren Syndrome	mitsuokella
+Sjögren Syndrome	moryella
+Sjögren Syndrome	neisseria
+Sjögren Syndrome	oribacterium
+Sjögren Syndrome	parabacteroides
+Sjögren Syndrome	parvimonas
+Sjögren Syndrome	peptococcus
+Sjögren Syndrome	peptostreptococcaceae
+Sjögren Syndrome	peptostreptococcus
+Sjögren Syndrome	porphyromonas
+Sjögren Syndrome	prevotella
+Sjögren Syndrome	pseudobutyrivibrio
+Sjögren Syndrome	pseudochrobactrum
+Sjögren Syndrome	ralstonia
+Sjögren Syndrome	rothia
+Sjögren Syndrome	ruminococcaceae
+Sjögren Syndrome	scardovia
+Sjögren Syndrome	stomatobaculum
+Sjögren Syndrome	streptococcus
+Sjögren Syndrome	tanerella
+Sjögren Syndrome	treponema
+Sjögren Syndrome	veillonella
+Smoking	abiotrophia
+Smoking	actinobacillus
+Smoking	actinomyces
+Smoking	aggregatibacter
+Smoking	atopobium
+Smoking	bacteroides
+Smoking	bifidobacterium
+Smoking	campylobacter
+Smoking	capnocytophaga
+Smoking	coriobacteriaceae
+Smoking	corynebacterium
+Smoking	eubacterium
+Smoking	filifactor
+Smoking	fretibacterium
+Smoking	fusobacterium
+Smoking	gemella
+Smoking	granulicatella
+Smoking	haemophilus
+Smoking	lactobacillus
+Smoking	lactococcus
+Smoking	lautropia
+Smoking	leptotrichia
+Smoking	mogibacterium
+Smoking	mycoplasma
+Smoking	neisseria
+Smoking	oribacterium
+Smoking	parvimonas
+Smoking	peptococcus
+Smoking	peptostreptococcus
+Smoking	porphyromonas
+Smoking	prevotella
+Smoking	rothia
+Smoking	selenomonas
+Smoking	staphylococcus
+Smoking	streptococcus
+Smoking	tanerella
+Smoking	treponema
+Smoking	veillonella
+Spinal cord injury	akkermansia
+Spinal cord injury	bacteroides
+Spinal cord injury	blautia
+Spinal cord injury	corynebacterium
+Spinal cord injury	dialister
+Spinal cord injury	escherichia
+Spinal cord injury	eubacterium
+Spinal cord injury	faecalibacterium
+Spinal cord injury	lachnoclostridium
+Spinal cord injury	lactobacillus
+Spinal cord injury	megamonas
+Spinal cord injury	prevotella
+Spinal cord injury	prevotellaceae
+Spinal cord injury	pseudobutyrivibrio
+Spinal cord injury	roseburia
+Spinal cord injury	shigella
+Spinal cord injury	subdoligranulum
+Spinal cord injury	veillonellaceae
+Spondyloarthritis	alicyclobacillus
+Spondyloarthritis	bifidobacterium
+Spondyloarthritis	blautia
+Spondyloarthritis	coprococcus
+Spondyloarthritis	dialister
+Spondyloarthritis	dorea
+Spondyloarthritis	enterobacteriaceae
+Spondyloarthritis	faecalibacterium
+Spondyloarthritis	lachnospiraceae
+Spondyloarthritis	roseburia
+Spondyloarthritis	ruminococcus
+Stevens-Johnson syndrome	acinetobacter
+Stevens-Johnson syndrome	akkermansia
+Stevens-Johnson syndrome	bacillus
+Stevens-Johnson syndrome	bacteroides
+Stevens-Johnson syndrome	bifidobacterium
+Stevens-Johnson syndrome	blautia
+Stevens-Johnson syndrome	clostridium
+Stevens-Johnson syndrome	collinsella
+Stevens-Johnson syndrome	coprococcus
+Stevens-Johnson syndrome	erwinia
+Stevens-Johnson syndrome	faecalibacterium
+Stevens-Johnson syndrome	fusobacterium
+Stevens-Johnson syndrome	lactobacillus
+Stevens-Johnson syndrome	megamonas
+Stevens-Johnson syndrome	methanobrevibacter
+Stevens-Johnson syndrome	odoribacter
+Stevens-Johnson syndrome	paraprevotella
+Stevens-Johnson syndrome	phascolarctobacterium
+Stevens-Johnson syndrome	prevotella
+Stevens-Johnson syndrome	pseudoalteromonas
+Stevens-Johnson syndrome	pseudomonas
+Stevens-Johnson syndrome	roseburia
+Stevens-Johnson syndrome	ruminococcus
+Stevens-Johnson syndrome	shewanella
+Stevens-Johnson syndrome	staphylococcus
+Stevens-Johnson syndrome	streptococcus
+Stevens-Johnson syndrome	turicibacter
+Stevens-Johnson syndrome	veillonella
+Systemic lupus erythematosus	acidobacteria
+Systemic lupus erythematosus	actinomyces
+Systemic lupus erythematosus	aggregatibacter
+Systemic lupus erythematosus	alistipes
+Systemic lupus erythematosus	bacteriodes
+Systemic lupus erythematosus	bacteroides
+Systemic lupus erythematosus	bacteroidetes
+Systemic lupus erythematosus	bifidobacterium
+Systemic lupus erythematosus	blautia
+Systemic lupus erythematosus	campylobacter
+Systemic lupus erythematosus	capnocytophaga
+Systemic lupus erythematosus	clostridium
+Systemic lupus erythematosus	corynebacterium
+Systemic lupus erythematosus	deinococcus
+Systemic lupus erythematosus	dialister
+Systemic lupus erythematosus	eggerthella
+Systemic lupus erythematosus	erwinia
+Systemic lupus erythematosus	eubacterium
+Systemic lupus erythematosus	faecalibacterium
+Systemic lupus erythematosus	flavonifractor
+Systemic lupus erythematosus	fretibacterium
+Systemic lupus erythematosus	fusobacterium
+Systemic lupus erythematosus	haemophilus
+Systemic lupus erythematosus	halomonas
+Systemic lupus erythematosus	klebsiella
+Systemic lupus erythematosus	lachnospiraceae
+Systemic lupus erythematosus	lactobacillaceae
+Systemic lupus erythematosus	lactobacillus
+Systemic lupus erythematosus	leptotrichia
+Systemic lupus erythematosus	megasphaera
+Systemic lupus erythematosus	micrococcaceae
+Systemic lupus erythematosus	moraxellaceae
+Systemic lupus erythematosus	odoribacter
+Systemic lupus erythematosus	peptostreptococcaceae
+Systemic lupus erythematosus	prevotella
+Systemic lupus erythematosus	pseudobutyrivibrio
+Systemic lupus erythematosus	pseudomonas
+Systemic lupus erythematosus	ralstonia
+Systemic lupus erythematosus	rhodococcus
+Systemic lupus erythematosus	roseburia
+Systemic lupus erythematosus	rothia
+Systemic lupus erythematosus	selenomonas
+Systemic lupus erythematosus	sphingomonadaceae
+Systemic lupus erythematosus	sphingomonas
+Systemic lupus erythematosus	staphylococcus
+Systemic lupus erythematosus	streptococcus
+Systemic lupus erythematosus	tenericutes
+Systemic lupus erythematosus	treponema
+Systemic lupus erythematosus	veillonella
+Systemic lupus erythematosus	veillonellaceae
+Systemic lupus erythematosus	xanthomonadaceae
+Systemic sclerosis	actinobacteria
+Systemic sclerosis	bifidobacterium
+Systemic sclerosis	burkholderia
+Systemic sclerosis	citrobacter
+Systemic sclerosis	clostridium
+Systemic sclerosis	erwinia
+Systemic sclerosis	faecalibacterium
+Systemic sclerosis	fusobacterium
+Systemic sclerosis	lactobacillus
+Systemic sclerosis	malassezia
+Systemic sclerosis	prevotella
+Systemic sclerosis	propionibacterium
+Systemic sclerosis	staphylococcus
+Systemic sclerosis	verrucomicrobium
+T2D with hypertension	aeromonas
+T2D with hypertension	enterobacter
+T2D with hypertension	erwinia
+T2D with hypertension	klebsiella
+T2D with hypertension	lactobacillus
+T2D with hypertension	megasphaera
+T2D with hypertension	parvimonas
+T2D with hypertension	roseburia
+T2D with hypertension	ruminococcus
+T2D with hypertension	shuttleworthia
+T2D with hypertension	sneathia
+Thyroid carcinoma	alcaligenaceae
+Thyroid carcinoma	alistipes
+Thyroid carcinoma	alloprevotella
+Thyroid carcinoma	anaerostipes
+Thyroid carcinoma	bacteroidaceae
+Thyroid carcinoma	bacteroides
+Thyroid carcinoma	blautia
+Thyroid carcinoma	butyricimonas
+Thyroid carcinoma	christensenellaceae
+Thyroid carcinoma	coprococcus
+Thyroid carcinoma	enterobacteriaceae
+Thyroid carcinoma	erysipelotrichaceae
+Thyroid carcinoma	eubacterium
+Thyroid carcinoma	intestinibacter
+Thyroid carcinoma	klebsiella
+Thyroid carcinoma	lachnoclostridium
+Thyroid carcinoma	lactobacillus
+Thyroid carcinoma	lactococcus
+Thyroid carcinoma	megamonas
+Thyroid carcinoma	neisseria
+Thyroid carcinoma	phascolarctobacterium
+Thyroid carcinoma	porphyromonas
+Thyroid carcinoma	prevotella
+Thyroid carcinoma	rikenellaceae
+Thyroid carcinoma	roseburia
+Thyroid carcinoma	ruminococcus
+Thyroid carcinoma	shigella
+Thyroid carcinoma	streptococcus
+Thyroid carcinoma	subdoligranulum
+Thyroid carcinoma	sutterella
+Thyroid carcinoma	turicibacter
+Tongue cancer	actinomyces
+Tongue cancer	aggregatibacter
+Tongue cancer	campylobacter
+Tongue cancer	capnocytophaga
+Tongue cancer	corynebacterium
+Tongue cancer	desulfobulbus
+Tongue cancer	eikenella
+Tongue cancer	enterococcus
+Tongue cancer	fusobacterium
+Tongue cancer	gemella
+Tongue cancer	micrococcus
+Tongue cancer	mycoplasma
+Tongue cancer	parvimonas
+Tongue cancer	peptoniphilus
+Tongue cancer	peptostreptococcus
+Tongue cancer	porphyromonas
+Tongue cancer	prevotella
+Tongue cancer	rothia
+Tongue cancer	streptococcus
+Tongue cancer	treponema
+Transient Ischemic Attack	alistipes
+Transient Ischemic Attack	anaerosporobacter
+Transient Ischemic Attack	bacteroides
+Transient Ischemic Attack	desulfovibrio
+Transient Ischemic Attack	enterobacter
+Transient Ischemic Attack	eubacterium
+Transient Ischemic Attack	faecalibacterium
+Transient Ischemic Attack	lactobacillus
+Transient Ischemic Attack	megasphaera
+Transient Ischemic Attack	oscillibacter
+Transient Ischemic Attack	parabacteroides
+Transient Ischemic Attack	paraprevotella
+Transient Ischemic Attack	porphyromonadaceae
+Transient Ischemic Attack	prevotella
+Transient Ischemic Attack	proteobacteria
+Transient Ischemic Attack	rikenellaceae
+Transient Ischemic Attack	shewanella
+Transient Ischemic Attack	subdoligranulum
+Transient Ischemic Attack	synergistetes
+Trichomonas vaginalis infection	bulleidia
+Trichomonas vaginalis infection	campylobacter
+Trichomonas vaginalis infection	dialister
+Trichomonas vaginalis infection	fusobacterium
+Trichomonas vaginalis infection	gemella
+Trichomonas vaginalis infection	hallella
+Trichomonas vaginalis infection	megasphaera
+Trichomonas vaginalis infection	mycoplasma
+Trichomonas vaginalis infection	parvimonas
+Trichomonas vaginalis infection	peptoniphilus
+Trichomonas vaginalis infection	peptostreptococcus
+Trichomonas vaginalis infection	prevotella
+Trichomonas vaginalis infection	sneathia
+Trichomonas vaginalis infection	sutterella
+Tuberculosis	aggregatibacter
+Tuberculosis	granulicatella
+Tuberculosis	lactobacillus
+Tuberculosis	mogibacterium
+Tuberculosis	moryella
+Tuberculosis	neisseria
+Tuberculosis	oribacterium
+Tuberculosis	parvimonas
+Tuberculosis	prevotella
+Tuberculosis	streptococcus
+Type 1 Diabetes	acidaminococcus
+Type 1 Diabetes	akkermansia
+Type 1 Diabetes	alistipes
+Type 1 Diabetes	anaerostipes
+Type 1 Diabetes	bacteriodes
+Type 1 Diabetes	bacteroidales
+Type 1 Diabetes	bacteroides
+Type 1 Diabetes	bifidobacterium
+Type 1 Diabetes	blautia
+Type 1 Diabetes	candida
+Type 1 Diabetes	clostridiales
+Type 1 Diabetes	clostridium
+Type 1 Diabetes	dialister
+Type 1 Diabetes	enterobacter
+Type 1 Diabetes	enterobacteriaceae
+Type 1 Diabetes	eubacterium
+Type 1 Diabetes	faecalibacterium
+Type 1 Diabetes	gemella
+Type 1 Diabetes	haemophilus
+Type 1 Diabetes	lachnospira
+Type 1 Diabetes	lachnospiraceae
+Type 1 Diabetes	lactobacillus
+Type 1 Diabetes	lactococcus
+Type 1 Diabetes	megamonas
+Type 1 Diabetes	pasteurellaceae
+Type 1 Diabetes	peptoniphilus
+Type 1 Diabetes	peptostreptococcaceae
+Type 1 Diabetes	prevotella
+Type 1 Diabetes	roseburia
+Type 1 Diabetes	ruminococcus
+Type 1 Diabetes	saccharomyces
+Type 1 Diabetes	staphylococcus
+Type 1 Diabetes	streptococcus
+Type 1 Diabetes	succiniclasticum
+Type 1 Diabetes	sutterella
+Type 1 Diabetes	veillonella
+Type 2 Diabetes	acidaminococcus
+Type 2 Diabetes	acinetobacter
+Type 2 Diabetes	actinobacteria
+Type 2 Diabetes	actinomyces
+Type 2 Diabetes	actinomycetales
+Type 2 Diabetes	adlercreutzia
+Type 2 Diabetes	aggregatibacter
+Type 2 Diabetes	akkermansia
+Type 2 Diabetes	alistipes
+Type 2 Diabetes	anaerostipes
+Type 2 Diabetes	aquabacterium
+Type 2 Diabetes	atopobium
+Type 2 Diabetes	bacteriodes
+Type 2 Diabetes	bacteroides
+Type 2 Diabetes	bifidobacteriaceae
+Type 2 Diabetes	bifidobacterium
+Type 2 Diabetes	bilophila
+Type 2 Diabetes	blautia
+Type 2 Diabetes	bradyrhizobiaceae
+Type 2 Diabetes	brevibacterium
+Type 2 Diabetes	burkholderia
+Type 2 Diabetes	butyricimonas
+Type 2 Diabetes	campylobacter
+Type 2 Diabetes	capnocytophaga
+Type 2 Diabetes	cardiobacterium
+Type 2 Diabetes	chryseobacterium
+Type 2 Diabetes	clostridium
+Type 2 Diabetes	collinsella
+Type 2 Diabetes	comamonas
+Type 2 Diabetes	coprococcus
+Type 2 Diabetes	corynebacterium
+Type 2 Diabetes	deinococcus
+Type 2 Diabetes	delftia
+Type 2 Diabetes	desulfovibrio
+Type 2 Diabetes	dialister
+Type 2 Diabetes	dorea
+Type 2 Diabetes	eggerthella
+Type 2 Diabetes	enterococcus
+Type 2 Diabetes	epulopiscium
+Type 2 Diabetes	erysipelotrichaceae
+Type 2 Diabetes	escherichia
+Type 2 Diabetes	eubacterium
+Type 2 Diabetes	faecalibacterium
+Type 2 Diabetes	filifactor
+Type 2 Diabetes	finegoldia
+Type 2 Diabetes	fusobacterium
+Type 2 Diabetes	gemella
+Type 2 Diabetes	haemophilus
+Type 2 Diabetes	halomonas
+Type 2 Diabetes	klebsiella
+Type 2 Diabetes	kocuria
+Type 2 Diabetes	lachnobacterium
+Type 2 Diabetes	lachnospira
+Type 2 Diabetes	lachnospiraceae
+Type 2 Diabetes	lactobacillus
+Type 2 Diabetes	leptotrichia
+Type 2 Diabetes	leptotrichiaceae
+Type 2 Diabetes	mannheimia
+Type 2 Diabetes	megamonas
+Type 2 Diabetes	megasphaera
+Type 2 Diabetes	methanobrevibacter
+Type 2 Diabetes	microbacterium
+Type 2 Diabetes	micrococcus
+Type 2 Diabetes	moraxellaceae
+Type 2 Diabetes	murdochiella
+Type 2 Diabetes	neisseria
+Type 2 Diabetes	novosphingobium
+Type 2 Diabetes	odoribacter
+Type 2 Diabetes	olsenella
+Type 2 Diabetes	oscillospira
+Type 2 Diabetes	parabacteroides
+Type 2 Diabetes	paraprevotella
+Type 2 Diabetes	parvimonas
+Type 2 Diabetes	pediococcus
+Type 2 Diabetes	pedobacter
+Type 2 Diabetes	peptoniphilus
+Type 2 Diabetes	peptostreptococcus
+Type 2 Diabetes	phascolarctobacterium
+Type 2 Diabetes	prevotella
+Type 2 Diabetes	propionibacterium
+Type 2 Diabetes	proteobacteria
+Type 2 Diabetes	pseudomonas
+Type 2 Diabetes	pyramidobacter
+Type 2 Diabetes	roseburia
+Type 2 Diabetes	rubellimicrobium
+Type 2 Diabetes	ruminococcaceae
+Type 2 Diabetes	ruminococcus
+Type 2 Diabetes	sediminibacterium
+Type 2 Diabetes	selenomonas
+Type 2 Diabetes	shewanella
+Type 2 Diabetes	shigella
+Type 2 Diabetes	shuttleworthia
+Type 2 Diabetes	sphingomonas
+Type 2 Diabetes	staphylococcus
+Type 2 Diabetes	stenotrophomonas
+Type 2 Diabetes	streptococcaceae
+Type 2 Diabetes	streptococcus
+Type 2 Diabetes	subdoligranulum
+Type 2 Diabetes	sutterella
+Type 2 Diabetes	tannerella
+Type 2 Diabetes	terrisporobacter
+Type 2 Diabetes	veillonella
+Type 2 Diabetes	weeksella
+Ulcerative Colitis	actinomyces
+Ulcerative Colitis	actinomycetaceae
+Ulcerative Colitis	adlercreutzia
+Ulcerative Colitis	aggregatibacter
+Ulcerative Colitis	akkermansia
+Ulcerative Colitis	alistipes
+Ulcerative Colitis	anaerofustis
+Ulcerative Colitis	anaerostipes
+Ulcerative Colitis	bacteroidaceae
+Ulcerative Colitis	bacteroides
+Ulcerative Colitis	bacteroidetes
+Ulcerative Colitis	bifidobacteriaceae
+Ulcerative Colitis	bifidobacterium
+Ulcerative Colitis	bilophila
+Ulcerative Colitis	blautia
+Ulcerative Colitis	brachyspira
+Ulcerative Colitis	burkholderia
+Ulcerative Colitis	butyricicoccus
+Ulcerative Colitis	butyricimonas
+Ulcerative Colitis	catenibacterium
+Ulcerative Colitis	christensenella
+Ulcerative Colitis	christensenellaceae
+Ulcerative Colitis	citrobacter
+Ulcerative Colitis	cloacibacillus
+Ulcerative Colitis	cloacibacterium
+Ulcerative Colitis	clostridiaceae
+Ulcerative Colitis	clostridioides
+Ulcerative Colitis	clostridium
+Ulcerative Colitis	collinsella
+Ulcerative Colitis	coprobacillus
+Ulcerative Colitis	coprobacter
+Ulcerative Colitis	coprococcus
+Ulcerative Colitis	coriobacteriaceae
+Ulcerative Colitis	defluviitalea
+Ulcerative Colitis	desulfovibrio
+Ulcerative Colitis	dialister
+Ulcerative Colitis	dorea
+Ulcerative Colitis	eggerthella
+Ulcerative Colitis	enterobacteriaceae
+Ulcerative Colitis	enterococcus
+Ulcerative Colitis	erysipelatoclostridium
+Ulcerative Colitis	erysipelotrichaceae
+Ulcerative Colitis	escherichia
+Ulcerative Colitis	eubacterium
+Ulcerative Colitis	faecalibacterium
+Ulcerative Colitis	faecalicoccus
+Ulcerative Colitis	flavonifractor
+Ulcerative Colitis	fusicatenibacter
+Ulcerative Colitis	fusobacteria
+Ulcerative Colitis	fusobacterium
+Ulcerative Colitis	gardnerella
+Ulcerative Colitis	gemella
+Ulcerative Colitis	gemmiger
+Ulcerative Colitis	haemophilus
+Ulcerative Colitis	hanseniaspora
+Ulcerative Colitis	helicobacter
+Ulcerative Colitis	lachnobacterium
+Ulcerative Colitis	lachnospira
+Ulcerative Colitis	lachnospiraceae
+Ulcerative Colitis	lactobacillales
+Ulcerative Colitis	lactobacillus
+Ulcerative Colitis	leptotrichia
+Ulcerative Colitis	leuconostocaceae
+Ulcerative Colitis	leucosporidium
+Ulcerative Colitis	methanobrevibacter
+Ulcerative Colitis	mitsuokella
+Ulcerative Colitis	mogibacterium
+Ulcerative Colitis	naganishia
+Ulcerative Colitis	neisseria
+Ulcerative Colitis	odoribacter
+Ulcerative Colitis	oscillospira
+Ulcerative Colitis	oxalobacter
+Ulcerative Colitis	paracoccus
+Ulcerative Colitis	parvimonas
+Ulcerative Colitis	peptococcus
+Ulcerative Colitis	peptostreptococcaceae
+Ulcerative Colitis	peptostreptococcus
+Ulcerative Colitis	phascolarctobacterium
+Ulcerative Colitis	prevotella
+Ulcerative Colitis	pseudomonas
+Ulcerative Colitis	pseudoxanthomonas
+Ulcerative Colitis	rikenellaceae
+Ulcerative Colitis	roseburia
+Ulcerative Colitis	rothia
+Ulcerative Colitis	ruminococcaceae
+Ulcerative Colitis	ruminococcus
+Ulcerative Colitis	shigella
+Ulcerative Colitis	sporobacter
+Ulcerative Colitis	staphylococcus
+Ulcerative Colitis	streptococcus
+Ulcerative Colitis	sutterella
+Ulcerative Colitis	synergistes
+Ulcerative Colitis	synergistetes
+Ulcerative Colitis	tissierellaceae
+Ulcerative Colitis	turicibacter
+Ulcerative Colitis	tyzzerella
+Ulcerative Colitis	veillonella
+Ulcerative Colitis	vivictivallis
+Ulcerative Colitis	wallemia
+Urogenital Schistosomiasis	acinetobacter
+Urogenital Schistosomiasis	aerococcus
+Urogenital Schistosomiasis	alloprevotella
+Urogenital Schistosomiasis	bacillus
+Urogenital Schistosomiasis	bacteroides
+Urogenital Schistosomiasis	coriobacteriaceae
+Urogenital Schistosomiasis	desulfovibrio
+Urogenital Schistosomiasis	dialister
+Urogenital Schistosomiasis	enterobacteriaceae
+Urogenital Schistosomiasis	enterococcus
+Urogenital Schistosomiasis	erysipelotrichaceae
+Urogenital Schistosomiasis	fusobacterium
+Urogenital Schistosomiasis	haemophilus
+Urogenital Schistosomiasis	janthinobacterium
+Urogenital Schistosomiasis	lactobacillus
+Urogenital Schistosomiasis	megasphaera
+Urogenital Schistosomiasis	olsenella
+Urogenital Schistosomiasis	parabacteroides
+Urogenital Schistosomiasis	peptococcus
+Urogenital Schistosomiasis	peptostreptococcaceae
+Urogenital Schistosomiasis	prevotella
+Urogenital Schistosomiasis	ruminococcaceae
+Urogenital Schistosomiasis	staphylococcus
+Urogenital Schistosomiasis	subdoligranulum
+Urogenital Schistosomiasis	veillonella
+Urogenital Schistosomiasis	weissella
+Uveitits	aspergillus
+Uveitits	bacteroides
+Uveitits	barnesiellaceae
+Uveitits	blautia
+Uveitits	burkholderia
+Uveitits	candida
+Uveitits	clostridium
+Uveitits	desulfobulbus
+Uveitits	dorea
+Uveitits	erysipelotrichaceae
+Uveitits	faecalibacterium
+Uveitits	gibberella
+Uveitits	granulicatella
+Uveitits	halomonas
+Uveitits	lachnospira
+Uveitits	lachnospiraceae
+Uveitits	malassezia
+Uveitits	mortierella
+Uveitits	odoribacter
+Uveitits	paraprevotella
+Uveitits	pleosporales
+Uveitits	prevotella
+Uveitits	pseudomonas
+Uveitits	pseudoxanthomonas
+Uveitits	roseburia
+Uveitits	ruminococcus
+Uveitits	saccharomyces
+Uveitits	selenomonas
+Uveitits	streptococcus
+Uveitits	veillonella
+periodontitis	abiotrophia
+periodontitis	acidaminococcus
+periodontitis	acinetobacter
+periodontitis	actinomyces
+periodontitis	aggregatibacter
+periodontitis	alloprevotella
+periodontitis	bacteroidales
+periodontitis	bacteroidetes
+periodontitis	bergeyella
+periodontitis	brevundimonas
+periodontitis	bulleidia
+periodontitis	burkholderia
+periodontitis	campylobacter
+periodontitis	candida
+periodontitis	capnocytophaga
+periodontitis	cardiobacterium
+periodontitis	corynebacterium
+periodontitis	desulfobulbus
+periodontitis	dialister
+periodontitis	dysgonomonas
+periodontitis	eikenella
+periodontitis	eubacterium
+periodontitis	filifactor
+periodontitis	fretibacterium
+periodontitis	fusobacterium
+periodontitis	gemella
+periodontitis	granulicatella
+periodontitis	haemophilus
+periodontitis	johnsonella
+periodontitis	klebsiella
+periodontitis	lachnospiraceae
+periodontitis	lautropia
+periodontitis	leptotrichia
+periodontitis	mannheimia
+periodontitis	mogibacterium
+periodontitis	mycoplasma
+periodontitis	neisseria
+periodontitis	paludibacter
+periodontitis	parvimonas
+periodontitis	peptoniphilus
+periodontitis	peptostreptococcaceae
+periodontitis	peptostreptococcus
+periodontitis	porphyromonas
+periodontitis	prevotella
+periodontitis	propionibacteriaceae
+periodontitis	propionibacterium
+periodontitis	pseudomonas
+periodontitis	pseudoramibacter
+periodontitis	rothia
+periodontitis	selenomonas
+periodontitis	shuttleworthia
+periodontitis	sneathia
+periodontitis	sphingobacterium
+periodontitis	staphylococcus
+periodontitis	streptococcus
+periodontitis	synergistes
+periodontitis	synergistetes
+periodontitis	tanerella
+periodontitis	tannerella
+periodontitis	tm
+periodontitis	treponema
+periodontitis	veillonella

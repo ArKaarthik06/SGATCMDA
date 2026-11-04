@@ -1,0 +1,21 @@
+Device : cpu
+✅ Imports done.
+Diseases : 39
+Microbes : 292
+Positive pairs : 450
+Negative pairs : 10938
+Density        : 3.95%
+SD : (39, 39)  SM : (292, 292)
+✅ Similarities computed from full A (standard protocol).
+✅ Graph utilities defined.
+✅ Model classes defined.
+   SGAT_CLMDA        : Full model (parallel GCN+GAT, contrastive)
+   SGAT_CLMDA        : use_contrastive=False → ablation without CL
+   SGAT_CLMDA_GCNOnly: ablation GCN-only
+✅ Loss functions defined.
+perfold_masked seed=42 fold=1 AUC=0.8157 AUPR=0.7663 epochs=400
+perfold_masked seed=42 fold=2 AUC=0.8656 AUPR=0.8517 epochs=258
+perfold_masked seed=42 fold=3 AUC=0.8596 AUPR=0.8066 epochs=400
+perfold_masked seed=42 fold=4 AUC=0.8564 AUPR=0.8448 epochs=400
+perfold_masked seed=42 fold=5 AUC=0.8701 AUPR=0.8629 epochs=400
+perfold_masked: AUC 0.8535 ± 0.0195  AUPR 0.8265 ± 0.0355

@@ -1,0 +1,5 @@
+123 0 {'released': 0.938, 'heldout_negs': 0.908, 'cos_full+heldout': 0.907, 'cos_fold+heldout': 0.884}
+123 1 {'released': 0.96, 'heldout_negs': 0.932, 'cos_full+heldout': 0.928, 'cos_fold+heldout': 0.906}
+123 2 {'released': 0.954, 'heldout_negs': 0.92, 'cos_full+heldout': 0.921, 'cos_fold+heldout': 0.892}
+123 3 {'released': 0.959, 'heldout_negs': 0.927, 'cos_full+heldout': 0.924, 'cos_fold+heldout': 0.899}
+123 4 {'released': 0.955, 'heldout_negs': 0.92, 'cos_full+heldout': 0.919, 'cos_fold+heldout': 0.896}

@@ -1,0 +1,150 @@
+CL none|mask0.5|42|0 AUC=0.8553 AUPR=0.8125 150ms/ep
+CL disease only|mask0.5|42|0 AUC=0.8651 AUPR=0.8108 136ms/ep
+CL microbe only|mask0.5|42|0 AUC=0.8557 AUPR=0.8200 134ms/ep
+CL both, tau_cl=0.1|mask0.5|42|0 AUC=0.8533 AUPR=0.8123 139ms/ep
+CL both, tau_cl=0.2|mask0.5|42|0 AUC=0.8433 AUPR=0.8042 137ms/ep
+CL both, tau_cl=1.0|mask0.5|42|0 AUC=0.8483 AUPR=0.7976 138ms/ep
+CL none|mask0.5|42|1 AUC=0.8188 AUPR=0.7623 133ms/ep
+CL disease only|mask0.5|42|1 AUC=0.7964 AUPR=0.7388 134ms/ep
+CL microbe only|mask0.5|42|1 AUC=0.8297 AUPR=0.7643 137ms/ep
+CL both, tau_cl=0.1|mask0.5|42|1 AUC=0.8048 AUPR=0.7530 137ms/ep
+CL both, tau_cl=0.2|mask0.5|42|1 AUC=0.8167 AUPR=0.7609 139ms/ep
+CL both, tau_cl=1.0|mask0.5|42|1 AUC=0.8106 AUPR=0.7367 144ms/ep
+CL none|mask0.5|42|2 AUC=0.8654 AUPR=0.8297 135ms/ep
+CL disease only|mask0.5|42|2 AUC=0.8796 AUPR=0.8598 135ms/ep
+CL microbe only|mask0.5|42|2 AUC=0.8716 AUPR=0.8678 142ms/ep
+CL both, tau_cl=0.1|mask0.5|42|2 AUC=0.8674 AUPR=0.8430 138ms/ep
+CL both, tau_cl=0.2|mask0.5|42|2 AUC=0.8522 AUPR=0.8393 138ms/ep
+CL both, tau_cl=1.0|mask0.5|42|2 AUC=0.8385 AUPR=0.8224 137ms/ep
+CL none|mask0.5|42|3 AUC=0.8779 AUPR=0.8742 135ms/ep
+CL disease only|mask0.5|42|3 AUC=0.8815 AUPR=0.8665 134ms/ep
+CL microbe only|mask0.5|42|3 AUC=0.8643 AUPR=0.8562 138ms/ep
+CL both, tau_cl=0.1|mask0.5|42|3 AUC=0.8583 AUPR=0.8411 140ms/ep
+CL both, tau_cl=0.2|mask0.5|42|3 AUC=0.8835 AUPR=0.8624 136ms/ep
+CL both, tau_cl=1.0|mask0.5|42|3 AUC=0.8856 AUPR=0.8814 134ms/ep
+CL none|mask0.5|42|4 AUC=0.8505 AUPR=0.8396 132ms/ep
+CL disease only|mask0.5|42|4 AUC=0.8698 AUPR=0.8783 132ms/ep
+CL microbe only|mask0.5|42|4 AUC=0.8344 AUPR=0.8311 139ms/ep
+CL both, tau_cl=0.1|mask0.5|42|4 AUC=0.8474 AUPR=0.8542 141ms/ep
+CL both, tau_cl=0.2|mask0.5|42|4 AUC=0.8496 AUPR=0.8603 142ms/ep
+CL both, tau_cl=1.0|mask0.5|42|4 AUC=0.8614 AUPR=0.8446 144ms/ep
+CL none|mask0.5|123|0 AUC=0.8178 AUPR=0.7712 138ms/ep
+CL disease only|mask0.5|123|0 AUC=0.8299 AUPR=0.7827 142ms/ep
+CL microbe only|mask0.5|123|0 AUC=0.8372 AUPR=0.8209 144ms/ep
+CL both, tau_cl=0.1|mask0.5|123|0 AUC=0.8286 AUPR=0.8035 136ms/ep
+CL both, tau_cl=0.2|mask0.5|123|0 AUC=0.8221 AUPR=0.7859 139ms/ep
+CL both, tau_cl=1.0|mask0.5|123|0 AUC=0.8333 AUPR=0.8353 140ms/ep
+CL none|mask0.5|123|1 AUC=0.8577 AUPR=0.8517 136ms/ep
+CL disease only|mask0.5|123|1 AUC=0.8618 AUPR=0.8624 139ms/ep
+CL microbe only|mask0.5|123|1 AUC=0.8369 AUPR=0.8193 135ms/ep
+CL both, tau_cl=0.1|mask0.5|123|1 AUC=0.8527 AUPR=0.8416 148ms/ep
+CL both, tau_cl=0.2|mask0.5|123|1 AUC=0.8728 AUPR=0.8655 147ms/ep
+CL both, tau_cl=1.0|mask0.5|123|1 AUC=0.8534 AUPR=0.8499 149ms/ep
+CL none|mask0.5|123|2 AUC=0.8046 AUPR=0.7652 136ms/ep
+CL disease only|mask0.5|123|2 AUC=0.8106 AUPR=0.7836 146ms/ep
+CL microbe only|mask0.5|123|2 AUC=0.7810 AUPR=0.7624 141ms/ep
+CL both, tau_cl=0.1|mask0.5|123|2 AUC=0.7906 AUPR=0.7624 141ms/ep
+CL both, tau_cl=0.2|mask0.5|123|2 AUC=0.8028 AUPR=0.7887 140ms/ep
+CL both, tau_cl=1.0|mask0.5|123|2 AUC=0.7924 AUPR=0.7525 141ms/ep
+CL none|mask0.5|123|3 AUC=0.8246 AUPR=0.8122 135ms/ep
+CL disease only|mask0.5|123|3 AUC=0.8515 AUPR=0.8345 134ms/ep
+CL microbe only|mask0.5|123|3 AUC=0.8527 AUPR=0.8281 137ms/ep
+CL both, tau_cl=0.1|mask0.5|123|3 AUC=0.8469 AUPR=0.8233 141ms/ep
+CL both, tau_cl=0.2|mask0.5|123|3 AUC=0.8360 AUPR=0.8364 138ms/ep
+CL both, tau_cl=1.0|mask0.5|123|3 AUC=0.8506 AUPR=0.8401 140ms/ep
+CL none|mask0.5|123|4 AUC=0.8506 AUPR=0.8191 143ms/ep
+CL disease only|mask0.5|123|4 AUC=0.8507 AUPR=0.8062 138ms/ep
+CL microbe only|mask0.5|123|4 AUC=0.8350 AUPR=0.8060 135ms/ep
+CL both, tau_cl=0.1|mask0.5|123|4 AUC=0.8463 AUPR=0.8014 138ms/ep
+CL both, tau_cl=0.2|mask0.5|123|4 AUC=0.8815 AUPR=0.8308 133ms/ep
+CL both, tau_cl=1.0|mask0.5|123|4 AUC=0.8619 AUPR=0.8140 131ms/ep
+CL none|mask0.5|456|0 AUC=0.8644 AUPR=0.8705 128ms/ep
+CL disease only|mask0.5|456|0 AUC=0.8838 AUPR=0.8869 129ms/ep
+CL microbe only|mask0.5|456|0 AUC=0.8757 AUPR=0.8926 133ms/ep
+CL both, tau_cl=0.1|mask0.5|456|0 AUC=0.8656 AUPR=0.8732 134ms/ep
+CL both, tau_cl=0.2|mask0.5|456|0 AUC=0.8652 AUPR=0.8533 134ms/ep
+CL both, tau_cl=1.0|mask0.5|456|0 AUC=0.8652 AUPR=0.8736 134ms/ep
+CL none|mask0.5|456|1 AUC=0.8235 AUPR=0.7743 130ms/ep
+CL disease only|mask0.5|456|1 AUC=0.8204 AUPR=0.7812 132ms/ep
+CL microbe only|mask0.5|456|1 AUC=0.8436 AUPR=0.7989 138ms/ep
+CL both, tau_cl=0.1|mask0.5|456|1 AUC=0.8314 AUPR=0.7977 144ms/ep
+CL both, tau_cl=0.2|mask0.5|456|1 AUC=0.8296 AUPR=0.7789 141ms/ep
+CL both, tau_cl=1.0|mask0.5|456|1 AUC=0.8315 AUPR=0.8021 143ms/ep
+CL none|mask0.5|456|2 AUC=0.9015 AUPR=0.8864 137ms/ep
+CL disease only|mask0.5|456|2 AUC=0.8866 AUPR=0.8745 136ms/ep
+CL microbe only|mask0.5|456|2 AUC=0.8552 AUPR=0.8454 141ms/ep
+CL both, tau_cl=0.1|mask0.5|456|2 AUC=0.8346 AUPR=0.8054 140ms/ep
+CL both, tau_cl=0.2|mask0.5|456|2 AUC=0.8692 AUPR=0.8556 135ms/ep
+CL both, tau_cl=1.0|mask0.5|456|2 AUC=0.8620 AUPR=0.8396 142ms/ep
+CL none|mask0.5|456|3 AUC=0.8526 AUPR=0.7966 135ms/ep
+CL disease only|mask0.5|456|3 AUC=0.8556 AUPR=0.8184 137ms/ep
+CL microbe only|mask0.5|456|3 AUC=0.7647 AUPR=0.7471 140ms/ep
+CL both, tau_cl=0.1|mask0.5|456|3 AUC=0.8665 AUPR=0.8687 141ms/ep
+CL both, tau_cl=0.2|mask0.5|456|3 AUC=0.8554 AUPR=0.8409 135ms/ep
+CL both, tau_cl=1.0|mask0.5|456|3 AUC=0.8333 AUPR=0.7730 144ms/ep
+CL none|mask0.5|456|4 AUC=0.8269 AUPR=0.8189 136ms/ep
+CL disease only|mask0.5|456|4 AUC=0.8226 AUPR=0.8209 139ms/ep
+CL microbe only|mask0.5|456|4 AUC=0.8372 AUPR=0.8251 144ms/ep
+CL both, tau_cl=0.1|mask0.5|456|4 AUC=0.8322 AUPR=0.8220 141ms/ep
+CL both, tau_cl=0.2|mask0.5|456|4 AUC=0.8372 AUPR=0.8127 144ms/ep
+CL both, tau_cl=1.0|mask0.5|456|4 AUC=0.8238 AUPR=0.8212 141ms/ep
+CL none|mask0.5|789|0 AUC=0.8619 AUPR=0.8594 136ms/ep
+CL disease only|mask0.5|789|0 AUC=0.8498 AUPR=0.8451 137ms/ep
+CL microbe only|mask0.5|789|0 AUC=0.8617 AUPR=0.8734 143ms/ep
+CL both, tau_cl=0.1|mask0.5|789|0 AUC=0.8804 AUPR=0.8941 142ms/ep
+CL both, tau_cl=0.2|mask0.5|789|0 AUC=0.8589 AUPR=0.8679 136ms/ep
+CL both, tau_cl=1.0|mask0.5|789|0 AUC=0.8280 AUPR=0.8196 136ms/ep
+CL none|mask0.5|789|1 AUC=0.7925 AUPR=0.7819 137ms/ep
+CL disease only|mask0.5|789|1 AUC=0.8135 AUPR=0.7960 142ms/ep
+CL microbe only|mask0.5|789|1 AUC=0.8016 AUPR=0.7835 149ms/ep
+CL both, tau_cl=0.1|mask0.5|789|1 AUC=0.8115 AUPR=0.7890 144ms/ep
+CL both, tau_cl=0.2|mask0.5|789|1 AUC=0.8148 AUPR=0.7899 147ms/ep
+CL both, tau_cl=1.0|mask0.5|789|1 AUC=0.8077 AUPR=0.7985 140ms/ep
+CL none|mask0.5|789|2 AUC=0.8556 AUPR=0.8302 145ms/ep
+CL disease only|mask0.5|789|2 AUC=0.8412 AUPR=0.8194 139ms/ep
+CL microbe only|mask0.5|789|2 AUC=0.8341 AUPR=0.8180 142ms/ep
+CL both, tau_cl=0.1|mask0.5|789|2 AUC=0.8549 AUPR=0.8393 152ms/ep
+CL both, tau_cl=0.2|mask0.5|789|2 AUC=0.8398 AUPR=0.8193 156ms/ep
+CL both, tau_cl=1.0|mask0.5|789|2 AUC=0.8476 AUPR=0.8358 150ms/ep
+CL none|mask0.5|789|3 AUC=0.8843 AUPR=0.8763 153ms/ep
+CL disease only|mask0.5|789|3 AUC=0.8578 AUPR=0.8073 154ms/ep
+CL microbe only|mask0.5|789|3 AUC=0.8641 AUPR=0.8760 151ms/ep
+CL both, tau_cl=0.1|mask0.5|789|3 AUC=0.8839 AUPR=0.8907 151ms/ep
+CL both, tau_cl=0.2|mask0.5|789|3 AUC=0.8602 AUPR=0.8742 161ms/ep
+CL both, tau_cl=1.0|mask0.5|789|3 AUC=0.8808 AUPR=0.8396 176ms/ep
+CL none|mask0.5|789|4 AUC=0.9024 AUPR=0.9063 172ms/ep
+CL disease only|mask0.5|789|4 AUC=0.9060 AUPR=0.9082 159ms/ep
+CL microbe only|mask0.5|789|4 AUC=0.8930 AUPR=0.8919 181ms/ep
+CL both, tau_cl=0.1|mask0.5|789|4 AUC=0.9059 AUPR=0.9023 183ms/ep
+CL both, tau_cl=0.2|mask0.5|789|4 AUC=0.9078 AUPR=0.9087 180ms/ep
+CL both, tau_cl=1.0|mask0.5|789|4 AUC=0.8984 AUPR=0.9095 186ms/ep
+CL none|mask0.5|2024|0 AUC=0.8490 AUPR=0.8083 181ms/ep
+CL disease only|mask0.5|2024|0 AUC=0.8520 AUPR=0.8002 159ms/ep
+CL microbe only|mask0.5|2024|0 AUC=0.8494 AUPR=0.8195 178ms/ep
+CL both, tau_cl=0.1|mask0.5|2024|0 AUC=0.8237 AUPR=0.7830 175ms/ep
+CL both, tau_cl=0.2|mask0.5|2024|0 AUC=0.8512 AUPR=0.8068 203ms/ep
+CL both, tau_cl=1.0|mask0.5|2024|0 AUC=0.8472 AUPR=0.8035 159ms/ep
+CL none|mask0.5|2024|1 AUC=0.8314 AUPR=0.7908 190ms/ep
+CL disease only|mask0.5|2024|1 AUC=0.8466 AUPR=0.7693 175ms/ep
+CL microbe only|mask0.5|2024|1 AUC=0.8820 AUPR=0.8675 181ms/ep
+CL both, tau_cl=0.1|mask0.5|2024|1 AUC=0.8474 AUPR=0.7805 191ms/ep
+CL both, tau_cl=0.2|mask0.5|2024|1 AUC=0.8463 AUPR=0.7675 168ms/ep
+CL both, tau_cl=1.0|mask0.5|2024|1 AUC=0.8478 AUPR=0.7969 203ms/ep
+CL none|mask0.5|2024|2 AUC=0.8360 AUPR=0.8586 160ms/ep
+CL disease only|mask0.5|2024|2 AUC=0.8525 AUPR=0.8442 175ms/ep
+CL microbe only|mask0.5|2024|2 AUC=0.8660 AUPR=0.8602 152ms/ep
+CL both, tau_cl=0.1|mask0.5|2024|2 AUC=0.8577 AUPR=0.8500 147ms/ep
+CL both, tau_cl=0.2|mask0.5|2024|2 AUC=0.8579 AUPR=0.8400 152ms/ep
+CL both, tau_cl=1.0|mask0.5|2024|2 AUC=0.8319 AUPR=0.8555 141ms/ep
+CL none|mask0.5|2024|3 AUC=0.8297 AUPR=0.7986 140ms/ep
+CL disease only|mask0.5|2024|3 AUC=0.8302 AUPR=0.8113 142ms/ep
+CL microbe only|mask0.5|2024|3 AUC=0.8381 AUPR=0.8105 145ms/ep
+CL both, tau_cl=0.1|mask0.5|2024|3 AUC=0.8283 AUPR=0.8092 142ms/ep
+CL both, tau_cl=0.2|mask0.5|2024|3 AUC=0.8190 AUPR=0.7952 140ms/ep
+CL both, tau_cl=1.0|mask0.5|2024|3 AUC=0.8396 AUPR=0.8036 137ms/ep
+CL none|mask0.5|2024|4 AUC=0.8707 AUPR=0.8457 140ms/ep
+CL disease only|mask0.5|2024|4 AUC=0.8272 AUPR=0.7997 133ms/ep
+CL microbe only|mask0.5|2024|4 AUC=0.8471 AUPR=0.8292 142ms/ep
+CL both, tau_cl=0.1|mask0.5|2024|4 AUC=0.8419 AUPR=0.8077 139ms/ep
+CL both, tau_cl=0.2|mask0.5|2024|4 AUC=0.8330 AUPR=0.7963 139ms/ep
+CL both, tau_cl=1.0|mask0.5|2024|4 AUC=0.8491 AUPR=0.8063 147ms/ep

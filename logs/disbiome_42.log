@@ -1,0 +1,6 @@
+Disbiome subset: {'num_diseases': 196, 'num_microbes': 333, 'num_associations': 5742, 'sparsity_density_pct': 8.79757308959961, 'num_negative_pairs': 59526}
+42|0 {'leaky': 0.838, 'honest': 0.821, 'masked': 0.823, 'cf': 0.737, 'final': 0.818}
+42|1 {'leaky': 0.813, 'honest': 0.817, 'masked': 0.816, 'cf': 0.73, 'final': 0.823}
+42|2 {'leaky': 0.814, 'honest': 0.799, 'masked': 0.811, 'cf': 0.747, 'final': 0.821}
+42|3 {'leaky': 0.851, 'honest': 0.837, 'masked': 0.841, 'cf': 0.751, 'final': 0.843}
+42|4 {'leaky': 0.828, 'honest': 0.817, 'masked': 0.827, 'cf': 0.745, 'final': 0.831}
